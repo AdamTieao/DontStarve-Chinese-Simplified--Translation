@@ -4,1157 +4,1157 @@
 #. STRINGS.PIG_TALK_HELP_CHOP_WOOD.1
 msgctxt "STRINGS.PIG_TALK_HELP_CHOP_WOOD.1"
 msgid "KILL TREE!"
-msgstr "撸 树 ！"
+msgstr "撸 树 ！ "
 
 #. STRINGS.PIG_TALK_HELP_CHOP_WOOD.2
 msgctxt "STRINGS.PIG_TALK_HELP_CHOP_WOOD.2"
 msgid "SMASH MEAN TREE!"
-msgstr "把 树 撸 碎 ！"
+msgstr "把 树 撸 碎 ！ "
 
 #. STRINGS.PIG_TALK_HELP_CHOP_WOOD.3
 msgctxt "STRINGS.PIG_TALK_HELP_CHOP_WOOD.3"
 msgid "I PUNCH TREE!"
-msgstr "大 力 撸 树 ！"
+msgstr "大 力 撸 树 ！ "
 
 #. STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.HIT.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.HIT.ONE"
 msgid "The throne won't allow that. I've tried."
-msgstr "王 座 不 让 ， 我 试 过 了 。"
+msgstr "王 座 不 让 ， 我 试 过 了 。 "
 
 #. STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHOFF.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHOFF.ONE"
 msgid "Thank you. I have been listening to that song for an eternity."
-msgstr "谢 谢 你 ， 那 首 歌 我 听 好 久 了 。"
+msgstr "谢 谢 你 ， 那 首 歌 我 听 好 久 了 。 "
 
 #. STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.NOUNLOCK.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.NOUNLOCK.ONE"
 msgid "Ah, I am a fool. I had dared to hope."
-msgstr "啊 ， 我 真 傻 ， 竟 然 还 抱 有 希 望 。"
+msgstr "啊 ， 我 真 傻 ， 竟 然 还 抱 有 希 望 。 "
 
 #. STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHON.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.PHONOGRAPHON.ONE"
 msgid "I guess I deserve that."
-msgstr "我 想 这 是 我 应 得 的 。"
+msgstr "我 想 这 是 我 应 得 的 。 "
 
 #. STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.INTRO.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTURETHRONE.LEVEL_6.INTRO.ONE"
 msgid "Is this how it ends?"
-msgstr "就 这 么 结 束 了 ？"
+msgstr "就 这 么 结 束 了 ？ "
 
 #. STRINGS.PIG_TALK_FIND_MEAT.1
 msgctxt "STRINGS.PIG_TALK_FIND_MEAT.1"
 msgid "ME HUNGRY!"
-msgstr "我 饿 了 ！"
+msgstr "我 饿 了 ！ "
 
 #. STRINGS.PIG_TALK_FIND_MEAT.2
 msgctxt "STRINGS.PIG_TALK_FIND_MEAT.2"
 msgid "YUM!"
-msgstr "好 吃 的 ！"
+msgstr "好 吃 的 ！ "
 
 #. STRINGS.PIG_TALK_FIND_MEAT.3
 msgctxt "STRINGS.PIG_TALK_FIND_MEAT.3"
 msgid "I EAT FOOD!"
-msgstr "吃 东 西 ！"
+msgstr "吃 东 西 ！ "
 
 #. STRINGS.PIG_TALK_FIND_MEAT.4
 msgctxt "STRINGS.PIG_TALK_FIND_MEAT.4"
 msgid "TIME FOR FOOD!"
-msgstr "用 餐 时 间 到 ！"
+msgstr "用 餐 时 间 到 ！ "
 
 #. STRINGS.SWAP
 msgctxt "STRINGS.SWAP"
 msgid "Swap"
-msgstr "交 换"
+msgstr "交 换 "
 
 #. STRINGS.PIG_GUARD_TALK_TORCH.1
 msgctxt "STRINGS.PIG_GUARD_TALK_TORCH.1"
 msgid "TORCH GET LOW"
-msgstr "火 把 快 灭 了"
+msgstr "火 把 快 灭 了 "
 
 #. STRINGS.PIG_GUARD_TALK_TORCH.2
 msgctxt "STRINGS.PIG_GUARD_TALK_TORCH.2"
 msgid "MAKE TORCH BRIGHT"
-msgstr "点 亮 火 把"
+msgstr "点 亮 火 把 "
 
 #. STRINGS.PIG_GUARD_TALK_TORCH.3
 msgctxt "STRINGS.PIG_GUARD_TALK_TORCH.3"
 msgid "MORE BURNING"
-msgstr "烧 得 更 旺"
+msgstr "烧 得 更 旺 "
 
 #. STRINGS.PIG_GUARD_TALK_LOOKATWILSON.1
 msgctxt "STRINGS.PIG_GUARD_TALK_LOOKATWILSON.1"
 msgid "YOU LEAVE NOW"
-msgstr ""
+msgstr "你 快 离 开 "
 
 #. STRINGS.PIG_GUARD_TALK_LOOKATWILSON.2
 msgctxt "STRINGS.PIG_GUARD_TALK_LOOKATWILSON.2"
 msgid "YOU GO AWAY"
-msgstr ""
+msgstr "赶 紧 走 "
 
 #. STRINGS.PIG_GUARD_TALK_LOOKATWILSON.3
 msgctxt "STRINGS.PIG_GUARD_TALK_LOOKATWILSON.3"
 msgid "YOU NO STAY"
-msgstr ""
+msgstr "别 在 这 呆 着 "
 
 #. STRINGS.RABBIT_RETREAT.1
 msgctxt "STRINGS.RABBIT_RETREAT.1"
 msgid "AWAY!"
-msgstr ""
+msgstr "滚 开 ！ "
 
 #. STRINGS.RABBIT_RETREAT.2
 msgctxt "STRINGS.RABBIT_RETREAT.2"
 msgid "HURT!"
-msgstr ""
+msgstr "好 痛 ！ "
 
 #. STRINGS.RABBIT_RETREAT.3
 msgctxt "STRINGS.RABBIT_RETREAT.3"
 msgid "HOME!"
-msgstr ""
+msgstr "家 ！ "
 
 #. STRINGS.RABBIT_RETREAT.4
 msgctxt "STRINGS.RABBIT_RETREAT.4"
 msgid "RUN!"
-msgstr ""
+msgstr "快 跑 ！ "
 
 #. STRINGS.INSPECTMOD
 msgctxt "STRINGS.INSPECTMOD"
 msgid "Inspect"
-msgstr ""
+msgstr "查 看 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_4.THREE
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_4.THREE"
 msgid "Turn back now, or I may have to resort to drastic mesaures."
-msgstr ""
+msgstr "快 回 去 ， 否 则 我 就 不 客 气 了 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_4.TWO
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_4.TWO"
 msgid "You're really pushing your luck."
-msgstr ""
+msgstr "你 真 得 寸 进 尺 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_4.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_4.ONE"
 msgid "Say, pal."
-msgstr ""
+msgstr "说 吧 ， 朋 友 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.TWOLANDS.THREE
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.TWOLANDS.THREE"
 msgid "I'll give you food, gold, pigs, whatever you need."
-msgstr ""
+msgstr "食 物 ， 黄 金 ， 猪 ， 要 什 么 我 给 你 什 么 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.TWOLANDS.TWO
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.TWOLANDS.TWO"
 msgid "Let's make a deal. You can stay here. Settle down, even."
-msgstr ""
+msgstr "咱 们 做 个 交 易 ， 你 可 以 留 在 这 ， 甚 至 定 居 下 来 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.TWOLANDS.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.TWOLANDS.ONE"
 msgid "Say, pal."
-msgstr ""
+msgstr "说 吧 ， 朋 友 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.TWOLANDS.FOUR
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.TWOLANDS.FOUR"
 msgid "All I want in return is a truce."
-msgstr ""
+msgstr " 我 只 想 换 来 一 份 停 战 协 议 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.TWO
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.TWO"
 msgid "You found me. Now, what are you going to do?"
-msgstr ""
+msgstr "你 找 到 了 我 ， 现 在 你 打 算 怎 么 办 ？ "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.ONE"
 msgid "Well, this is it."
-msgstr ""
+msgstr "好 吧 ， 就 这 样 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.1
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.1"
 msgid "Where would be the sport in that?"
-msgstr ""
+msgstr "这 样 做 的 目 的 是 什 么 ？ "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.2
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.COMBATFAIL.2"
 msgid "Who do you think allowed you to make that?"
-msgstr ""
+msgstr "谁 让 你 这 么 做 的 ？ "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL2
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL2"
 msgid "This is the end of the line. We have no escape."
-msgstr ""
+msgstr "到 头 了 ， 我 们 逃 不 掉 了 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.1
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.1"
 msgid "Is this what you were expecting?"
-msgstr ""
+msgstr "你 故 意 的 吧 ？ "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.2
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.2"
 msgid "Forgive me if I don't get up."
-msgstr ""
+msgstr "万 一 我 起 不 来 ， 原 谅 我 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.3
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.3"
 msgid "You've been an interesting plaything, but I've grown tired of this game."
-msgstr ""
+msgstr "你 真 有 意 思 ， 但 是 我 已 经 玩 腻 了 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.4
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.4"
 msgid "Or maybe They've grown tired of me."
-msgstr ""
+msgstr "可 能 他 们 已 经 厌 倦 我 了 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.5
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.5"
 msgid "Heh. Took them long enough."
-msgstr ""
+msgstr "嘿 ， 他 们 花 了 足 够 长 的 时 间 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.6
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.6"
 msgid "They'll show you terrible, beautiful things."
-msgstr ""
+msgstr "他 们 会 给 你 看 可 怕 而 又 美 丽 的 东 西 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.7
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.7"
 msgid "It will change you, like it did me."
-msgstr ""
+msgstr "它 会 改 变 你 ， 就 像 改 变 了 我 那 样 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.8
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.8"
 msgid "It's best not to fight it."
-msgstr ""
+msgstr "最 好 别 跟 它 干 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.9
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.9"
 msgid "There wasn't much here when I showed up."
-msgstr ""
+msgstr "我 出 现 的 时 候 好 像 没 多 少 了 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.10
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.10"
 msgid "Just dust. And the void. And Them."
-msgstr ""
+msgstr "只 有 灰 尘 ， 空 虚 ， 还 有 他 们 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.11
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.11"
 msgid "I've learned so much since then. I've built so much."
-msgstr ""
+msgstr "从 那 以 后 我 学 到 了 很 多 ， 也 建 造 了 很 多 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.12
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.12"
 msgid "But even a King is bound to the board."
-msgstr ""
+msgstr "即 便 是 国 王 也 无 能 为 力 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.13
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.13"
 msgid "You can't change the rules of the game."
-msgstr ""
+msgstr "你 根 本 无 法 改 变 游 戏 规 则 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.14
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.14"
 msgid "I don't know what they want. They... they just watch."
-msgstr ""
+msgstr "鬼 知 道 他 们 要 干 什 么 ， 看 个 没 完 没 了 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.15
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.15"
 msgid "Unless you get too close. Then..."
-msgstr ""
+msgstr "除 非 你 靠 得 太 近 ， 然 后 …… "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.16
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.16"
 msgid "Well, there's a reason I stay so dapper."
-msgstr ""
+msgstr "那 个 ， 就 一 个 原 因 让 我 如 此 敏 捷 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.17
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.17"
 msgid "What year is it out there? Time moves differently here."
-msgstr ""
+msgstr "那 边 是 哪 一 年 ？ 跟 这 里 好 像 不 太 一 样 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.18
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.18"
 msgid "Go on, stay a while. Keep us company."
-msgstr ""
+msgstr "继 续 ， 待 一 会 儿 ， 咱 们 做  个伴 儿 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.19
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.19"
 msgid "Or put the key in the box. It's your decision."
-msgstr ""
+msgstr "或 者 把 要 是 放 盒 子 里 ， 你 说 了 算 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.20
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.20"
 msgid "Either way, you're just delaying the inevitable."
-msgstr ""
+msgstr "无 论 怎 样 ， 你 都 只 是 在 推 迟 必 将 发 生 的 事 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.21
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.21"
 msgid "Reality is like that, sometimes."
-msgstr ""
+msgstr "有 时 候 ， 事 实 就 是 如 此 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.22
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.22"
 msgid "I think I've said enough."
-msgstr ""
+msgstr "我 想 我 说 的 够 多 了 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.23
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.CONVERSATION.23"
 msgid "..."
-msgstr ""
+msgstr "…… "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_6.TELEPORTFAIL"
 msgid "Don't you think I've tried that?"
-msgstr ""
+msgstr "你 不 觉 得 我 已 经 试 过 了 吗 ？ "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_5.THREE
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_5.THREE"
 msgid "You will regret coming any further..."
-msgstr ""
+msgstr "你 会 后 悔 的 …… "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_5.TWO
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_5.TWO"
 msgid "Do not arouse the wrath of the Great Maxwell!"
-msgstr ""
+msgstr "不 要 惹 恼 了 大 麦 克 斯 韦 ！ "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_5.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_5.ONE"
 msgid "You insolent, pitiful, insignificant ant!"
-msgstr ""
+msgstr "你 个 狂 妄 ， 可 怜 ， 不 值 一 提 的 小 蚂 蚁 ！ "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_1.THREE
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_1.THREE"
 msgid "Hmm. Let's try something a little more challenging, shall we?"
-msgstr ""
+msgstr "嗯 ， 试 试 更 有 挑 战 的 吧 ， 哦 不 ？ "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_1.TWO
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_1.TWO"
 msgid "You'd think you would have learned your lesson by now."
-msgstr ""
+msgstr "你 应 该 觉 得 吸 取 教 训 了 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_1.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_1.ONE"
 msgid "Oh, you found my portal did you?"
-msgstr ""
+msgstr "噢 ， 你 找 到 了 我 的 传 送 门 了 ， 是 不 ？ "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_2.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_2.ONE"
 msgid "Well would you look at that, you survived."
-msgstr ""
+msgstr "那 个 ， 你 看 看 ， 你 活 下 来 了 。 "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_2.TWO
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_2.TWO"
 msgid "One down, four to go!"
-msgstr ""
+msgstr "搞 定 一 个 ， 还 有 四 个 ！ "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_3.ONE
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_3.ONE"
 msgid "What? You're still here?"
-msgstr ""
+msgstr "啥 ？ 你 还 在 这 ？ "
 
 #. STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_3.TWO
 msgctxt "STRINGS.MAXWELL_ADVENTUREINTROS.LEVEL_3.TWO"
 msgid "Impressive. But you should probably stop while you're ahead."
-msgstr ""
+msgstr "不 错 。 但 是 领 先 的 时 候 你 得 停 下 来 。 "
 
 #. STRINGS.PIG_TALK_EAT_MEAT.1
 msgctxt "STRINGS.PIG_TALK_EAT_MEAT.1"
 msgid "NOM NOM NOM"
-msgstr ""
+msgstr "嗬 嗬 嗬 "
 
 #. STRINGS.PIG_TALK_EAT_MEAT.2
 msgctxt "STRINGS.PIG_TALK_EAT_MEAT.2"
 msgid "YUM!"
-msgstr ""
+msgstr "好 吃 ！ "
 
 #. STRINGS.RABBIT_BATTLECRY.1
 msgctxt "STRINGS.RABBIT_BATTLECRY.1"
 msgid "HOP!"
-msgstr ""
+msgstr "跳 ！ "
 
 #. STRINGS.RABBIT_BATTLECRY.2
 msgctxt "STRINGS.RABBIT_BATTLECRY.2"
 msgid "KILL!"
-msgstr ""
+msgstr "杀 ！ "
 
 #. STRINGS.RABBIT_BATTLECRY.3
 msgctxt "STRINGS.RABBIT_BATTLECRY.3"
 msgid "DIE!"
-msgstr ""
+msgstr "去 死 ！ "
 
 #. STRINGS.PIG_TALK_FIGHT.1
 msgctxt "STRINGS.PIG_TALK_FIGHT.1"
 msgid "I KILL NOW!"
-msgstr ""
+msgstr "我 杀 ！ "
 
 #. STRINGS.PIG_TALK_FIGHT.2
 msgctxt "STRINGS.PIG_TALK_FIGHT.2"
 msgid "YOU GO SMASH!"
-msgstr ""
+msgstr "你 死 定 了 ！ "
 
 #. STRINGS.PIG_TALK_FIGHT.3
 msgctxt "STRINGS.PIG_TALK_FIGHT.3"
 msgid "RAAAWR!"
-msgstr ""
+msgstr "嗷 ~ ~ ！ "
 
 #. STRINGS.PIG_TALK_FIND_LIGHT.1
 msgctxt "STRINGS.PIG_TALK_FIND_LIGHT.1"
 msgid "SCARY"
-msgstr ""
+msgstr "害 怕 "
 
 #. STRINGS.PIG_TALK_FIND_LIGHT.2
 msgctxt "STRINGS.PIG_TALK_FIND_LIGHT.2"
 msgid "NO LIKE DARK"
-msgstr ""
+msgstr "讨 厌 黑 暗 "
 
 #. STRINGS.PIG_TALK_FIND_LIGHT.3
 msgctxt "STRINGS.PIG_TALK_FIND_LIGHT.3"
 msgid "WHERE IS SUN?"
-msgstr ""
+msgstr "太 阳 去 哪 了 ？ "
 
 #. STRINGS.PIG_TALK_FIND_LIGHT.4
 msgctxt "STRINGS.PIG_TALK_FIND_LIGHT.4"
 msgid "STAY NEAR FIRE"
-msgstr ""
+msgstr "待 在 火 堆 旁 "
 
 #. STRINGS.PIG_TALK_FIND_LIGHT.5
 msgctxt "STRINGS.PIG_TALK_FIND_LIGHT.5"
 msgid "FIRE IS GOOD"
-msgstr ""
+msgstr "有 火 就 是 好 "
 
 #. STRINGS.CHARACTER_NAMES.wilson
 msgctxt "STRINGS.CHARACTER_NAMES.wilson"
 msgid "Wilson P. Higgsbury"
-msgstr ""
+msgstr "威 尔 逊 · P · 海 格 斯 贝 瑞 "
 
 #. STRINGS.CHARACTER_NAMES.wendy
 msgctxt "STRINGS.CHARACTER_NAMES.wendy"
 msgid "Wendy"
-msgstr ""
+msgstr "温 迪 "
 
 #. STRINGS.CHARACTER_NAMES.webber
 msgctxt "STRINGS.CHARACTER_NAMES.webber"
 msgid "Webber"
-msgstr ""
+msgstr "韦 伯 "
 
 #. STRINGS.CHARACTER_NAMES.willow
 msgctxt "STRINGS.CHARACTER_NAMES.willow"
 msgid "Willow"
-msgstr ""
+msgstr "薇 洛 "
 
 #. STRINGS.CHARACTER_NAMES.waxwell
 msgctxt "STRINGS.CHARACTER_NAMES.waxwell"
 msgid "Maxwell"
-msgstr ""
+msgstr "麦 克 斯 韦 "
 
 #. STRINGS.CHARACTER_NAMES.wickerbottom
 msgctxt "STRINGS.CHARACTER_NAMES.wickerbottom"
 msgid "Ms Wickerbottom"
-msgstr ""
+msgstr "薇 克 巴 顿 "
 
 #. STRINGS.CHARACTER_NAMES.wolfgang
 msgctxt "STRINGS.CHARACTER_NAMES.wolfgang"
 msgid "Wolfgang"
-msgstr ""
+msgstr "沃 尔 夫 冈 "
 
 #. STRINGS.CHARACTER_NAMES.woodie
 msgctxt "STRINGS.CHARACTER_NAMES.woodie"
 msgid "Woodie"
-msgstr ""
+msgstr "伍 迪 "
 
 #. STRINGS.CHARACTER_NAMES.wathgrithr
 msgctxt "STRINGS.CHARACTER_NAMES.wathgrithr"
-msgid "Wigfrid"
+msgid "女 武 神 "
 msgstr ""
 
 #. STRINGS.CHARACTER_NAMES.unknown
 msgctxt "STRINGS.CHARACTER_NAMES.unknown"
 msgid "The Unknown"
-msgstr ""
+msgstr "未 知 "
 
 #. STRINGS.CHARACTER_NAMES.wes
 msgctxt "STRINGS.CHARACTER_NAMES.wes"
 msgid "Wes"
-msgstr ""
+msgstr "韦 斯 "
 
 #. STRINGS.CHARACTER_NAMES.wx78
 msgctxt "STRINGS.CHARACTER_NAMES.wx78"
 msgid "WX-78"
-msgstr ""
+msgstr "WX-78 "
 
 #. STRINGS.SUNKEN_BOAT_SQUAWKS.1
 msgctxt "STRINGS.SUNKEN_BOAT_SQUAWKS.1"
 msgid "Squaak!"
-msgstr ""
+msgstr "啊 啊 啊 ！ "
 
 #. STRINGS.SUNKEN_BOAT_SQUAWKS.2
 msgctxt "STRINGS.SUNKEN_BOAT_SQUAWKS.2"
 msgid "Raaawk!"
-msgstr ""
+msgstr "啊 呜 呜 ！ "
 
 #. STRINGS.PIG_TALK_PANICFIRE.1
 msgctxt "STRINGS.PIG_TALK_PANICFIRE.1"
 msgid "HOT HOT HOT!"
-msgstr ""
+msgstr "烫 烫 烫 ！ "
 
 #. STRINGS.PIG_TALK_PANICFIRE.2
 msgctxt "STRINGS.PIG_TALK_PANICFIRE.2"
 msgid "OWWWWW!"
-msgstr ""
+msgstr "嗷 ~ ~ ！ "
 
 #. STRINGS.PIG_TALK_PANICFIRE.3
 msgctxt "STRINGS.PIG_TALK_PANICFIRE.3"
 msgid "IT BURNS!"
-msgstr ""
+msgstr "烧 着 了 ！ "
 
 #. STRINGS.PIG_TALK_PANIC.1
 msgctxt "STRINGS.PIG_TALK_PANIC.1"
 msgid "NOOOOO!"
-msgstr ""
+msgstr "不 ~ ~ ~ ！ "
 
 #. STRINGS.PIG_TALK_PANIC.2
 msgctxt "STRINGS.PIG_TALK_PANIC.2"
 msgid "TOO DARK! TOO DARK!"
-msgstr ""
+msgstr "太 黑 了 太 黑 了 ！ "
 
 #. STRINGS.PIG_TALK_PANIC.3
 msgctxt "STRINGS.PIG_TALK_PANIC.3"
 msgid "AAAAAAAAAH!!"
-msgstr ""
+msgstr "啊 ~ ~ ~ ！ "
 
 #. STRINGS.ACTIONS.TURNON
 msgctxt "STRINGS.ACTIONS.TURNON"
 msgid "Turn On"
-msgstr ""
+msgstr "打 开 "
 
 #. STRINGS.ACTIONS.NET
 msgctxt "STRINGS.ACTIONS.NET"
 msgid "Catch"
-msgstr ""
+msgstr "捕 捉 "
 
 #. STRINGS.ACTIONS.ACTIVATE.GENERIC
 msgctxt "STRINGS.ACTIONS.ACTIVATE.GENERIC"
 msgid "Activate"
-msgstr ""
+msgstr "激 活 "
 
 #. STRINGS.ACTIONS.ACTIVATE.SPELUNK
 msgctxt "STRINGS.ACTIONS.ACTIVATE.SPELUNK"
 msgid "Spelunk"
-msgstr ""
+msgstr "探 索 洞 穴 "
 
 #. STRINGS.ACTIONS.ACTIVATE.CLIMB
 msgctxt "STRINGS.ACTIONS.ACTIVATE.CLIMB"
 msgid "Climb"
-msgstr ""
+msgstr "攀 爬 "
 
 #. STRINGS.ACTIONS.ACTIVATE.INVESTIGATE
 msgctxt "STRINGS.ACTIONS.ACTIVATE.INVESTIGATE"
 msgid "Investigate"
-msgstr ""
+msgstr "探 索 "
 
 #. STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
 msgctxt "STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH"
 msgid "Wind"
-msgstr ""
+msgstr "风 "
 
 #. STRINGS.ACTIONS.CHECKTRAP
 msgctxt "STRINGS.ACTIONS.CHECKTRAP"
 msgid "Check"
-msgstr ""
+msgstr "查 看 "
 
 #. STRINGS.ACTIONS.RESETMINE
 msgctxt "STRINGS.ACTIONS.RESETMINE"
 msgid "Reset"
-msgstr ""
+msgstr "重 置 "
 
 #. STRINGS.ACTIONS.TURNOFF
 msgctxt "STRINGS.ACTIONS.TURNOFF"
 msgid "Turn Off"
-msgstr ""
+msgstr "关 闭 "
 
 #. STRINGS.ACTIONS.PICK
 msgctxt "STRINGS.ACTIONS.PICK"
 msgid "Pick"
-msgstr ""
+msgstr "采 摘 "
 
 #. STRINGS.ACTIONS.SHAVE
 msgctxt "STRINGS.ACTIONS.SHAVE"
 msgid "Shave"
-msgstr ""
+msgstr "刮 胡 子 " 
 
 #. STRINGS.ACTIONS.FISHOCEAN
 msgctxt "STRINGS.ACTIONS.FISHOCEAN"
 msgid "Snag"
-msgstr ""
+msgstr "抓 住 "
 
 #. STRINGS.ACTIONS.WHACK
 msgctxt "STRINGS.ACTIONS.WHACK"
-msgid "Whack"
+msgid "猛 击 " 
 msgstr ""
 
 #. STRINGS.ACTIONS.DRY
 msgctxt "STRINGS.ACTIONS.DRY"
 msgid "Dry"
-msgstr ""
+msgstr "晾 干 "
 
 #. STRINGS.ACTIONS.EAT
 msgctxt "STRINGS.ACTIONS.EAT"
 msgid "Eat"
-msgstr ""
+msgstr "食 用 "
 
 #. STRINGS.ACTIONS.SLEEPIN
 msgctxt "STRINGS.ACTIONS.SLEEPIN"
 msgid "Sleep"
-msgstr ""
+msgstr "睡 觉 "
 
 #. STRINGS.ACTIONS.SMOTHER
 msgctxt "STRINGS.ACTIONS.SMOTHER"
 msgid "Extinguish"
-msgstr ""
+msgstr "熄 灭 "
 
 #. STRINGS.ACTIONS.CHOP
 msgctxt "STRINGS.ACTIONS.CHOP"
 msgid "Chop"
-msgstr ""
+msgstr "砍 "
 
 #. STRINGS.ACTIONS.STORE.GENERIC
 msgctxt "STRINGS.ACTIONS.STORE.GENERIC"
 msgid "Store"
-msgstr ""
+msgstr "储 存 "
 
 #. STRINGS.ACTIONS.STORE.COOK
 msgctxt "STRINGS.ACTIONS.STORE.COOK"
 msgid "Cook"
-msgstr ""
+msgstr "烹 饪 "
 
 #. STRINGS.ACTIONS.STORE.IMPRISON
 msgctxt "STRINGS.ACTIONS.STORE.IMPRISON"
 msgid "Imprison"
-msgstr ""
+msgstr "关 押 "
 
 #. STRINGS.ACTIONS.MINE
 msgctxt "STRINGS.ACTIONS.MINE"
 msgid "Mine"
-msgstr ""
+msgstr "挖 掘 "
 
 #. STRINGS.ACTIONS.FEED
 msgctxt "STRINGS.ACTIONS.FEED"
 msgid "Feed"
-msgstr ""
+msgstr "喂 养 "
 
 #. STRINGS.ACTIONS.CRAFT
 msgctxt "STRINGS.ACTIONS.CRAFT"
 msgid "Craft"
-msgstr ""
+msgstr "合 成 "
 
 #. STRINGS.ACTIONS.WALKTO
 msgctxt "STRINGS.ACTIONS.WALKTO"
 msgid "Walk To"
-msgstr ""
+msgstr "走 向 "
 
 #. STRINGS.ACTIONS.FAN
 msgctxt "STRINGS.ACTIONS.FAN"
 msgid "Fan"
-msgstr ""
+msgstr "扇 风 "
 
 #. STRINGS.ACTIONS.LOOKAT
 msgctxt "STRINGS.ACTIONS.LOOKAT"
 msgid "Examine"
-msgstr ""
+msgstr "检 查 "
 
 #. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.GENERIC
 msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.GENERIC"
 msgid "Plant"
-msgstr ""
+msgstr "种 植 "
 
 #. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.TURRET
 msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.TURRET"
 msgid "Place"
-msgstr ""
+msgstr "放 置 "
 
 #. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.GROUNDTILE
 msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.GROUNDTILE"
 msgid "Place Ground"
-msgstr ""
+msgstr "放 地 上 " 
 
 #. STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.WALL
 msgctxt "STRINGS.ACTIONS.TOGGLE_DEPLOY_MODE.WALL"
 msgid "Build Wall"
-msgstr ""
+msgstr "砌 墙 "
 
 #. STRINGS.ACTIONS.ADDFUEL
 msgctxt "STRINGS.ACTIONS.ADDFUEL"
 msgid "Add Fuel"
-msgstr ""
+msgstr "添 加 燃 料 "
 
 #. STRINGS.ACTIONS.RUMMAGE.GENERIC
 msgctxt "STRINGS.ACTIONS.RUMMAGE.GENERIC"
 msgid "Open"
-msgstr ""
+msgstr "打 开 "
 
 #. STRINGS.ACTIONS.RUMMAGE.CLOSE
 msgctxt "STRINGS.ACTIONS.RUMMAGE.CLOSE"
 msgid "Close"
-msgstr ""
+msgstr "关 闭 "
 
 #. STRINGS.ACTIONS.TERRAFORM
 msgctxt "STRINGS.ACTIONS.TERRAFORM"
 msgid "Dig"
-msgstr ""
+msgstr "挖 "
 
 #. STRINGS.ACTIONS.EXTINGUISH
 msgctxt "STRINGS.ACTIONS.EXTINGUISH"
 msgid "Extinguish"
-msgstr ""
+msgstr "熄 灭 "
 
 #. STRINGS.ACTIONS.RESEARCH
 msgctxt "STRINGS.ACTIONS.RESEARCH"
 msgid "Research"
-msgstr ""
+msgstr "研 究 "
 
 #. STRINGS.ACTIONS.USEITEM
 msgctxt "STRINGS.ACTIONS.USEITEM"
 msgid "Use"
-msgstr ""
+msgstr "使 用 "
 
 #. STRINGS.ACTIONS.MANUALEXTINGUISH
 msgctxt "STRINGS.ACTIONS.MANUALEXTINGUISH"
 msgid "Extinguish"
-msgstr ""
+msgstr "熄 灭 "
 
 #. STRINGS.ACTIONS.UNEQUIP
 msgctxt "STRINGS.ACTIONS.UNEQUIP"
 msgid "Unequip"
-msgstr ""
+msgstr "卸 下 "
 
 #. STRINGS.ACTIONS.BLINK
 msgctxt "STRINGS.ACTIONS.BLINK"
 msgid "Telepoof"
-msgstr ""
+msgstr "传 送 "
 
 #. STRINGS.ACTIONS.ADDWETFUEL
 msgctxt "STRINGS.ACTIONS.ADDWETFUEL"
 msgid "Add Wet Fuel"
-msgstr ""
+msgstr "添 加 潮 湿 燃 料 "
 
 #. STRINGS.ACTIONS.DIG
 msgctxt "STRINGS.ACTIONS.DIG"
 msgid "Dig"
-msgstr ""
+msgstr "挖 "
 
 #. STRINGS.ACTIONS.MAKEBALLOON
 msgctxt "STRINGS.ACTIONS.MAKEBALLOON"
 msgid "Inflate"
-msgstr ""
+msgstr "充 气 "
 
 #. STRINGS.ACTIONS.TALKTO
 msgctxt "STRINGS.ACTIONS.TALKTO"
 msgid "Talk to"
-msgstr ""
+msgstr "呼 叫 "
 
 #. STRINGS.ACTIONS.POLLINATE
 msgctxt "STRINGS.ACTIONS.POLLINATE"
 msgid "Pollinate"
-msgstr ""
+msgstr "授 粉 " 
 
 #. STRINGS.ACTIONS.DROP.GENERIC
 msgctxt "STRINGS.ACTIONS.DROP.GENERIC"
 msgid "Drop"
-msgstr ""
+msgstr "丢 弃 "
 
 #. STRINGS.ACTIONS.DROP.SETTRAP
 msgctxt "STRINGS.ACTIONS.DROP.SETTRAP"
 msgid "Set Trap"
-msgstr ""
+msgstr "放 置 陷 阱 "
 
 #. STRINGS.ACTIONS.DROP.PLACELANTERN
 msgctxt "STRINGS.ACTIONS.DROP.PLACELANTERN"
 msgid "Place"
-msgstr ""
+msgstr "放 置 "
 
 #. STRINGS.ACTIONS.DROP.SETMINE
 msgctxt "STRINGS.ACTIONS.DROP.SETMINE"
 msgid "Set Mine"
-msgstr ""
+msgstr "设 置 矿 井 "
 
 #. STRINGS.ACTIONS.MURDER
 msgctxt "STRINGS.ACTIONS.MURDER"
 msgid "Murder"
-msgstr ""
+msgstr "谋 杀 "
 
 #. STRINGS.ACTIONS.PICKUP
 msgctxt "STRINGS.ACTIONS.PICKUP"
 msgid "Pick up"
-msgstr ""
+msgstr "捡 起 "
 
 #. STRINGS.ACTIONS.CASTSPELL.GENERIC
 msgctxt "STRINGS.ACTIONS.CASTSPELL.GENERIC"
 msgid "Cast Spell"
-msgstr ""
+msgstr "施 咒 "
 
 #. STRINGS.ACTIONS.CASTSPELL.SCIENCE
 msgctxt "STRINGS.ACTIONS.CASTSPELL.SCIENCE"
 msgid "Use Gadget"
-msgstr ""
+msgstr "使 用 小 工 具 "
 
 #. STRINGS.ACTIONS.LIGHT
 msgctxt "STRINGS.ACTIONS.LIGHT"
 msgid "Light"
-msgstr ""
+msgstr "点 亮 "
 
 #. STRINGS.ACTIONS.GNAW
 msgctxt "STRINGS.ACTIONS.GNAW"
 msgid "Gnaw"
-msgstr ""
+msgstr "啃 "
 
 #. STRINGS.ACTIONS.SEW
 msgctxt "STRINGS.ACTIONS.SEW"
 msgid "Sew"
-msgstr ""
+msgstr "咀 嚼 "
 
 #. STRINGS.ACTIONS.FERTILIZE
 msgctxt "STRINGS.ACTIONS.FERTILIZE"
 msgid "Fertilize"
-msgstr ""
+msgstr "施 肥 "
 
 #. STRINGS.ACTIONS.UPGRADE
 msgctxt "STRINGS.ACTIONS.UPGRADE"
 msgid "Upgrade"
-msgstr ""
+msgstr "升 级 "
 
 #. STRINGS.ACTIONS.BURY
 msgctxt "STRINGS.ACTIONS.BURY"
 msgid "Bury"
-msgstr ""
+msgstr "掩 埋 "
 
 #. STRINGS.ACTIONS.COMBINESTACK
 msgctxt "STRINGS.ACTIONS.COMBINESTACK"
 msgid "Combine Stack"
-msgstr ""
+msgstr "整 堆 "
 
 #. STRINGS.ACTIONS.RANGEDSMOTHER
 msgctxt "STRINGS.ACTIONS.RANGEDSMOTHER"
 msgid "Extinguish"
-msgstr ""
+msgstr "熄 灭 "
 
 #. STRINGS.ACTIONS.TAKEITEM
 msgctxt "STRINGS.ACTIONS.TAKEITEM"
 msgid "Take Item"
-msgstr ""
+msgstr "拿 物 品 "
 
 #. STRINGS.ACTIONS.GOHOME
 msgctxt "STRINGS.ACTIONS.GOHOME"
 msgid "Go Home"
-msgstr ""
+msgstr "回 家 " 
 
 #. STRINGS.ACTIONS.TEACH
 msgctxt "STRINGS.ACTIONS.TEACH"
 msgid "Learn"
-msgstr ""
+msgstr "学 习 "
 
 #. STRINGS.ACTIONS.UNLOCK.GENERIC
 msgctxt "STRINGS.ACTIONS.UNLOCK.GENERIC"
 msgid "Unlock"
-msgstr ""
+msgstr "解 锁 "
 
 #. STRINGS.ACTIONS.UNLOCK.LOCK
 msgctxt "STRINGS.ACTIONS.UNLOCK.LOCK"
 msgid "Lock"
-msgstr ""
+msgstr "锁 定 "
 
 #. STRINGS.ACTIONS.HEAL
 msgctxt "STRINGS.ACTIONS.HEAL"
 msgid "Heal"
-msgstr ""
+msgstr "治 愈 "
 
 #. STRINGS.ACTIONS.TRAVEL
 msgctxt "STRINGS.ACTIONS.TRAVEL"
 msgid "Travel"
-msgstr ""
+msgstr "行 进 "
 
 #. STRINGS.ACTIONS.BUILD
 msgctxt "STRINGS.ACTIONS.BUILD"
 msgid "Build"
-msgstr ""
+msgstr "建 造 "
 
 #. STRINGS.ACTIONS.DEPLOY.GENERIC
 msgctxt "STRINGS.ACTIONS.DEPLOY.GENERIC"
 msgid "Plant"
-msgstr ""
+msgstr "种 植 "
 
 #. STRINGS.ACTIONS.DEPLOY.TURRET
 msgctxt "STRINGS.ACTIONS.DEPLOY.TURRET"
 msgid "Place"
-msgstr ""
+msgstr "放 置 "
 
 #. STRINGS.ACTIONS.DEPLOY.GROUNDTILE
 msgctxt "STRINGS.ACTIONS.DEPLOY.GROUNDTILE"
 msgid "Place Ground"
-msgstr ""
+msgstr "放 地 上 "
 
 #. STRINGS.ACTIONS.DEPLOY.WALL
 msgctxt "STRINGS.ACTIONS.DEPLOY.WALL"
 msgid "Build Wall"
-msgstr ""
+msgstr "砌 墙 "
 
 #. STRINGS.ACTIONS.JUMPIN
 msgctxt "STRINGS.ACTIONS.JUMPIN"
 msgid "Jump In"
-msgstr ""
+msgstr "跳 进 "
 
 #. STRINGS.ACTIONS.HAMMER
 msgctxt "STRINGS.ACTIONS.HAMMER"
 msgid "Hammer"
-msgstr ""
+msgstr "锤 子 "
 
 #. STRINGS.ACTIONS.REEL.GENERIC
 msgctxt "STRINGS.ACTIONS.REEL.GENERIC"
 msgid "Hook"
-msgstr ""
+msgstr "钩 "
 
 #. STRINGS.ACTIONS.REEL.CANCEL
 msgctxt "STRINGS.ACTIONS.REEL.CANCEL"
 msgid "Stop Fishing"
-msgstr ""
+msgstr "停 止 钓 鱼 "
 
 #. STRINGS.ACTIONS.REEL.REEL
 msgctxt "STRINGS.ACTIONS.REEL.REEL"
 msgid "Reel In"
-msgstr ""
+msgstr "卷 入 "
 
 #. STRINGS.ACTIONS.FISH
 msgctxt "STRINGS.ACTIONS.FISH"
 msgid "Fish"
-msgstr ""
+msgstr "钓 鱼 "
 
 #. STRINGS.ACTIONS.GIVE.GENERIC
 msgctxt "STRINGS.ACTIONS.GIVE.GENERIC"
 msgid "Give"
-msgstr ""
+msgstr "给 "
 
 #. STRINGS.ACTIONS.GIVE.READY
 msgctxt "STRINGS.ACTIONS.GIVE.READY"
 msgid "Sacrifice"
-msgstr ""
+msgstr "牺 牲 "
 
 #. STRINGS.ACTIONS.GIVE.NOTREADY
 msgctxt "STRINGS.ACTIONS.GIVE.NOTREADY"
 msgid "Place"
-msgstr ""
+msgstr "放 置 "
 
 #. STRINGS.ACTIONS.EQUIP
 msgctxt "STRINGS.ACTIONS.EQUIP"
 msgid "Equip"
-msgstr ""
+msgstr "装 备 "
 
 #. STRINGS.ACTIONS.CATCH
 msgctxt "STRINGS.ACTIONS.CATCH"
 msgid "Catch"
-msgstr ""
+msgstr "捕 捉 "
 
 #. STRINGS.ACTIONS.PLAY
 msgctxt "STRINGS.ACTIONS.PLAY"
 msgid "Play"
-msgstr ""
+msgstr "玩 "
 
 #. STRINGS.ACTIONS.PLANT
 msgctxt "STRINGS.ACTIONS.PLANT"
 msgid "Plant"
-msgstr ""
+msgstr "种 植 "
 
 #. STRINGS.ACTIONS.HARVEST
 msgctxt "STRINGS.ACTIONS.HARVEST"
 msgid "Harvest"
-msgstr ""
+msgstr "收 获 "
 
 #. STRINGS.ACTIONS.RANGEDLIGHT
 msgctxt "STRINGS.ACTIONS.RANGEDLIGHT"
 msgid "Light"
-msgstr ""
+msgstr "点 亮 "
 
 #. STRINGS.ACTIONS.REPAIR
 msgctxt "STRINGS.ACTIONS.REPAIR"
 msgid "Repair"
-msgstr ""
+msgstr "修 理 "
 
 #. STRINGS.ACTIONS.COOK
 msgctxt "STRINGS.ACTIONS.COOK"
 msgid "Cook"
-msgstr ""
+msgstr "烹 饪 "
 
 #. STRINGS.ACTIONS.READ
 msgctxt "STRINGS.ACTIONS.READ"
 msgid "Read"
-msgstr ""
+msgstr "读 "
 
 #. STRINGS.ACTIONS.BAIT
 msgctxt "STRINGS.ACTIONS.BAIT"
 msgid "Bait"
-msgstr ""
+msgstr "引 诱 "
 
 #. STRINGS.ACTIONS.ATTACK.GENERIC
 msgctxt "STRINGS.ACTIONS.ATTACK.GENERIC"
 msgid "Attack"
-msgstr ""
+msgstr "攻 击 "
 
 #. STRINGS.ACTIONS.ATTACK.SMASHABLE
 msgctxt "STRINGS.ACTIONS.ATTACK.SMASHABLE"
 msgid "Smash"
-msgstr ""
+msgstr "打 碎 "
 
 #. STRINGS.PIG_TALK_FOLLOWWILSON.1
 msgctxt "STRINGS.PIG_TALK_FOLLOWWILSON.1"
 msgid "YOU FRIEND"
-msgstr ""
+msgstr "朋 友 "
 
 #. STRINGS.PIG_TALK_FOLLOWWILSON.2
 msgctxt "STRINGS.PIG_TALK_FOLLOWWILSON.2"
 msgid "I LOVE FRIEND"
-msgstr ""
+msgstr "我 爱 朋 友 "
 
 #. STRINGS.PIG_TALK_FOLLOWWILSON.3
 msgctxt "STRINGS.PIG_TALK_FOLLOWWILSON.3"
 msgid "YOU IS GOOD"
-msgstr ""
+msgstr "你 真 好 "
 
 #. STRINGS.PIG_TALK_FOLLOWWILSON.4
 msgctxt "STRINGS.PIG_TALK_FOLLOWWILSON.4"
 msgid "I FOLLOW!"
-msgstr ""
+msgstr "我 跟 着 ！ "
 
 #. STRINGS.STACKMOD
 msgctxt "STRINGS.STACKMOD"
 msgid "Stack"
-msgstr ""
+msgstr "堆 "
 
 #. STRINGS.NAMES.ADVENTURE_PORTAL
 msgctxt "STRINGS.NAMES.ADVENTURE_PORTAL"
 msgid "Maxwell's Door"
-msgstr ""
+msgstr "麦 克 斯 韦 的 门 "
 
 #. STRINGS.NAMES.DEERCLOPS
 msgctxt "STRINGS.NAMES.DEERCLOPS"
 msgid "Deerclops"
-msgstr ""
+msgstr "独 眼 巨 鹿 "
 
 #. STRINGS.NAMES.CORN_COOKED
 msgctxt "STRINGS.NAMES.CORN_COOKED"
 msgid "Popcorn"
-msgstr ""
+msgstr "爆 米 花 "
 
 #. STRINGS.NAMES.DRAGONFLY
 msgctxt "STRINGS.NAMES.DRAGONFLY"
 msgid "Dragonfly"
-msgstr ""
+msgstr "蜻 蜓 "
 
 #. STRINGS.NAMES.COMPASS
 msgctxt "STRINGS.NAMES.COMPASS"
 msgid "Compass"
-msgstr ""
+msgstr "指 南 针 "
 
 #. STRINGS.NAMES.FROGLEGS_COOKED
 msgctxt "STRINGS.NAMES.FROGLEGS_COOKED"
 msgid "Cooked Frog Legs"
-msgstr ""
+msgstr "熟 蛙 腿 "
 
 #. STRINGS.NAMES.BLOWDART_SLEEP
 msgctxt "STRINGS.NAMES.BLOWDART_SLEEP"
 msgid "Sleep Dart"
-msgstr ""
+msgstr "麻 醉 镖 "
 
 #. STRINGS.NAMES.EVERGREEN_SPARSE
 msgctxt "STRINGS.NAMES.EVERGREEN_SPARSE"
 msgid "Lumpy Evergreen"
-msgstr ""
+msgstr "大 常 青 树 "
 
 #. STRINGS.NAMES.LUREPLANT
 msgctxt "STRINGS.NAMES.LUREPLANT"
 msgid "Meat Bulb"
-msgstr ""
+msgstr "肉 球 "
 
 #. STRINGS.NAMES.CROW
 msgctxt "STRINGS.NAMES.CROW"
 msgid "Crow"
-msgstr ""
+msgstr "乌 鸦 "
 
 #. STRINGS.NAMES.MERM
 msgctxt "STRINGS.NAMES.MERM"
 msgid "Merm"
-msgstr ""
+msgstr "鱼 人 "
 
 #. STRINGS.NAMES.LIGHTER
 msgctxt "STRINGS.NAMES.LIGHTER"
 msgid "Willow's Lighter"
-msgstr ""
+msgstr "薇 洛 的 打 火 机 "
 
 #. STRINGS.NAMES.PINECONE
 msgctxt "STRINGS.NAMES.PINECONE"
 msgid "Pine Cone"
-msgstr ""
+msgstr "松 果 "
 
 #. STRINGS.NAMES.MERMHOUSE
 msgctxt "STRINGS.NAMES.MERMHOUSE"
 msgid "Rundown House"
-msgstr ""
+msgstr "破 旧 的 房 子 "
 
 #. STRINGS.NAMES.GHOST
 msgctxt "STRINGS.NAMES.GHOST"
 msgid "Ghost"
-msgstr ""
+msgstr "鬼 魂 "
 
 #. STRINGS.NAMES.BOARDS
 msgctxt "STRINGS.NAMES.BOARDS"
 msgid "Boards"
-msgstr ""
+msgstr "木 板 "
 
 #. STRINGS.NAMES.CAVE_BANANA_TREE
 msgctxt "STRINGS.NAMES.CAVE_BANANA_TREE"
 msgid "Cave Banana Tree"
-msgstr ""
+msgstr "洞 穴 香 蕉 树 "
 
 #. STRINGS.NAMES.LIVINGTREE
 msgctxt "STRINGS.NAMES.LIVINGTREE"
 msgid "Totally Normal Tree"
-msgstr ""
+msgstr "很 普 通 的 树 "
 
 #. STRINGS.NAMES.TWIGS
 msgctxt "STRINGS.NAMES.TWIGS"
 msgid "Twigs"
-msgstr ""
+msgstr "嫩 枝 "
 
 #. STRINGS.NAMES.GREENSTAFF
 msgctxt "STRINGS.NAMES.GREENSTAFF"
 msgid "Deconstruction Staff"
-msgstr ""
+msgstr "分 解 法 杖 "
 
 #. STRINGS.NAMES.BIRDTRAP
 msgctxt "STRINGS.NAMES.BIRDTRAP"
 msgid "Bird Trap"
-msgstr ""
+msgstr "捕 鸟 器 "
 
 #. STRINGS.NAMES.ICEPACK
 msgctxt "STRINGS.NAMES.ICEPACK"
 msgid "Insulated Pack"
-msgstr ""
+msgstr "隔 离 包 "
 
 #. STRINGS.NAMES.HONEY
 msgctxt "STRINGS.NAMES.HONEY"
 msgid "Honey"
-msgstr ""
+msgstr "蜂 蜜 "
 
 #. STRINGS.NAMES.BLOWDART_FIRE
 msgctxt "STRINGS.NAMES.BLOWDART_FIRE"
 msgid "Fire Dart"
-msgstr ""
+msgstr "火 镖 "
 
 #. STRINGS.NAMES.SPIDEREGGSACK
 msgctxt "STRINGS.NAMES.SPIDEREGGSACK"
 msgid "Spider Eggs"
-msgstr ""
+msgstr "蜘 蛛 卵 "
 
 #. STRINGS.NAMES.PLANTMEAT
 msgctxt "STRINGS.NAMES.PLANTMEAT"
 msgid "Leafy Meat"
-msgstr ""
+msgstr "多 叶 肉 "
 
 #. STRINGS.NAMES.CAVE_ENTRANCE_CLOSED
 msgctxt "STRINGS.NAMES.CAVE_ENTRANCE_CLOSED"
 msgid "Plugged Sinkhole"
-msgstr ""
+msgstr "阻 塞 的 污 水 池 "
 
 #. STRINGS.NAMES.WALRUSHAT
 msgctxt "STRINGS.NAMES.WALRUSHAT"
@@ -1164,77 +1164,77 @@ msgstr ""
 #. STRINGS.NAMES.CHESSJUNK1
 msgctxt "STRINGS.NAMES.CHESSJUNK1"
 msgid "Broken clockworks"
-msgstr ""
+msgstr " 坏 掉 的 钟 表 零 件 "
 
 #. STRINGS.NAMES.RED_CAP
 msgctxt "STRINGS.NAMES.RED_CAP"
 msgid "Red Cap"
-msgstr ""
+msgstr "红 蘑 菇 头 "
 
 #. STRINGS.NAMES.MAXWELLKEY
 msgctxt "STRINGS.NAMES.MAXWELLKEY"
 msgid "Shadow Key"
-msgstr ""
+msgstr "影 子 钥 匙 "
 
 #. STRINGS.NAMES.BLUE_MUSHROOM
 msgctxt "STRINGS.NAMES.BLUE_MUSHROOM"
 msgid "Blue Mushroom"
-msgstr ""
+msgstr "蓝 蘑 菇 "
 
 #. STRINGS.NAMES.BEEFALOWOOL
 msgctxt "STRINGS.NAMES.BEEFALOWOOL"
 msgid "Beefalo Wool"
-msgstr ""
+msgstr "牛 毛 "
 
 #. STRINGS.NAMES.BERRIES
 msgctxt "STRINGS.NAMES.BERRIES"
 msgid "Berries"
-msgstr ""
+msgstr "浆 果 "
 
 #. STRINGS.NAMES.GOLDENAXE
 msgctxt "STRINGS.NAMES.GOLDENAXE"
 msgid "Luxury Axe"
-msgstr ""
+msgstr "豪 华 长 斧 "
 
 #. STRINGS.NAMES.TRAP_TEETH_MAXWELL
 msgctxt "STRINGS.NAMES.TRAP_TEETH_MAXWELL"
 msgid "Maxwell's Tooth Trap"
-msgstr ""
+msgstr "麦 克 斯 韦 的 牙 齿 陷 阱 "
 
 #. STRINGS.NAMES.BLUE_CAP
 msgctxt "STRINGS.NAMES.BLUE_CAP"
 msgid "Blue Cap"
-msgstr ""
+msgstr "蓝 蘑 菇 头 "
 
 #. STRINGS.NAMES.SEEDS
 msgctxt "STRINGS.NAMES.SEEDS"
 msgid "Seeds"
-msgstr ""
+msgstr "种 子 "
 
 #. STRINGS.NAMES.REEDS
 msgctxt "STRINGS.NAMES.REEDS"
 msgid "Reeds"
-msgstr ""
+msgstr "芦 苇 "
 
 #. STRINGS.NAMES.RUINSHAT
 msgctxt "STRINGS.NAMES.RUINSHAT"
 msgid "Thulecite Crown"
-msgstr ""
+msgstr "铥 矿 石 皇 冠 "
 
 #. STRINGS.NAMES.BIRD_EGG_COOKED
 msgctxt "STRINGS.NAMES.BIRD_EGG_COOKED"
 msgid "Cooked Egg"
-msgstr ""
+msgstr "熟 鸡 蛋 "
 
 #. STRINGS.NAMES.HONEYNUGGETS
 msgctxt "STRINGS.NAMES.HONEYNUGGETS"
 msgid "Honey Nuggets"
-msgstr ""
+msgstr "甜 蜜 金 砖 "
 
 #. STRINGS.NAMES.BUTTERFLYMUFFIN
 msgctxt "STRINGS.NAMES.BUTTERFLYMUFFIN"
 msgid "Butter Muffin"
-msgstr ""
+msgstr "奶 油 松 饼 "
 
 #. STRINGS.NAMES.RABBITHOUSE
 msgctxt "STRINGS.NAMES.RABBITHOUSE"
