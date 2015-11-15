@@ -3714,187 +3714,187 @@ msgstr "培 根 煎 蛋 "
 #. STRINGS.NAMES.GRAVESTONE
 msgctxt "STRINGS.NAMES.GRAVESTONE"
 msgid "Headstone"
-msgstr ""
+msgstr "墓 碑 "
 
 #. STRINGS.NAMES.KABOBS
 msgctxt "STRINGS.NAMES.KABOBS"
 msgid "Kabobs"
-msgstr ""
+msgstr "肉 串 "
 
 #. STRINGS.NAMES.POND_MOS
 msgctxt "STRINGS.NAMES.POND_MOS"
 msgid "Pond"
-msgstr ""
+msgstr "池 塘 "
 
 #. STRINGS.NAMES.CORN_SEEDS
 msgctxt "STRINGS.NAMES.CORN_SEEDS"
 msgid "Corn Seeds"
-msgstr ""
+msgstr "玉 米 种 子 "
 
 #. STRINGS.NAMES.DRAGONPIE
 msgctxt "STRINGS.NAMES.DRAGONPIE"
 msgid "Dragonpie"
-msgstr ""
+msgstr "龙 馅 饼 "
 
 #. STRINGS.NAMES.BUTTER
 msgctxt "STRINGS.NAMES.BUTTER"
 msgid "Butter"
-msgstr ""
+msgstr "黄 油 "
 
 #. STRINGS.NAMES.LEIF_SPARSE
 msgctxt "STRINGS.NAMES.LEIF_SPARSE"
 msgid "Treeguard"
-msgstr "树人"
+msgstr "树 人 "
 
 #. STRINGS.NAMES.LEIF
 msgctxt "STRINGS.NAMES.LEIF"
 msgid "Treeguard"
-msgstr "树人"
+msgstr "树 人 "
 
 #. STRINGS.NAMES.MOLE
 msgctxt "STRINGS.NAMES.MOLE"
 msgid "Moleworm"
-msgstr ""
+msgstr "地 鼠 "
 
 #. STRINGS.NAMES.MEAT_DRIED
 msgctxt "STRINGS.NAMES.MEAT_DRIED"
 msgid "Jerky"
-msgstr ""
+msgstr "肉 干 "
 
 #. STRINGS.NAMES.EEL_COOKED
 msgctxt "STRINGS.NAMES.EEL_COOKED"
 msgid "Cooked Eel"
-msgstr ""
+msgstr "熟 鳗 鱼 "
 
 #. STRINGS.NAMES.TRINKET_11
 msgctxt "STRINGS.NAMES.TRINKET_11"
 msgid "Lying Robot"
-msgstr ""
+msgstr "半 躺 机 器 人 "
 
 #. STRINGS.NAMES.TRINKET_6
 msgctxt "STRINGS.NAMES.TRINKET_6"
 msgid "Frazzled Wires"
-msgstr ""
+msgstr "破 烂 电 线 "
 
 #. STRINGS.NAMES.POMEGRANATE_COOKED
 msgctxt "STRINGS.NAMES.POMEGRANATE_COOKED"
 msgid "Sliced Pomegranate"
-msgstr ""
+msgstr "石 榴 切 片 "
 
 #. STRINGS.NAMES.ROCK_FLINTLESS
 msgctxt "STRINGS.NAMES.ROCK_FLINTLESS"
 msgid "Boulder"
-msgstr ""
+msgstr "鹅 卵 石 "
 
 #. STRINGS.NAMES.DUG_GRASS
 msgctxt "STRINGS.NAMES.DUG_GRASS"
 msgid "Grass Tuft"
-msgstr ""
+msgstr "草 丛 "
 
 #. STRINGS.NAMES.ROCKS
 msgctxt "STRINGS.NAMES.ROCKS"
 msgid "Rocks"
-msgstr ""
+msgstr "岩 石 "
 
 #. STRINGS.NAMES.WENDY
 msgctxt "STRINGS.NAMES.WENDY"
 msgid "Wendy"
-msgstr ""
+msgstr "温 迪 "
 
 #. STRINGS.NAMES.EGGPLANT_SEEDS
 msgctxt "STRINGS.NAMES.EGGPLANT_SEEDS"
 msgid "Eggplant Seeds"
-msgstr ""
+msgstr "茄 子 种 子 "
 
 #. STRINGS.NAMES.GEARS
 msgctxt "STRINGS.NAMES.GEARS"
 msgid "Gears"
-msgstr ""
+msgstr "齿 轮 "
 
 #. STRINGS.NAMES.GOLDENPITCHFORK
 msgctxt "STRINGS.NAMES.GOLDENPITCHFORK"
 msgid "Snazzy Pitchfork"
-msgstr ""
+msgstr "靓 丽 干 草 叉 "
 
 #. STRINGS.NAMES.ICEHOUND
 msgctxt "STRINGS.NAMES.ICEHOUND"
 msgid "Blue Hound"
-msgstr "冰猎犬"
+msgstr "冰 猎 犬 "
 
 #. STRINGS.NAMES.TELEPORTATO_BASE
 msgctxt "STRINGS.NAMES.TELEPORTATO_BASE"
 msgid "Wooden thing"
-msgstr ""
+msgstr "木 制 传 送 机 零 件 "
 
 #. STRINGS.NAMES.BELL
 msgctxt "STRINGS.NAMES.BELL"
 msgid "Old Bell"
-msgstr ""
+msgstr "老 旧 铃 铛 "
 
 #. STRINGS.NAMES.TELEPORTATO_RING
 msgctxt "STRINGS.NAMES.TELEPORTATO_RING"
 msgid "Ring thing"
-msgstr ""
+msgstr "环 装 传 送 机 零 件 "
 
 #. STRINGS.NAMES.BLOWDART_PIPE
 msgctxt "STRINGS.NAMES.BLOWDART_PIPE"
 msgid "Blow Dart"
-msgstr ""
+msgstr "吹 镖 "
 
 #. STRINGS.NAMES.SPIDERHAT
 msgctxt "STRINGS.NAMES.SPIDERHAT"
 msgid "Spiderhat"
-msgstr ""
+msgstr "蜘 蛛 帽 "
 
 #. STRINGS.NAMES.FEATHER_CROW
 msgctxt "STRINGS.NAMES.FEATHER_CROW"
 msgid "Jet Feather"
-msgstr ""
+msgstr "黑 羽 毛 "
 
 #. STRINGS.NAMES.TALLBIRDEGG_CRACKED
 msgctxt "STRINGS.NAMES.TALLBIRDEGG_CRACKED"
 msgid "Hatching Tallbird Egg"
-msgstr "孵化高脚鸟蛋"
+msgstr "孵 化 高 脚 鸟 蛋 "
 
 #. STRINGS.NAMES.BACKPACK
 msgctxt "STRINGS.NAMES.BACKPACK"
 msgid "Backpack"
-msgstr ""
+msgstr "背 包 "
 
 #. STRINGS.NAMES.RABBITHOLE
 msgctxt "STRINGS.NAMES.RABBITHOLE"
 msgid "Rabbit Hole"
-msgstr ""
+msgstr "兔 子 巢 穴 "
 
 #. STRINGS.NAMES.TALLBIRDEGG
 msgctxt "STRINGS.NAMES.TALLBIRDEGG"
 msgid "Tallbird Egg"
-msgstr "高脚鸟蛋"
+msgstr "高 脚 鸟 蛋 "
 
 #. STRINGS.NAMES.BUTTERFLYWINGS
 msgctxt "STRINGS.NAMES.BUTTERFLYWINGS"
 msgid "Butterfly Wings"
-msgstr ""
+msgstr "蝴 蝶 翅 膀 " 
 
 #. STRINGS.NAMES.BEEHAT
 msgctxt "STRINGS.NAMES.BEEHAT"
 msgid "Beekeeper Hat"
-msgstr ""
+msgstr "养 蜂 人 帽 "
 
 #. STRINGS.NAMES.WASPHIVE
 msgctxt "STRINGS.NAMES.WASPHIVE"
 msgid "Killer Bee Hive"
-msgstr ""
+msgstr "杀 人 蜂 巢 "
 
 #. STRINGS.NAMES.AMULET
 msgctxt "STRINGS.NAMES.AMULET"
 msgid "Life Giving Amulet"
-msgstr ""
+msgstr "提 神 护 符 "
 
 #. STRINGS.NAMES.SPIDER_SPITTER
 msgctxt "STRINGS.NAMES.SPIDER_SPITTER"
 msgid "Spitter"
-msgstr "吐痰蜘蛛"
+msgstr "吐 痰 蜘 蛛 "
 
 #. STRINGS.NAMES.BEE
 msgctxt "STRINGS.NAMES.BEE"
@@ -3904,117 +3904,117 @@ msgstr "蜜 蜂 "
 #. STRINGS.NAMES.CHESTER_EYEBONE
 msgctxt "STRINGS.NAMES.CHESTER_EYEBONE"
 msgid "Eye Bone"
-msgstr ""
+msgstr "眼 骨 "
 
 #. STRINGS.NAMES.BEEBOX
 msgctxt "STRINGS.NAMES.BEEBOX"
 msgid "Bee Box"
-msgstr ""
+msgstr "蜂 箱 "
 
 #. STRINGS.NAMES.MARSH_TREE
 msgctxt "STRINGS.NAMES.MARSH_TREE"
 msgid "Spiky Tree"
-msgstr ""
+msgstr "尖 刺 树 "
 
 #. STRINGS.NAMES.TENTACLESPIKE
 msgctxt "STRINGS.NAMES.TENTACLESPIKE"
 msgid "Tentacle Spike"
-msgstr ""
+msgstr "触 手 怪 刺 "
 
 #. STRINGS.NAMES.MINOTAURCHEST
 msgctxt "STRINGS.NAMES.MINOTAURCHEST"
 msgid "Large Ornate Chest"
-msgstr ""
+msgstr "大 号 豪 华 箱 子 "
 
 #. STRINGS.NAMES.TEAMLEADER
 msgctxt "STRINGS.NAMES.TEAMLEADER"
 msgid "Team Leader"
-msgstr ""
+msgstr "小 组 领 袖 "
 
 #. STRINGS.NAMES.ARMOR_SANITY
 msgctxt "STRINGS.NAMES.ARMOR_SANITY"
 msgid "Night Armour"
-msgstr ""
+msgstr "夜 魔 盔 甲 "
 
 #. STRINGS.NAMES.TRAP_TEETH
 msgctxt "STRINGS.NAMES.TRAP_TEETH"
 msgid "Tooth Trap"
-msgstr ""
+msgstr "牙 齿 陷 阱 "
 
 #. STRINGS.NAMES.POMEGRANATE
 msgctxt "STRINGS.NAMES.POMEGRANATE"
 msgid "Pomegranate"
-msgstr ""
+msgstr "石 榴 "
 
 #. STRINGS.NAMES.UMBRELLA
 msgctxt "STRINGS.NAMES.UMBRELLA"
 msgid "Umbrella"
-msgstr ""
+msgstr "雨 伞 "
 
 #. STRINGS.NAMES.RESEARCHLAB
 msgctxt "STRINGS.NAMES.RESEARCHLAB"
 msgid "Science Machine"
-msgstr ""
+msgstr "科 学 机 器 "
 
 #. STRINGS.NAMES.DUG_BERRYBUSH2
 msgctxt "STRINGS.NAMES.DUG_BERRYBUSH2"
 msgid "Berry Bush"
-msgstr ""
+msgstr "浆 果 灌 木 "
 
 #. STRINGS.NAMES.BOOK_GARDENING
 msgctxt "STRINGS.NAMES.BOOK_GARDENING"
 msgid "Applied Horticulture"
-msgstr ""
+msgstr "应 用 园 艺 学 "
 
 #. STRINGS.NAMES.GOLDNUGGET
 msgctxt "STRINGS.NAMES.GOLDNUGGET"
 msgid "Gold Nugget"
-msgstr ""
+msgstr "金 块 "
 
 #. STRINGS.NAMES.BEDROLL_FURRY
 msgctxt "STRINGS.NAMES.BEDROLL_FURRY"
 msgid "Fur Roll"
-msgstr ""
+msgstr "皮 毛 卷 "
 
 #. STRINGS.NAMES.RESEARCHLAB3
 msgctxt "STRINGS.NAMES.RESEARCHLAB3"
 msgid "Shadow Manipulator"
-msgstr ""
+msgstr "暗 影 操 控 者 "
 
 #. STRINGS.NAMES.WICKERBOTTOM
 msgctxt "STRINGS.NAMES.WICKERBOTTOM"
 msgid "Wickerbottom"
-msgstr ""
+msgstr "薇 克 巴 顿 "
 
 #. STRINGS.NAMES.CRAWLINGHORROR
 msgctxt "STRINGS.NAMES.CRAWLINGHORROR"
 msgid "Crawling Horror"
-msgstr "恐惧爬行兽"
+msgstr "恐 惧 爬 行 兽 "
 
 #. STRINGS.NAMES.DRAGONFLYCHEST
 msgctxt "STRINGS.NAMES.DRAGONFLYCHEST"
 msgid "Scaled Chest"
-msgstr ""
+msgstr "鳞 片 箱 "
 
 #. STRINGS.NAMES.NIGHTSWORD
 msgctxt "STRINGS.NAMES.NIGHTSWORD"
 msgid "Dark Sword"
-msgstr ""
+msgstr "暗 夜 剑 "
 
 #. STRINGS.NAMES.WX78
 msgctxt "STRINGS.NAMES.WX78"
 msgid "Wx78"
-msgstr ""
+msgstr "Wx78"
 
 #. STRINGS.NAMES.ARMORMARBLE
 msgctxt "STRINGS.NAMES.ARMORMARBLE"
 msgid "Marble Suit"
-msgstr ""
+msgstr "大 理 石 装 "
 
 #. STRINGS.NAMES.TRANSISTOR
 msgctxt "STRINGS.NAMES.TRANSISTOR"
 msgid "Electrical Doodad"
-msgstr ""
+msgstr "电 器 元 件 "
 
 #. STRINGS.NAMES.SIESTAHUT
 msgctxt "STRINGS.NAMES.SIESTAHUT"
@@ -4029,7 +4029,7 @@ msgstr ""
 #. STRINGS.NAMES.BEEFALO
 msgctxt "STRINGS.NAMES.BEEFALO"
 msgid "Beefalo"
-msgstr "大牛"
+msgstr "大 牛 "
 
 #. STRINGS.NAMES.RED_CAP_COOKED
 msgctxt "STRINGS.NAMES.RED_CAP_COOKED"
@@ -36619,1020 +36619,1021 @@ msgstr ""
 #. STRINGS.CHARACTER_DESCRIPTIONS.wilson
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wilson"
 msgid "*Grows a magnificent beard"
-msgstr ""
+msgstr "长 出 华 美 的 胡 子 "
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wendy
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wendy"
 msgid "*Haunted by her twin sister\n*Comfortable with darkness\n*Doesn't hit very hard"
-msgstr ""
+msgstr "*被 双 胞 胎 妹 妹 折 磨 \n*喜 欢 黑 夜 \n*打 得 不 重 "
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.webber
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.webber"
 msgid "*Is a monster\n*Can befriend spiders\n*Grows a silky smooth beard"
-msgstr ""
+msgstr "*一 个 怪 物 \n*可 以 和 蜘 蛛 成 为 朋 友 \n*能 长 出 丝 滑 的 胡 子 "
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.willow
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.willow"
 msgid "*Immune to fire damage\n*Has a sweet lighter\n*Lights fires when nervous"
-msgstr ""
+msgstr "*免 疫 火 焰 伤 害 \n*有 一 个 非 常 可 爱 的 打 火 机 \n*紧 张 的 时 候 就 会 点 火 "
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.waxwell
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.waxwell"
 msgid "*Is dapper but frail\n*Can fragment his mind\n*Brings his own sword"
-msgstr ""
+msgstr "*敏 捷 但 是 脆 弱 \n*可 以 让 自 己 精 神 分 裂 \n*拥 有 属 于 自 己 的 剑 "
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wickerbottom
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wickerbottom"
 msgid "*Knows many things\n*Self-publishes books\n*Can't sleep, hates spoilage"
-msgstr ""
+msgstr "*博 学 多 才 \n*可 以 自 己 出 版 书 籍 \n*无 法 睡 觉 ， 讨 厌 腐 烂 食 物 "
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wolfgang
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wolfgang"
 msgid "*Gets stronger with a full belly\n*Is afraid of the dark and monsters"
-msgstr ""
+msgstr "*吃 饱 之 后 会 更 加 强 壮 \n*害 怕 黑 暗 和 怪 物 "
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wx78
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wx78"
 msgid "*Not a picky eater\n*Charged by lightning, damaged by water\n*Can upgrade with gears"
-msgstr ""
+msgstr "*不 挑 食 \n*通 过 闪 电 获 得 能 量 ， 但 是 会 受 到 水 的 伤 害 \n*可 以 用 齿 轮 来 升 级 "
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wathgrithr
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wathgrithr"
 msgid "*Excels in battle\n*Gains power from fallen foes\n*Only eats meat"
-msgstr ""
+msgstr "*擅 长 战 斗 \n*从 打 到 的 敌 人 身 上 获 取 能 量 \n*只 吃 肉 "
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.woodie
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.woodie"
 msgid "*Has a lovely axe\n*Has a terrible secret"
-msgstr ""
+msgstr "*有 一 个 可 爱 的 长 斧 \n*有 一 个 很 糟 糕 的 秘 密 "
 
 #. STRINGS.CHARACTER_DESCRIPTIONS.wes
 msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.wes"
 msgid "*Can't talk\n*Has trouble staying alive\n*Practices balloonomancy"
-msgstr ""
+msgstr "*无 法 讲 话 \n*活 下 去 有 困 难 \n*会 使 用 气 球 "
 
 #. STRINGS.TABS.FARM
 msgctxt "STRINGS.TABS.FARM"
 msgid "Food"
-msgstr ""
+msgstr "食 物 "
 
 #. STRINGS.TABS.TOWN
 msgctxt "STRINGS.TABS.TOWN"
 msgid "Structures"
-msgstr ""
+msgstr "建 筑 "
 
 #. STRINGS.TABS.ANCIENT
 msgctxt "STRINGS.TABS.ANCIENT"
 msgid "Ancient"
-msgstr ""
+msgstr "远 古 "
 
 #. STRINGS.TABS.GEMOLOGY
 msgctxt "STRINGS.TABS.GEMOLOGY"
 msgid "Gemology"
-msgstr ""
+msgstr "宝 石 学 "
 
 #. STRINGS.TABS.MAGIC
 msgctxt "STRINGS.TABS.MAGIC"
 msgid "Magic"
-msgstr ""
+msgstr "魔 法 "
 
 #. STRINGS.TABS.TOOLS
 msgctxt "STRINGS.TABS.TOOLS"
 msgid "Tools"
-msgstr ""
+msgstr "工 具 "
 
 #. STRINGS.TABS.BOOKS
 msgctxt "STRINGS.TABS.BOOKS"
 msgid "Books"
-msgstr ""
+msgstr "书 本 "
 
 #. STRINGS.TABS.WAR
 msgctxt "STRINGS.TABS.WAR"
 msgid "Fight"
-msgstr ""
+msgstr "战 斗 "
 
 #. STRINGS.TABS.DRESS
 msgctxt "STRINGS.TABS.DRESS"
 msgid "Dress"
-msgstr ""
+msgstr "衣 物 "
 
 #. STRINGS.TABS.REFINE
 msgctxt "STRINGS.TABS.REFINE"
 msgid "Refine"
-msgstr ""
+msgstr "精 炼 "
 
 #. STRINGS.TABS.SCIENCE
 msgctxt "STRINGS.TABS.SCIENCE"
 msgid "Science"
-msgstr ""
+msgstr "科 学 "
 
 #. STRINGS.TABS.LIGHT
 msgctxt "STRINGS.TABS.LIGHT"
 msgid "Light"
-msgstr ""
+msgstr "点 燃 "
 
 #. STRINGS.TABS.SURVIVAL
 msgctxt "STRINGS.TABS.SURVIVAL"
 msgid "Survival"
-msgstr ""
+msgstr "生 存 "
 
 #. STRINGS.EPITAPHS.1
 msgctxt "STRINGS.EPITAPHS.1"
 msgid "Here lies some guy. Blah blah blah."
-msgstr ""
+msgstr "这 里 躺 着 某 人 ， 诸 如 此 类 。 "
 
 #. STRINGS.EPITAPHS.2
 msgctxt "STRINGS.EPITAPHS.2"
 msgid "This headstone is blank"
-msgstr ""
+msgstr "这 墓 碑 是 空 白 的 。 "
 
 #. STRINGS.EPITAPHS.3
 msgctxt "STRINGS.EPITAPHS.3"
 msgid "It says: 'Milk. Eggs. Bacon.'"
-msgstr ""
+msgstr "上 面 写 着 ： 牛 奶 ， 鸡 蛋 ， 培 根 。 "
 
 #. STRINGS.EPITAPHS.4
 msgctxt "STRINGS.EPITAPHS.4"
 msgid "Hey that's my name!"
-msgstr ""
+msgstr "嘿 ！ 那 是 我 的 名 字 ！ "
 
 #. STRINGS.SUNKEN_BOAT_REFUSE_TRADE.1
 msgctxt "STRINGS.SUNKEN_BOAT_REFUSE_TRADE.1"
 msgid "Sqwaak! Useless junk!"
-msgstr ""
+msgstr "啊 ！ 没 用 的 垃 圾 ！ "
 
 #. STRINGS.SUNKEN_BOAT_REFUSE_TRADE.2
 msgctxt "STRINGS.SUNKEN_BOAT_REFUSE_TRADE.2"
 msgid "Go away! Sqwaak!"
-msgstr ""
+msgstr "滚 开 ！ 啊 ！ "
 
 #. STRINGS.SUNKEN_BOAT_REFUSE_TRADE.3
 msgctxt "STRINGS.SUNKEN_BOAT_REFUSE_TRADE.3"
 msgid "Wolly does NOT want THAT."
-msgstr ""
+msgstr "不 想 那 样 。 "
 
 #. STRINGS.SUNKEN_BOAT_REFUSE_TRADE.4
 msgctxt "STRINGS.SUNKEN_BOAT_REFUSE_TRADE.4"
 msgid "Land lubber!"
-msgstr ""
+msgstr "傻 大 个 ！ "
 
 #. STRINGS.PIG_GUARD_TALK_FIGHT.1
 msgctxt "STRINGS.PIG_GUARD_TALK_FIGHT.1"
 msgid "FOR KING!"
-msgstr ""
+msgstr "为 了 国 王 ， 向 我 开 炮 ！ "
 
 #. STRINGS.PIG_GUARD_TALK_FIGHT.2
 msgctxt "STRINGS.PIG_GUARD_TALK_FIGHT.2"
 msgid "DEFEND!"
-msgstr ""
+msgstr "保 卫 这 里 ！ "
 
 #. STRINGS.PIG_GUARD_TALK_FIGHT.3
 msgctxt "STRINGS.PIG_GUARD_TALK_FIGHT.3"
 msgid "SAVE KING!"
-msgstr ""
+msgstr "拯 救 国 王 ！ "
 
 #. STRINGS.PIG_TALK_GO_HOME.1
 msgctxt "STRINGS.PIG_TALK_GO_HOME.1"
 msgid "HOME TIME!"
-msgstr ""
+msgstr "回 家 时 间 到 ！ "
 
 #. STRINGS.PIG_TALK_GO_HOME.2
 msgctxt "STRINGS.PIG_TALK_GO_HOME.2"
 msgid "HOME! HOME!"
-msgstr ""
+msgstr "回 家 ！ 回 家 ！ "
 
 #. STRINGS.PIG_TALK_ATTEMPT_TRADE.1
 msgctxt "STRINGS.PIG_TALK_ATTEMPT_TRADE.1"
 msgid "WHAT YOU GOT?"
-msgstr ""
+msgstr "你 得 到 了 神 马 ？ "
 
 #. STRINGS.PIG_TALK_ATTEMPT_TRADE.2
 msgctxt "STRINGS.PIG_TALK_ATTEMPT_TRADE.2"
 msgid "BETTER BE GOOD."
-msgstr ""
+msgstr "好 好 的 。 "
 
 #. STRINGS.PIG_TALK_RUN_FROM_SPIDER.1
 msgctxt "STRINGS.PIG_TALK_RUN_FROM_SPIDER.1"
 msgid "SPIDER BAD!"
-msgstr ""
+msgstr "蜘 蛛 太 坏 了 ！ "
 
 #. STRINGS.PIG_TALK_RUN_FROM_SPIDER.2
 msgctxt "STRINGS.PIG_TALK_RUN_FROM_SPIDER.2"
 msgid "NO LIKE SPIDER!"
-msgstr ""
+msgstr "讨 厌 蜘 蛛 ！ "
 
 #. STRINGS.PIG_TALK_RUN_FROM_SPIDER.3
 msgctxt "STRINGS.PIG_TALK_RUN_FROM_SPIDER.3"
 msgid "SCARY SPIDER!"
-msgstr ""
+msgstr "吓 人 的 蜘 蛛 ！ "
 
 #. STRINGS.RECIPE_DESC.DIVININGROD
 msgctxt "STRINGS.RECIPE_DESC.DIVININGROD"
 msgid "There must be some way out of here..."
-msgstr ""
+msgstr "这 里 一 定 有 出 路 的 …… "
 
 #. STRINGS.RECIPE_DESC.STAFF_TORNADO
 msgctxt "STRINGS.RECIPE_DESC.STAFF_TORNADO"
 msgid "Blow your enemies away."
-msgstr ""
+msgstr "吹 向 你 的 敌 人 ， 灰 飞 烟 灭 。 "
 
 #. STRINGS.RECIPE_DESC.TURF_ROAD
 msgctxt "STRINGS.RECIPE_DESC.TURF_ROAD"
 msgid "Build your own road to nowhere."
-msgstr ""
+msgstr "要 想 富 ， 先 修 路 ， 去 哪 都 行 。 "
 
 #. STRINGS.RECIPE_DESC.BEEMINE
 msgctxt "STRINGS.RECIPE_DESC.BEEMINE"
 msgid "Weaponized bees. What could go wrong?"
-msgstr ""
+msgstr "把 蜜 蜂 改 装 成 武 器 ， 能 有 什 么 问 题 ？ "
 
 #. STRINGS.RECIPE_DESC.FEATHERHAT
 msgctxt "STRINGS.RECIPE_DESC.FEATHERHAT"
 msgid "Dress for your head."
-msgstr ""
+msgstr "戴 头 上 。 "
 
 #. STRINGS.RECIPE_DESC.BOOMERANG
 msgctxt "STRINGS.RECIPE_DESC.BOOMERANG"
 msgid "It comes from a land down under."
-msgstr ""
+msgstr "来 自 南 方 。 "
 
 #. STRINGS.RECIPE_DESC.COMPASS
 msgctxt "STRINGS.RECIPE_DESC.COMPASS"
 msgid "Points the way north."
-msgstr ""
+msgstr "指 向 北 面 。 "
 
 #. STRINGS.RECIPE_DESC.PANFLUTE
 msgctxt "STRINGS.RECIPE_DESC.PANFLUTE"
 msgid "Music to soothe savage beasts."
-msgstr ""
+msgstr "安 慰 猛 兽 的 音 乐 。 "
 
 #. STRINGS.RECIPE_DESC.BLOWDART_SLEEP
 msgctxt "STRINGS.RECIPE_DESC.BLOWDART_SLEEP"
 msgid "Spit sleepiness at your enemies."
-msgstr ""
+msgstr "对 你 的 敌 人 发 射 麻 醉 剂 。 "
 
 #. STRINGS.RECIPE_DESC.LANTERN
 msgctxt "STRINGS.RECIPE_DESC.LANTERN"
 msgid "Refuelable, bright, portable!"
-msgstr ""
+msgstr "可 以 添 加 燃 料 ， 明 亮 ， 并 且 便 携 的 灯 ！ " 
 
 #. STRINGS.RECIPE_DESC.HEATROCK
 msgctxt "STRINGS.RECIPE_DESC.HEATROCK"
 msgid "Stores thermals for travel."
-msgstr ""
+msgstr "在 路 途 中 储 存 热 量 。 "
 
 #. STRINGS.RECIPE_DESC.PURPLEGEM
 msgctxt "STRINGS.RECIPE_DESC.PURPLEGEM"
 msgid "By your colours combined!"
-msgstr ""
+msgstr "结 合 你 的 颜 色 ！ "
 
 #. STRINGS.RECIPE_DESC.BEDROLL_STRAW
 msgctxt "STRINGS.RECIPE_DESC.BEDROLL_STRAW"
 msgid "Sleep through the night."
-msgstr ""
+msgstr "睡 觉 跳 过 夜 晚 。 "
 
 #. STRINGS.RECIPE_DESC.CUTSTONE
 msgctxt "STRINGS.RECIPE_DESC.CUTSTONE"
 msgid "Nicely squared rocks."
-msgstr ""
+msgstr "标 准 的 方 块 岩 石 。 "
 
 #. STRINGS.RECIPE_DESC.GOLDENPICKAXE
 msgctxt "STRINGS.RECIPE_DESC.GOLDENPICKAXE"
 msgid "Break down rocks like a boss."
-msgstr ""
+msgstr "大 Boss 破 坏 岩 石 ， 你 也 能 。 "
 
 #. STRINGS.RECIPE_DESC.SIESTAHUT
 msgctxt "STRINGS.RECIPE_DESC.SIESTAHUT"
 msgid "Escape the heat to restore sanity."
-msgstr ""
+msgstr "逃 离 炎 热 的 地 方 来 恢 复 神 智 。 "
 
 #. STRINGS.RECIPE_DESC.BOARDS
 msgctxt "STRINGS.RECIPE_DESC.BOARDS"
 msgid "Like logs but flatter."
-msgstr ""
+msgstr "像 木 头 一 样 ， 不 过 颜 值 更 高 一 些 。 "
 
 #. STRINGS.RECIPE_DESC.HAMMER
 msgctxt "STRINGS.RECIPE_DESC.HAMMER"
 msgid "Smashes all kinds of things."
-msgstr ""
+msgstr "想 砸 坏 什 么 就 能 砸 坏 什 么 。 "
 
 #. STRINGS.RECIPE_DESC.BATBAT
 msgctxt "STRINGS.RECIPE_DESC.BATBAT"
 msgid "All this science is so... draining."
-msgstr ""
+msgstr "所 有 的 科 学 都 …… 耗 尽 了 。 "
 
 #. STRINGS.RECIPE_DESC.GREENSTAFF
 msgctxt "STRINGS.RECIPE_DESC.GREENSTAFF"
 msgid "Clean and efficient destruction."
-msgstr ""
+msgstr "干 净 有 效 地 实 施 破 坏 。 "
 
 #. STRINGS.RECIPE_DESC.BIRDTRAP
 msgctxt "STRINGS.RECIPE_DESC.BIRDTRAP"
 msgid "Capture winged beasts."
-msgstr ""
+msgstr "捕 捉 飞 禽 。 "
 
 #. STRINGS.RECIPE_DESC.PICKAXE
 msgctxt "STRINGS.RECIPE_DESC.PICKAXE"
 msgid "Break down rocks."
-msgstr ""
+msgstr "破 坏 岩 石 。 "
 
 #. STRINGS.RECIPE_DESC.TRUNKVEST_SUMMER
 msgctxt "STRINGS.RECIPE_DESC.TRUNKVEST_SUMMER"
 msgid "Warm, but not that warm."
-msgstr ""
+msgstr "挺 暖 和 ， 不 过 也 就 是 那 么 回 事 。 "
 
 #. STRINGS.RECIPE_DESC.FAST_FARMPLOT
 msgctxt "STRINGS.RECIPE_DESC.FAST_FARMPLOT"
 msgid "Grows seeds a bit faster."
-msgstr ""
+msgstr "更 快 地 培 育 种 子 。 "
 
 #. STRINGS.RECIPE_DESC.BLOWDART_FIRE
 msgctxt "STRINGS.RECIPE_DESC.BLOWDART_FIRE"
 msgid "Spit fire at your enemies."
-msgstr ""
+msgstr "向 你 的 敌 人 喷 射 火 焰 。 "
 
 #. STRINGS.RECIPE_DESC.BLOWDART_PIPE
 msgctxt "STRINGS.RECIPE_DESC.BLOWDART_PIPE"
 msgid "Spit teeth at your enemies."
-msgstr ""
+msgstr "向 你 的 敌 人 喷 射 牙 齿 。 "
 
 #. STRINGS.RECIPE_DESC.RAINCOAT
 msgctxt "STRINGS.RECIPE_DESC.RAINCOAT"
 msgid "A waterproof coat to keep you dry."
-msgstr ""
+msgstr "防 水 外 套 ， 真 干 爽 。 "
 
 #. STRINGS.RECIPE_DESC.FEATHERFAN
 msgctxt "STRINGS.RECIPE_DESC.FEATHERFAN"
 msgid "Luxuriously soft, luxuriously large."
-msgstr ""
+msgstr "又 大 又 软 。 "
 
 #. STRINGS.RECIPE_DESC.GREENAMULET
 msgctxt "STRINGS.RECIPE_DESC.GREENAMULET"
 msgid "Craft with a discount!"
-msgstr ""
+msgstr "合 成 物 品 更 省 材 料 ！ "
 
 #. STRINGS.RECIPE_DESC.TORCH
 msgctxt "STRINGS.RECIPE_DESC.TORCH"
 msgid "Portable light source."
-msgstr ""
+msgstr "便 携 式 光 源 。 "
 
 #. STRINGS.RECIPE_DESC.PUMPKIN_LANTERN
 msgctxt "STRINGS.RECIPE_DESC.PUMPKIN_LANTERN"
 msgid "Spooky illumination."
-msgstr ""
+msgstr "毛 骨 悚 然 的 照 明 工 具 。 "
 
 #. STRINGS.RECIPE_DESC.HAWAIIANSHIRT
 msgctxt "STRINGS.RECIPE_DESC.HAWAIIANSHIRT"
 msgid "Fun in the sun. Or on Casual Fridays."
-msgstr ""
+msgstr "阳 光 下 很 好 玩 ， 也 可 以 在 休 闲 星 期 五 装 逼 。"
 
 #. STRINGS.RECIPE_DESC.PAPYRUS
 msgctxt "STRINGS.RECIPE_DESC.PAPYRUS"
 msgid "For writing things."
-msgstr ""
+msgstr "写 东 西 用 。 "
 
 #. STRINGS.RECIPE_DESC.BOOK_BIRDS
 msgctxt "STRINGS.RECIPE_DESC.BOOK_BIRDS"
 msgid "1000 species: habits, habitats, and calls."
-msgstr ""
+msgstr "1000 种 鸟 类 的 生 活 习 性 ， 栖 息 地 和 名 称 。 "
 
 #. STRINGS.RECIPE_DESC.ORANGEAMULET
 msgctxt "STRINGS.RECIPE_DESC.ORANGEAMULET"
 msgid "For those who don't like to pick items up."
-msgstr ""
+msgstr "给 那 些 连 东 西 都 懒 得 捡 的 人 。 "
 
 #. STRINGS.RECIPE_DESC.GUNPOWDER
 msgctxt "STRINGS.RECIPE_DESC.GUNPOWDER"
 msgid "A handful of gunpowder."
-msgstr ""
+msgstr "一 把 火 药 。 "
 
 #. STRINGS.RECIPE_DESC.BEEBOX
 msgctxt "STRINGS.RECIPE_DESC.BEEBOX"
 msgid "Store your own bees."
-msgstr ""
+msgstr "存 放 你 自 己 的 蜜 蜂 。 "
 
 #. STRINGS.RECIPE_DESC.GOLDENAXE
 msgctxt "STRINGS.RECIPE_DESC.GOLDENAXE"
 msgid "Chop down trees with STYLE!"
-msgstr ""
+msgstr "风 骚 地 撸 倒 树 木 。 "
 
 #. STRINGS.RECIPE_DESC.TRAP_TEETH_MAXWELL
 msgctxt "STRINGS.RECIPE_DESC.TRAP_TEETH_MAXWELL"
 msgid "Pops up and bites whoever steps on it."
-msgstr ""
+msgstr "谁 踩 咬 谁 。 "
 
 #. STRINGS.RECIPE_DESC.TENT
 msgctxt "STRINGS.RECIPE_DESC.TENT"
 msgid "Restores sanity, but costs time and hunger."
-msgstr ""
+msgstr "恢 复 理 智 ， 但 是 耗 费 时 间 和 饥 饿 度 。 "
 
 #. STRINGS.RECIPE_DESC.GOLDENPITCHFORK
 msgctxt "STRINGS.RECIPE_DESC.GOLDENPITCHFORK"
 msgid "Rearrange the whole world."
-msgstr ""
+msgstr "重 置 整 个 世 界 。 "
 
 #. STRINGS.RECIPE_DESC.RAINHAT
 msgctxt "STRINGS.RECIPE_DESC.RAINHAT"
 msgid "Soft to the touch, slick to the rain."
-msgstr ""
+msgstr "手 感 柔 软 ， 雨 中 轻 便 。 "
 
 #. STRINGS.RECIPE_DESC.ARMORGRASS
 msgctxt "STRINGS.RECIPE_DESC.ARMORGRASS"
 msgid "Provides a small amount of protection."
-msgstr ""
+msgstr "有 那 么 一 点 保 护 功 能 。 "
 
 #. STRINGS.RECIPE_DESC.RABBITHOUSE
 msgctxt "STRINGS.RECIPE_DESC.RABBITHOUSE"
 msgid "Houses a giant rabbit and all his stuff."
-msgstr ""
+msgstr "居 住 着 一 巨 大 的 兔 子 ， 里 面 还 有 它 的 全 部 家 当 。 "
 
 #. STRINGS.RECIPE_DESC.RAZOR
 msgctxt "STRINGS.RECIPE_DESC.RAZOR"
 msgid "Shave off your dirty beatnik beard."
-msgstr ""
+msgstr "剃 掉 你 的 脏 胡 子 。 "
 
 #. STRINGS.RECIPE_DESC.THULECITE
 msgctxt "STRINGS.RECIPE_DESC.THULECITE"
 msgid "Combine tiny bits into a big chunk."
-msgstr ""
+msgstr "聚 少 成 多 。 "
 
 #. STRINGS.RECIPE_DESC.TREASURECHEST
 msgctxt "STRINGS.RECIPE_DESC.TREASURECHEST"
 msgid "A sturdy container."
-msgstr ""
+msgstr "结 实 的 收 纳 盒 。 "
 
 #. STRINGS.RECIPE_DESC.FIREPIT
 msgctxt "STRINGS.RECIPE_DESC.FIREPIT"
 msgid "A safer, more efficient campfire."
-msgstr ""
+msgstr "更 安 全 ， 更 高 效 的 篝 火 。 "
 
 #. STRINGS.RECIPE_DESC.CAMPFIRE
 msgctxt "STRINGS.RECIPE_DESC.CAMPFIRE"
 msgid "Provides light while burning."
-msgstr ""
+msgstr "用 燃 烧 换 来 光 明 。 "
 
 #. STRINGS.RECIPE_DESC.ARMOR_SANITY
 msgctxt "STRINGS.RECIPE_DESC.ARMOR_SANITY"
 msgid "Protects your body, but not your mind."
-msgstr ""
+msgstr "保 护 你 的 躯 体 ， 而 不 是 你 的 神 智 。 "
 
 #. STRINGS.RECIPE_DESC.ONEMANBAND
 msgctxt "STRINGS.RECIPE_DESC.ONEMANBAND"
 msgid "Even crazy musicians amass a following."
-msgstr ""
+msgstr "即 便 是 最 疯 狂 的 音 乐 家 也 需 要 粉 丝 。 "
 
 #. STRINGS.RECIPE_DESC.FIRESTAFF
 msgctxt "STRINGS.RECIPE_DESC.FIRESTAFF"
 msgid "Harness the power of combustion!"
-msgstr ""
+msgstr "控 制 燃 烧 的 力 量 ！ "
 
 #. STRINGS.RECIPE_DESC.BOOK_SLEEP
 msgctxt "STRINGS.RECIPE_DESC.BOOK_SLEEP"
 msgid "Soothing tales to send you off to dreamland."
-msgstr ""
+msgstr "抚 慰 人 心 的 故 事 带 你 去 梦 境 。 "
 
 #. STRINGS.RECIPE_DESC.FIRESUPPRESSOR
 msgctxt "STRINGS.RECIPE_DESC.FIRESUPPRESSOR"
 msgid "Saves plants, puts out fires, fueled by flame."
-msgstr ""
+msgstr "拯 救 植 物 ， 扑 灭 大 火 ， 获 得 火 能 ！ "
 
 #. STRINGS.RECIPE_DESC.HAMBAT
 msgctxt "STRINGS.RECIPE_DESC.HAMBAT"
 msgid "It takes food to make food."
-msgstr ""
+msgstr "用 食 物 制 作 食 物 。 "
 
 #. STRINGS.RECIPE_DESC.NIGHTLIGHT
 msgctxt "STRINGS.RECIPE_DESC.NIGHTLIGHT"
 msgid "Light the night with your dreams."
-msgstr ""
+msgstr "用 梦 想 点 亮 星 空 。 "
 
 #. STRINGS.RECIPE_DESC.AXE
 msgctxt "STRINGS.RECIPE_DESC.AXE"
 msgid "Chop down trees!"
-msgstr ""
+msgstr "撸 倒 树 木 ！ "
 
 #. STRINGS.RECIPE_DESC.ICEHAT
 msgctxt "STRINGS.RECIPE_DESC.ICEHAT"
 msgid "Science, on the rocks."
-msgstr ""
+msgstr "科 学 ， 加 冰 。 "
 
 #. STRINGS.RECIPE_DESC.TOPHAT
 msgctxt "STRINGS.RECIPE_DESC.TOPHAT"
 msgid "The classiest hat of all."
-msgstr ""
+msgstr "最 时 髦 的 帽 子 ！ "
 
 #. STRINGS.RECIPE_DESC.FISHINGROD
 msgctxt "STRINGS.RECIPE_DESC.FISHINGROD"
 msgid "Go fishing. For fish."
-msgstr ""
+msgstr "钓 鱼 去 ！ "
 
 #. STRINGS.RECIPE_DESC.SLOW_FARMPLOT
 msgctxt "STRINGS.RECIPE_DESC.SLOW_FARMPLOT"
 msgid "Grows seeds."
-msgstr ""
+msgstr "培 育 种 子 。 "
 
 #. STRINGS.RECIPE_DESC.BEEFALOHAT
 msgctxt "STRINGS.RECIPE_DESC.BEEFALOHAT"
 msgid "Be one with the herd! Smell included."
-msgstr ""
+msgstr "和 禽 兽 们 呆 在 一 起 吧 ！ 包 括 异 味 。 "
 
 #. STRINGS.RECIPE_DESC.WINTERHAT
 msgctxt "STRINGS.RECIPE_DESC.WINTERHAT"
 msgid "Keeps yer noggin warm."
-msgstr ""
+msgstr "让 你 的 头 保 持 温 暖 。 "
 
 #. STRINGS.RECIPE_DESC.MULTITOOL_AXE_PICKAXE
 msgctxt "STRINGS.RECIPE_DESC.MULTITOOL_AXE_PICKAXE"
 msgid "Doubly useful."
-msgstr ""
+msgstr "一 物 两 用 。 "
 
 #. STRINGS.RECIPE_DESC.MINERHAT
 msgctxt "STRINGS.RECIPE_DESC.MINERHAT"
 msgid "Light up the night with your noggin."
-msgstr ""
+msgstr "用 头 即 可 照 亮 黑 暗 。 "
 
 #. STRINGS.RECIPE_DESC.RAINOMETER
 msgctxt "STRINGS.RECIPE_DESC.RAINOMETER"
 msgid "Observe precipitation probabilities."
-msgstr ""
+msgstr "观 测 降 雨 可 能 性 。 "
 
 #. STRINGS.RECIPE_DESC.COLDFIREPIT
 msgctxt "STRINGS.RECIPE_DESC.COLDFIREPIT"
 msgid "More efficient, but still backwards."
-msgstr ""
+msgstr "高 效 ， 但 是 有 反 作 用 。 "
 
 #. STRINGS.RECIPE_DESC.TELESTAFF
 msgctxt "STRINGS.RECIPE_DESC.TELESTAFF"
 msgid "Bend space! Time bend sold separately."
-msgstr ""
+msgstr "空 间 扭 曲 ！ 时 间 扭 曲 另 算 钱 。 "
 
 #. STRINGS.RECIPE_DESC.ICEBOX
 msgctxt "STRINGS.RECIPE_DESC.ICEBOX"
 msgid "Slows food spoilage."
-msgstr ""
+msgstr "食 物 烂 得 更 慢 。 "
 
 #. STRINGS.RECIPE_DESC.STRAWHAT
 msgctxt "STRINGS.RECIPE_DESC.STRAWHAT"
 msgid "Helps you stay cool and dry."
-msgstr ""
+msgstr "干 爽 ！ "
 
 #. STRINGS.RECIPE_DESC.WATERMELONHAT
 msgctxt "STRINGS.RECIPE_DESC.WATERMELONHAT"
 msgid "Refreshing, but sticky."
-msgstr ""
+msgstr "提 神 醒 脑 ， 不 过 有 点 黏 。 "
 
 #. STRINGS.RECIPE_DESC.FOOTBALLHAT
 msgctxt "STRINGS.RECIPE_DESC.FOOTBALLHAT"
 msgid "Protect your braincase."
-msgstr ""
+msgstr "保 护 你 的 脑 壳 。 "
 
 #. STRINGS.RECIPE_DESC.SWEATERVEST
 msgctxt "STRINGS.RECIPE_DESC.SWEATERVEST"
 msgid "Rugged, yet stylish."
-msgstr ""
+msgstr "凹 凸 不 平 ， 但 是 很 时 髦 。 "
 
 #. STRINGS.RECIPE_DESC.ICESTAFF
 msgctxt "STRINGS.RECIPE_DESC.ICESTAFF"
 msgid "Freeze enemies in their tracks."
-msgstr ""
+msgstr "在 路 上 冻 住 敌 人 。 详 见 葵 花 点 穴 手 。 "
 
 #. STRINGS.RECIPE_DESC.BUGNET
 msgctxt "STRINGS.RECIPE_DESC.BUGNET"
 msgid "Catch bugs."
-msgstr ""
+msgstr "捕 捉 臭 虫 。 "
 
 #. STRINGS.RECIPE_DESC.NIGHTMAREFUEL
 msgctxt "STRINGS.RECIPE_DESC.NIGHTMAREFUEL"
 msgid "Evil residue used by the foolish and crazy."
-msgstr ""
+msgstr "蠢 货 和 疯 子 才 会 用 的 罪 恶 残 渣 。 "
 
 #. STRINGS.RECIPE_DESC.TURF_CHECKERFLOOR
 msgctxt "STRINGS.RECIPE_DESC.TURF_CHECKERFLOOR"
 msgid "Nicely checkered marble tiles."
-msgstr ""
+msgstr "标 准 的 方 格 大 理 石 瓷 砖 。 "
 
 #. STRINGS.RECIPE_DESC.MEATRACK
 msgctxt "STRINGS.RECIPE_DESC.MEATRACK"
 msgid "The jerkiest of racks."
-msgstr ""
+msgstr "最 蠢 的 晒 肉 架 。 "
 
 #. STRINGS.RECIPE_DESC.ARMORWOOD
 msgctxt "STRINGS.RECIPE_DESC.ARMORWOOD"
 msgid "Protects you from some damage."
-msgstr ""
+msgstr "保 护 你 少 受 伤 害 。 "
 
 #. STRINGS.RECIPE_DESC.RESURRECTIONSTATUE
 msgctxt "STRINGS.RECIPE_DESC.RESURRECTIONSTATUE"
 msgid "Resurrect yourself via the power of meat."
-msgstr ""
+msgstr "从 肉 中 获 取 体 力 。 "
 
 #. STRINGS.RECIPE_DESC.CANE
 msgctxt "STRINGS.RECIPE_DESC.CANE"
 msgid "Trot on with speed and poise."
-msgstr ""
+msgstr "飘 逸 。 "
 
 #. STRINGS.RECIPE_DESC.WALL_WOOD_ITEM
 msgctxt "STRINGS.RECIPE_DESC.WALL_WOOD_ITEM"
 msgid "Wooden wall segments."
-msgstr ""
+msgstr "木 墙 片 段 。 "
 
 #. STRINGS.RECIPE_DESC.WATHGRITHRHAT
 msgctxt "STRINGS.RECIPE_DESC.WATHGRITHRHAT"
 msgid "The unicorn is what protects you."
-msgstr ""
+msgstr "独 角 兽 ， 保 护 你 。 "
 
 #. STRINGS.RECIPE_DESC.CATCOONHAT
 msgctxt "STRINGS.RECIPE_DESC.CATCOONHAT"
 msgid "For those who value warmth over friends."
-msgstr ""
+msgstr "要 温 度 ， 不 要 风 度 。 "
 
 #. STRINGS.RECIPE_DESC.FERTILIZER
 msgctxt "STRINGS.RECIPE_DESC.FERTILIZER"
 msgid "Less poop on hands, more poop on plants."
-msgstr ""
+msgstr "手 中 粪 少 花 草 笑 。 "
 
 #. STRINGS.RECIPE_DESC.EYEBRELLAHAT
 msgctxt "STRINGS.RECIPE_DESC.EYEBRELLAHAT"
 msgid "An eye on the sky keeps you dry."
-msgstr ""
+msgstr "独 目 望 天 雨 靠 边 。 "
 
 #. STRINGS.RECIPE_DESC.HOMESIGN
 msgctxt "STRINGS.RECIPE_DESC.HOMESIGN"
 msgid "Make your mark upon the world."
-msgstr ""
+msgstr "让 全 世 界 都 遍 布 你 的 足 记 。 "
 
 #. STRINGS.RECIPE_DESC.SEWING_KIT
 msgctxt "STRINGS.RECIPE_DESC.SEWING_KIT"
 msgid "Fix up degraded clothing items."
-msgstr ""
+msgstr "缝 缝 补 补 。 "
 
 #. STRINGS.RECIPE_DESC.COLDFIRE
 msgctxt "STRINGS.RECIPE_DESC.COLDFIRE"
 msgid "This fire is from opposite day."
-msgstr ""
+msgstr "这 团 火 来 自 相 反 的 一 天 。 "
 
 #. STRINGS.RECIPE_DESC.BELL
 msgctxt "STRINGS.RECIPE_DESC.BELL"
 msgid "This isn't just any bell."
-msgstr ""
+msgstr "铃 铛 ， 简 约 而 不 简 单 。 "
 
 #. STRINGS.RECIPE_DESC.SPEAR_WATHGRITHR
 msgctxt "STRINGS.RECIPE_DESC.SPEAR_WATHGRITHR"
 msgid "The gold makes it sharper."
-msgstr ""
+msgstr "黄 金 使 它 更 加 锋 利 。 "
 
 #. STRINGS.RECIPE_DESC.GRASS_UMBRELLA
 msgctxt "STRINGS.RECIPE_DESC.GRASS_UMBRELLA"
 msgid "Posh & portable protection."
-msgstr ""
+msgstr "秀 外 慧 中 的 防 具 。 "
 
 #. STRINGS.RECIPE_DESC.SPIDERHAT
 msgctxt "STRINGS.RECIPE_DESC.SPIDERHAT"
 msgid "Spiders will call you 'mom'."
-msgstr ""
+msgstr "蜘蛛会认你做干妈。"
 
 #. STRINGS.RECIPE_DESC.RUINSHAT
 msgctxt "STRINGS.RECIPE_DESC.RUINSHAT"
 msgid "Complete with ancient force field!"
-msgstr ""
+msgstr "用 远 古 力 场 制 成 ！ "
 
 #. STRINGS.RECIPE_DESC.ROPE
 msgctxt "STRINGS.RECIPE_DESC.ROPE"
 msgid "Tightly woven coils of usefulness."
-msgstr ""
+msgstr "好 用 的 线 圈 紧 密 编 制 而 成 。 "
 
 #. STRINGS.RECIPE_DESC.BACKPACK
 msgctxt "STRINGS.RECIPE_DESC.BACKPACK"
 msgid "Carry more stuff."
-msgstr ""
+msgstr "让 你 携 带 更 多 东 西 。 "
 
 #. STRINGS.RECIPE_DESC.YELLOWSTAFF
 msgctxt "STRINGS.RECIPE_DESC.YELLOWSTAFF"
 msgid "Summon a tiny star."
-msgstr ""
+msgstr "召 唤 一 个 小 星 星 。 "
 
 #. STRINGS.RECIPE_DESC.WALL_RUINS_ITEM
 msgctxt "STRINGS.RECIPE_DESC.WALL_RUINS_ITEM"
 msgid "These walls will take quite a beating."
-msgstr ""
+msgstr "这 些 墙 能 隔 住 战 斗 的 声 响 。 "
 
 #. STRINGS.RECIPE_DESC.WALL_HAY_ITEM
 msgctxt "STRINGS.RECIPE_DESC.WALL_HAY_ITEM"
 msgid "Hay wall segments. Not very sturdy."
-msgstr ""
+msgstr "干 草 墙 片 段 ， 不 够 结 实 。 "
 
 #. STRINGS.RECIPE_DESC.EYETURRET_ITEM
 msgctxt "STRINGS.RECIPE_DESC.EYETURRET_ITEM"
 msgid "Keep the nasties away. By killing them."
-msgstr ""
+msgstr "杀 了 那 些 败 类 ， 免 得 恶 心 。 "
 
 #. STRINGS.RECIPE_DESC.ARMORSLURPER
 msgctxt "STRINGS.RECIPE_DESC.ARMORSLURPER"
 msgid "Keep that belly full."
-msgstr ""
+msgstr "填 饱 肚 子 。 "
 
 #. STRINGS.RECIPE_DESC.AMULET
 msgctxt "STRINGS.RECIPE_DESC.AMULET"
 msgid "Protects you from death."
-msgstr ""
+msgstr "尽 量 保 你 不 死 。 "
 
 #. STRINGS.RECIPE_DESC.GOLDENSHOVEL
 msgctxt "STRINGS.RECIPE_DESC.GOLDENSHOVEL"
 msgid "Lasts longer, digs the same stuff."
-msgstr ""
+msgstr "用 起 来 一 样 ， 但 是 耐 久 更 高 。 "
 
 #. STRINGS.RECIPE_DESC.NIGHTMARE_TIMEPIECE
 msgctxt "STRINGS.RECIPE_DESC.NIGHTMARE_TIMEPIECE"
 msgid "Track the flow of ambient magic levels."
-msgstr ""
+msgstr "关 注 周 围 的 魔 法 流 。 "
 
 #. STRINGS.RECIPE_DESC.BOOK_TENTACLES
 msgctxt "STRINGS.RECIPE_DESC.BOOK_TENTACLES"
 msgid "Let's learn about our subterranean friends!"
-msgstr ""
+msgstr "咱 们 认 识 认 识 地 下 的 朋 友 们 ！ "
 
 #. STRINGS.RECIPE_DESC.RUINS_BAT
 msgctxt "STRINGS.RECIPE_DESC.RUINS_BAT"
 msgid "Spikes make everything better."
-msgstr ""
+msgstr "尖 刺 ， 明 天 会 更 好 。 "
 
 #. STRINGS.RECIPE_DESC.SHOVEL
 msgctxt "STRINGS.RECIPE_DESC.SHOVEL"
 msgid "Dig up all sorts of things."
-msgstr ""
+msgstr "想 挖 什 么 就 能 挖 什 么 。 "
 
 #. STRINGS.RECIPE_DESC.DRAGONFLYCHEST
 msgctxt "STRINGS.RECIPE_DESC.DRAGONFLYCHEST"
 msgid "A sturdy and fireproof container."
-msgstr ""
+msgstr "坚 固 的 防 火 收 纳 盒 。 "
 
 #. STRINGS.RECIPE_DESC.TELEBASE
 msgctxt "STRINGS.RECIPE_DESC.TELEBASE"
 msgid "Just add gems."
-msgstr ""
+msgstr "添 加 宝 石 即 可 。 "
 
 #. STRINGS.RECIPE_DESC.TURF_CARPETFLOOR
 msgctxt "STRINGS.RECIPE_DESC.TURF_CARPETFLOOR"
 msgid "Super soft. Smells like Beefalo."
-msgstr ""
+msgstr "超 软 ， 闻 起 来 像 大 牛 一 样 。 "
 
 #. STRINGS.RECIPE_DESC.BIRDCAGE
 msgctxt "STRINGS.RECIPE_DESC.BIRDCAGE"
 msgid "A happy home for your avian friends."
-msgstr ""
+msgstr "鸟 儿 温 馨 的 家 。 "
 
 #. STRINGS.RECIPE_DESC.WINTEROMETER
 msgctxt "STRINGS.RECIPE_DESC.WINTEROMETER"
 msgid "Measure ambient air temperature."
-msgstr ""
+msgstr "测 量 周 围 的 气 温 。 "
 
 #. STRINGS.RECIPE_DESC.COOKPOT
 msgctxt "STRINGS.RECIPE_DESC.COOKPOT"
 msgid "Make better food."
-msgstr ""
+msgstr "制 作 更 美 味 的 食 物 。 "
 
 #. STRINGS.RECIPE_DESC.UMBRELLA
 msgctxt "STRINGS.RECIPE_DESC.UMBRELLA"
 msgid "Keep the sun and rain at bay!"
-msgstr ""
+msgstr "晒 不 着 ， 淋 不 着 ！ "
 
 #. STRINGS.RECIPE_DESC.ACCOMPLISHMENT_SHRINE
 msgctxt "STRINGS.RECIPE_DESC.ACCOMPLISHMENT_SHRINE"
 msgid "Prove your worth as a human being."
-msgstr ""
+msgstr "证 明 你 作 为 人 类 的 价 值 。 "
 
 #. STRINGS.RECIPE_DESC.LIGHTNING_ROD
 msgctxt "STRINGS.RECIPE_DESC.LIGHTNING_ROD"
 msgid "Protection from strikes."
-msgstr ""
+msgstr "保 护 你 免 受 攻 击 。 "
 
 #. STRINGS.RECIPE_DESC.BOOK_GARDENING
 msgctxt "STRINGS.RECIPE_DESC.BOOK_GARDENING"
 msgid "On the care and feeding of plants."
-msgstr ""
+msgstr "教 你 如 何 务 农 。 "
 
 #. STRINGS.RECIPE_DESC.HEALINGSALVE
 msgctxt "STRINGS.RECIPE_DESC.HEALINGSALVE"
 msgid "Disinfectant for cuts and abrasions."
-msgstr ""
+msgstr "给 外 伤 消 毒 。 "
 
 #. STRINGS.RECIPE_DESC.BEDROLL_FURRY
 msgctxt "STRINGS.RECIPE_DESC.BEDROLL_FURRY"
 msgid "Sleep through the night in comfort!"
-msgstr ""
+msgstr "一 觉 睡 到 大 天 亮 ！ " 
 
 #. STRINGS.RECIPE_DESC.BOOK_BRIMSTONE
 msgctxt "STRINGS.RECIPE_DESC.BOOK_BRIMSTONE"
 msgid "The world will end in fire and tribulation!"
-msgstr ""
+msgstr "这 个 世 界 将 会 在 水 深 火 热 之 中 消 逝 ！ "
 
 #. STRINGS.RECIPE_DESC.MOLEHAT
 msgctxt "STRINGS.RECIPE_DESC.MOLEHAT"
 msgid "Grants the wearer Smell-E-Vision."
-msgstr ""
+msgstr "戴 上 它 ， 你 就 拥 有 了 嗅 觉 和 视 觉 。 "
 
 #. STRINGS.RECIPE_DESC.NIGHTSTICK
 msgctxt "STRINGS.RECIPE_DESC.NIGHTSTICK"
 msgid "Morning light for a nighttime fight."
-msgstr ""
+msgstr "为 夜 战 而 生 的 晨 曦 。 "
 
 #. STRINGS.RECIPE_DESC.PIGHOUSE
 msgctxt "STRINGS.RECIPE_DESC.PIGHOUSE"
 msgid "Shelters one pig."
-msgstr ""
+msgstr "养 猪 。 "
 
 #. STRINGS.RECIPE_DESC.BEARGERVEST
 msgctxt "STRINGS.RECIPE_DESC.BEARGERVEST"
 msgid "A bear of a vest."
-msgstr ""
+msgstr "就 是 一 个 熊 皮 背 心 。 "
 
 #. STRINGS.RECIPE_DESC.NIGHTSWORD
 msgctxt "STRINGS.RECIPE_DESC.NIGHTSWORD"
 msgid "Lucid dreaming damage."
-msgstr ""
+msgstr "肉 眼 可 见 的 伤 害 。 "
 
 #. STRINGS.RECIPE_DESC.ARMORMARBLE
 msgctxt "STRINGS.RECIPE_DESC.ARMORMARBLE"
 msgid "It's heavy, but it will protect you."
-msgstr ""
+msgstr "重 了 点 ， 但 是 能 保 护 你 。 "
 
 #. STRINGS.RECIPE_DESC.TRANSISTOR
 msgctxt "STRINGS.RECIPE_DESC.TRANSISTOR"
 msgid "Science away! Bzzzt!"
-msgstr ""
+msgstr "跟 我 讲 什 么 科 学 ！ 嗞 ！ "
 
 #. STRINGS.RECIPE_DESC.TURF_WOODFLOOR
 msgctxt "STRINGS.RECIPE_DESC.TURF_WOODFLOOR"
 msgid "High-quality laminate floorboards."
-msgstr ""
+msgstr "高 品 质 地 板 层 。 "
 
 #. STRINGS.RECIPE_DESC.FLOWERHAT
 msgctxt "STRINGS.RECIPE_DESC.FLOWERHAT"
 msgid "Something to soothe the nerves."
-msgstr ""
+msgstr "能 放 松 神 经 的 东 西 。 "
 
 #. STRINGS.RECIPE_DESC.ORANGESTAFF
 msgctxt "STRINGS.RECIPE_DESC.ORANGESTAFF"
 msgid "For those who don't like walking."
-msgstr ""
+msgstr "给 那 些 懒 到 家 的 人 。 "
 
 #. STRINGS.RECIPE_DESC.WALL_STONE_ITEM
 msgctxt "STRINGS.RECIPE_DESC.WALL_STONE_ITEM"
 msgid "Stone wall segments."
-msgstr ""
+msgstr "石 墙 片 段 。 "
 
 #. STRINGS.RECIPE_DESC.BUSHHAT
 msgctxt "STRINGS.RECIPE_DESC.BUSHHAT"
 msgid "Good for hiding!"
-msgstr ""
+msgstr "不 错 的 藏 身 处 ！ "
 
 #. STRINGS.RECIPE_DESC.EARMUFFSHAT
 msgctxt "STRINGS.RECIPE_DESC.EARMUFFSHAT"
 msgid "A fuzzy little bit of warmth."
-msgstr ""
+msgstr "一 丝 暖 意 。 "
 
 #. STRINGS.RECIPE_DESC.TRAP_TEETH
 msgctxt "STRINGS.RECIPE_DESC.TRAP_TEETH"
 msgid "Pops up and bites whoever steps on it."
-msgstr ""
+msgstr "谁 踩 咬 谁 。 "
 
 #. STRINGS.RECIPE_DESC.TRAP
 msgctxt "STRINGS.RECIPE_DESC.TRAP"
 msgid "Capture small creatures."
-msgstr ""
+msgstr "捕 捉 小 动 物 。 "
 
 #. STRINGS.RECIPE_DESC.TRUNKVEST_WINTER
 msgctxt "STRINGS.RECIPE_DESC.TRUNKVEST_WINTER"
 msgid "Warm enough for winter storms."
-msgstr ""
+msgstr "让 暴 风 雪 来 的 更 猛 烈 些 吧 ！ "
 
 #. STRINGS.RECIPE_DESC.ARMORDRAGONFLY
 msgctxt "STRINGS.RECIPE_DESC.ARMORDRAGONFLY"
 msgid "Armour with a fiery temper."
-msgstr ""
+msgstr "暴 躁 的 铠 甲 。 "
 
 #. STRINGS.RECIPE_DESC.REFLECTIVEVEST
 msgctxt "STRINGS.RECIPE_DESC.REFLECTIVEVEST"
 msgid "Keep cool and fresh in this stylish vest."
-msgstr ""
+msgstr "这 逼 格 高 的 背 心 真 沁 人 心 脾 。 "
 
 #. STRINGS.RECIPE_DESC.BLUEAMULET
 msgctxt "STRINGS.RECIPE_DESC.BLUEAMULET"
 msgid "What a cool amulet."
-msgstr ""
+msgstr "这 护 符 酷 毙 了 ！ "
 
 #. STRINGS.RECIPE_DESC.YELLOWAMULET
 msgctxt "STRINGS.RECIPE_DESC.YELLOWAMULET"
 msgid "Pull power from the heavens."
-msgstr ""
+msgstr "上 帝 给 予 力 量 。 "
 
 #. STRINGS.RECIPE_DESC.RESEARCHLAB2
 msgctxt "STRINGS.RECIPE_DESC.RESEARCHLAB2"
 msgid "Unlock even more crafting recipes!"
-msgstr ""
+msgstr "解 锁 了 更 多 配 方 。 "
 
 #. STRINGS.RECIPE_DESC.PURPLEAMULET
 msgctxt "STRINGS.RECIPE_DESC.PURPLEAMULET"
 msgid "Induce insanity."
-msgstr ""
+msgstr "诱 发 精 神 失 常 。 "
 
 #. STRINGS.RECIPE_DESC.ARMORRUINS
 msgctxt "STRINGS.RECIPE_DESC.ARMORRUINS"
 msgid "Flashy AND protective."
-msgstr ""
+msgstr "闪 光 且 具 有 防 护 功 能 。 "
 
 #. STRINGS.RECIPE_DESC.BEEHAT
 msgctxt "STRINGS.RECIPE_DESC.BEEHAT"
 msgid "Protection against angry bees."
-msgstr ""
+msgstr "阻 止 急 眼 蜜 蜂 的 伤 害 。 "
 
 #. STRINGS.RECIPE_DESC.RESEARCHLAB4
 msgctxt "STRINGS.RECIPE_DESC.RESEARCHLAB4"
 msgid "Amplify the magical power of your top hat."
-msgstr ""
+msgstr "增 加 高 帽 的 魔 力 。 "
 
 #. STRINGS.RECIPE_DESC.RESEARCHLAB3
 msgctxt "STRINGS.RECIPE_DESC.RESEARCHLAB3"
 msgid "Is this even science anymore?"
-msgstr ""
+msgstr "这 TM 也 叫 科 学 ？ "
 
 #. STRINGS.RECIPE_DESC.ICEPACK
 msgctxt "STRINGS.RECIPE_DESC.ICEPACK"
 msgid "Small capacity, but keeps stuff fresh."
-msgstr ""
+msgstr "容 量 小 ， 但 是 可 以 保 鲜 。 "
 
 #. STRINGS.RECIPE_DESC.PIGGYBACK
 msgctxt "STRINGS.RECIPE_DESC.PIGGYBACK"
 msgid "Carries a lot, but slows you down."
-msgstr ""
+msgstr "容 量 大 ， 降 低 行 动 速 度 。 "
 
 #. STRINGS.RECIPE_DESC.RESEARCHLAB
 msgctxt "STRINGS.RECIPE_DESC.RESEARCHLAB"
 msgid "Unlock new crafting recipes!"
-msgstr ""
+msgstr "解 锁 了 新 的 合 成 配 方 ！ "
 
 #. STRINGS.RECIPE_DESC.PITCHFORK
 msgctxt "STRINGS.RECIPE_DESC.PITCHFORK"
 msgid "Move the ground around."
-msgstr ""
+msgstr "翻 土 。 "
 
 #. STRINGS.RECIPE_DESC.SPEAR
 msgctxt "STRINGS.RECIPE_DESC.SPEAR"
 msgid "Use the pointy end."
-msgstr ""
+msgstr "用 尖 锐 的 尾 端 。 "
 
 #. STRINGS.RECIPE_DESC.POTTEDFERN
 msgctxt "STRINGS.RECIPE_DESC.POTTEDFERN"
 msgid "Make a pot and stick a fern inside."
-msgstr ""
+msgstr "做 个 盆 然 后 插 进 一 个 蕨 类 植 物 。 "
 
 #. STRINGS.RECIPE_DESC.BANDAGE
 msgctxt "STRINGS.RECIPE_DESC.BANDAGE"
 msgid "Heal your minor wounds."
-msgstr ""
+msgstr "治 愈 你 的 小 伤 口 。 "
 
 #. STRINGS.DIRECTIONS.NE
 msgctxt "STRINGS.DIRECTIONS.NE"
 msgid "Northeast"
-msgstr ""
+msgstr "东 北 "
 
 #. STRINGS.DIRECTIONS.NW
 msgctxt "STRINGS.DIRECTIONS.NW"
 msgid "Northwest"
-msgstr ""
+msgstr "西 北 "
 
 #. STRINGS.DIRECTIONS.S
 msgctxt "STRINGS.DIRECTIONS.S"
 msgid "South"
-msgstr ""
+msgstr "南 "
 
 #. STRINGS.DIRECTIONS.SE
 msgctxt "STRINGS.DIRECTIONS.SE"
 msgid "Southeast"
-msgstr ""
+msgstr "东 南 "
 
 #. STRINGS.DIRECTIONS.E
 msgctxt "STRINGS.DIRECTIONS.E"
 msgid "East"
-msgstr ""
+msgstr "东 "
 
 #. STRINGS.DIRECTIONS.SW
 msgctxt "STRINGS.DIRECTIONS.SW"
 msgid "Southwest"
-msgstr ""
+msgstr "西 南 "
 
 #. STRINGS.DIRECTIONS.W
 msgctxt "STRINGS.DIRECTIONS.W"
 msgid "West"
-msgstr ""
+msgstr "西 "
 
 #. STRINGS.DIRECTIONS.N
 msgctxt "STRINGS.DIRECTIONS.N"
 msgid "North"
-msgstr ""
+msgstr "北 "
 
 #. STRINGS.TRADEMOD
 msgctxt "STRINGS.TRADEMOD"
 msgid "Move"
-msgstr ""
+msgstr "移 动 "
+
 
