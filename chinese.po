@@ -458,8 +458,8 @@ msgstr "伍 迪 "
 
 #. STRINGS.CHARACTER_NAMES.wathgrithr
 msgctxt "STRINGS.CHARACTER_NAMES.wathgrithr"
-msgid "女 武 神 "
-msgstr ""
+msgid "Wigfrid"
+msgstr "女 武 神 "
 
 #. STRINGS.CHARACTER_NAMES.unknown
 msgctxt "STRINGS.CHARACTER_NAMES.unknown"
@@ -1159,12 +1159,12 @@ msgstr "阻 塞 的 污 水 池 "
 #. STRINGS.NAMES.WALRUSHAT
 msgctxt "STRINGS.NAMES.WALRUSHAT"
 msgid "Tam o' Shanter"
-msgstr ""
+msgstr "苏 格 兰 圆 扁 帽 "
 
 #. STRINGS.NAMES.CHESSJUNK1
 msgctxt "STRINGS.NAMES.CHESSJUNK1"
 msgid "Broken clockworks"
-msgstr " 坏 掉 的 钟 表 零 件 "
+msgstr " 坏 掉 的 发 条 "
 
 #. STRINGS.NAMES.RED_CAP
 msgctxt "STRINGS.NAMES.RED_CAP"
@@ -1239,2177 +1239,2177 @@ msgstr "奶 油 松 饼 "
 #. STRINGS.NAMES.RABBITHOUSE
 msgctxt "STRINGS.NAMES.RABBITHOUSE"
 msgid "Rabbit Hutch"
-msgstr ""
+msgstr "兔 笼 "
 
 #. STRINGS.NAMES.EARMUFFSHAT
 msgctxt "STRINGS.NAMES.EARMUFFSHAT"
 msgid "Rabbit Earmuffs"
-msgstr ""
+msgstr "兔 耳 包 "
 
 #. STRINGS.NAMES.THULECITE
 msgctxt "STRINGS.NAMES.THULECITE"
 msgid "Thulecite"
-msgstr ""
+msgstr "铥 矿 石 "
 
 #. STRINGS.NAMES.MUSHTREE_TALL
 msgctxt "STRINGS.NAMES.MUSHTREE_TALL"
 msgid "Blue Mushtree"
-msgstr ""
+msgstr "蓝 蘑 菇 树 "
 
 #. STRINGS.NAMES.SAPLING
 msgctxt "STRINGS.NAMES.SAPLING"
 msgid "Sapling"
-msgstr ""
+msgstr "树 苗 "
 
 #. STRINGS.NAMES.BEARGER
 msgctxt "STRINGS.NAMES.BEARGER"
 msgid "Bearger"
-msgstr ""
+msgstr "伯 杰 "
 
 #. STRINGS.NAMES.DIVININGRODBASE
 msgctxt "STRINGS.NAMES.DIVININGRODBASE"
 msgid "Divining Rod Holder"
-msgstr ""
+msgstr "持 探 矿 魔 杖 者 "
 
 #. STRINGS.NAMES.CAMPFIRE
 msgctxt "STRINGS.NAMES.CAMPFIRE"
 msgid "Campfire"
-msgstr ""
+msgstr "篝 火 "
 
 #. STRINGS.NAMES.COOKEDMANDRAKE
 msgctxt "STRINGS.NAMES.COOKEDMANDRAKE"
 msgid "Cooked Mandrake"
-msgstr ""
+msgstr "熟 曼 德 拉 草 "
 
 #. STRINGS.NAMES.TENTACLE_PILLAR_ARM
 msgctxt "STRINGS.NAMES.TENTACLE_PILLAR_ARM"
 msgid "Baby Tentacle"
-msgstr ""
+msgstr "小 触 手 怪 "
 
 #. STRINGS.NAMES.REDGEM
 msgctxt "STRINGS.NAMES.REDGEM"
 msgid "Red Gem"
-msgstr ""
+msgstr "红 宝 石 "
 
 #. STRINGS.NAMES.CHARCOAL
 msgctxt "STRINGS.NAMES.CHARCOAL"
 msgid "Charcoal"
-msgstr ""
+msgstr "木 炭 "
 
 #. STRINGS.NAMES.KOALEFANT_SUMMER
 msgctxt "STRINGS.NAMES.KOALEFANT_SUMMER"
 msgid "Koalefant"
-msgstr ""
+msgstr "大 象 "
 
 #. STRINGS.NAMES.PIGGUARD
 msgctxt "STRINGS.NAMES.PIGGUARD"
 msgid "Guard Pig"
-msgstr ""
+msgstr "猪 人 守 卫 "
 
 #. STRINGS.NAMES.GHOST_SAILOR
 msgctxt "STRINGS.NAMES.GHOST_SAILOR"
 msgid "Sailor's Ghost"
-msgstr ""
+msgstr "水 手 鬼 魂 "
 
 #. STRINGS.NAMES.MANRABBIT_TAIL
 msgctxt "STRINGS.NAMES.MANRABBIT_TAIL"
 msgid "Bunny Puff"
-msgstr ""
+msgstr "兔 人 尾 巴 "
 
 #. STRINGS.NAMES.WEBBER
 msgctxt "STRINGS.NAMES.WEBBER"
 msgid "Webber"
-msgstr ""
+msgstr "韦 伯 "
 
 #. STRINGS.NAMES.GRASS
 msgctxt "STRINGS.NAMES.GRASS"
 msgid "Grass"
-msgstr ""
+msgstr "草 "
 
 #. STRINGS.NAMES.WORM_DIRT
 msgctxt "STRINGS.NAMES.WORM_DIRT"
 msgid "Dirt Mound"
-msgstr ""
+msgstr "泥 土 堆 "
 
 #. STRINGS.NAMES.BUZZARD
 msgctxt "STRINGS.NAMES.BUZZARD"
 msgid "Buzzard"
-msgstr ""
+msgstr "秃 鹫 "
 
 #. STRINGS.NAMES.FISHINGROD
 msgctxt "STRINGS.NAMES.FISHINGROD"
 msgid "Fishing Rod"
-msgstr ""
+msgstr "鱼 竿 "
 
 #. STRINGS.NAMES.WALRUS_CAMP
 msgctxt "STRINGS.NAMES.WALRUS_CAMP"
 msgid "Walrus Camp"
-msgstr ""
+msgstr "海 象 巢 穴 "
 
 #. STRINGS.NAMES.PITCHFORK
 msgctxt "STRINGS.NAMES.PITCHFORK"
 msgid "Pitchfork"
-msgstr ""
+msgstr "干 草 叉 "
 
 #. STRINGS.NAMES.EYEBRELLAHAT
 msgctxt "STRINGS.NAMES.EYEBRELLAHAT"
 msgid "Eyebrella"
-msgstr ""
+msgstr "独 眼 雨 帽 "
 
 #. STRINGS.NAMES.MULTITOOL_AXE_PICKAXE
 msgctxt "STRINGS.NAMES.MULTITOOL_AXE_PICKAXE"
 msgid "Pick/Axe"
-msgstr ""
+msgstr "采 摘 / 长 斧 "
 
 #. STRINGS.NAMES.MINERHAT
 msgctxt "STRINGS.NAMES.MINERHAT"
 msgid "Miner Hat"
-msgstr ""
+msgstr "矿 工 帽 "
 
 #. STRINGS.NAMES.BUNNYMAN
 msgctxt "STRINGS.NAMES.BUNNYMAN"
 msgid "Bunnyman"
-msgstr ""
+msgstr "兔 人 "
 
 #. STRINGS.NAMES.RAINOMETER
 msgctxt "STRINGS.NAMES.RAINOMETER"
 msgid "Rainometer"
-msgstr ""
+msgstr "雨 量 计 "
 
 #. STRINGS.NAMES.TALLBIRD
 msgctxt "STRINGS.NAMES.TALLBIRD"
 msgid "Tallbird"
-msgstr ""
+msgstr "高 脚 鸟 "
 
 #. STRINGS.NAMES.POMEGRANATE_SEEDS
 msgctxt "STRINGS.NAMES.POMEGRANATE_SEEDS"
 msgid "Pomegranate Seeds"
-msgstr ""
+msgstr "石 榴 种 子 "
 
 #. STRINGS.NAMES.NIGHTMARELIGHT
 msgctxt "STRINGS.NAMES.NIGHTMARELIGHT"
 msgid "Nightmare Light"
-msgstr ""
+msgstr "影 灯 "
 
 #. STRINGS.NAMES.ROBIN_WINTER
 msgctxt "STRINGS.NAMES.ROBIN_WINTER"
 msgid "Snowbird"
-msgstr ""
+msgstr "雪 鸟 "
 
 #. STRINGS.NAMES.FOOTBALLHAT
 msgctxt "STRINGS.NAMES.FOOTBALLHAT"
 msgid "Football Helmet"
-msgstr ""
+msgstr "足 球 帽 "
 
 #. STRINGS.NAMES.FISH_COOKED
 msgctxt "STRINGS.NAMES.FISH_COOKED"
 msgid "Cooked Fish"
-msgstr ""
+msgstr "熟 鱼 "
 
 #. STRINGS.NAMES.SWEATERVEST
 msgctxt "STRINGS.NAMES.SWEATERVEST"
 msgid "Dapper Vest"
-msgstr ""
+msgstr "小 背 心 "
 
 #. STRINGS.NAMES.BERRIES_COOKED
 msgctxt "STRINGS.NAMES.BERRIES_COOKED"
 msgid "Roasted Berries"
-msgstr ""
+msgstr "烤 浆 果 "
 
 #. STRINGS.NAMES.BUGNET
 msgctxt "STRINGS.NAMES.BUGNET"
 msgid "Bug Net"
-msgstr ""
+msgstr "捕 虫 网 "
 
 #. STRINGS.NAMES.SPIDERQUEEN
 msgctxt "STRINGS.NAMES.SPIDERQUEEN"
 msgid "Spider Queen"
-msgstr ""
+msgstr "蜘 蛛 女 王 "
 
 #. STRINGS.NAMES.DECIDUOUSTREE
 msgctxt "STRINGS.NAMES.DECIDUOUSTREE"
 msgid "Birchnut Tree"
-msgstr ""
+msgstr "坚 果 树 "
 
 #. STRINGS.NAMES.TURF_CHECKERFLOOR
 msgctxt "STRINGS.NAMES.TURF_CHECKERFLOOR"
 msgid "Checkered Flooring"
-msgstr ""
+msgstr "方 格 地 板 "
 
 #. STRINGS.NAMES.RUINS_RUBBLE
 msgctxt "STRINGS.NAMES.RUINS_RUBBLE"
 msgid "Broken Relic"
-msgstr ""
+msgstr "被 毁 的 废 墟 "
 
 #. STRINGS.NAMES.MEATRACK
 msgctxt "STRINGS.NAMES.MEATRACK"
 msgid "Drying Rack"
-msgstr ""
+msgstr "晾 晒 架 "
 
 #. STRINGS.NAMES.ARMORWOOD
 msgctxt "STRINGS.NAMES.ARMORWOOD"
 msgid "Log Suit"
-msgstr ""
+msgstr "伐 木 装 "
 
 #. STRINGS.NAMES.BUTTERFLY
 msgctxt "STRINGS.NAMES.BUTTERFLY"
 msgid "Butterfly"
-msgstr ""
+msgstr "蝴 蝶 "
 
 #. STRINGS.NAMES.MINOTAUR
 msgctxt "STRINGS.NAMES.MINOTAUR"
 msgid "Ancient Guardian"
-msgstr ""
+msgstr "远 古 守 护 者 "
 
 #. STRINGS.NAMES.RESURRECTIONSTATUE
 msgctxt "STRINGS.NAMES.RESURRECTIONSTATUE"
 msgid "Meat Effigy"
-msgstr ""
+msgstr "替 身 人 偶 "
 
 #. STRINGS.NAMES.MAXWELLHEAD
 msgctxt "STRINGS.NAMES.MAXWELLHEAD"
 msgid "Maxwell's Head"
-msgstr ""
+msgstr "麦 克 斯 韦 的 头 "
 
 #. STRINGS.NAMES.SANITYROCK
 msgctxt "STRINGS.NAMES.SANITYROCK"
 msgid "Obelisk"
-msgstr ""
+msgstr "方 尖 碑 "
 
 #. STRINGS.NAMES.GREEN_MUSHROOM
 msgctxt "STRINGS.NAMES.GREEN_MUSHROOM"
 msgid "Green Mushroom"
-msgstr ""
+msgstr "绿 蘑 菇 "
 
 #. STRINGS.NAMES.FLOTSAM
 msgctxt "STRINGS.NAMES.FLOTSAM"
 msgid "Flotsam"
-msgstr ""
+msgstr "废 料 "
 
 #. STRINGS.NAMES.FLOWER_CAVE_TRIPLE
 msgctxt "STRINGS.NAMES.FLOWER_CAVE_TRIPLE"
 msgid "Light Flower"
-msgstr ""
+msgstr "荧 光 花 "
 
 #. STRINGS.NAMES.RED_MUSHROOM
 msgctxt "STRINGS.NAMES.RED_MUSHROOM"
 msgid "Red Mushroom"
-msgstr ""
+msgstr "红 蘑 菇 "
 
 #. STRINGS.NAMES.LOG
 msgctxt "STRINGS.NAMES.LOG"
 msgid "Log"
-msgstr ""
+msgstr "伐 木 "
 
 #. STRINGS.NAMES.FIREFLIES
 msgctxt "STRINGS.NAMES.FIREFLIES"
 msgid "Fireflies"
-msgstr ""
+msgstr "萤 火 虫 "
 
 #. STRINGS.NAMES.DRAGONFRUIT
 msgctxt "STRINGS.NAMES.DRAGONFRUIT"
 msgid "Dragon Fruit"
-msgstr ""
+msgstr "火 龙 果 "
 
 #. STRINGS.NAMES.EYETURRET
 msgctxt "STRINGS.NAMES.EYETURRET"
 msgid "Houndius Shootius"
-msgstr ""
+msgstr "炮 台 "
 
 #. STRINGS.NAMES.COOKEDMONSTERMEAT
 msgctxt "STRINGS.NAMES.COOKEDMONSTERMEAT"
 msgid "Cooked Monster Meat"
-msgstr ""
+msgstr "熟 怪 物 肉 "
 
 #. STRINGS.NAMES.BLUEAMULET
 msgctxt "STRINGS.NAMES.BLUEAMULET"
 msgid "Chilled Amulet"
-msgstr ""
+msgstr "寒 冰 护 符 "
 
 #. STRINGS.NAMES.WOODIE
 msgctxt "STRINGS.NAMES.WOODIE"
 msgid "Woodie"
-msgstr ""
+msgstr "伍 迪 "
 
 #. STRINGS.NAMES.MOOSENEST1
 msgctxt "STRINGS.NAMES.MOOSENEST1"
 msgid "Moose Nest"
-msgstr ""
+msgstr "驼 鹿 巢 "
 
 #. STRINGS.NAMES.ARMORSNURTLESHELL
 msgctxt "STRINGS.NAMES.ARMORSNURTLESHELL"
 msgid "Snurtle Shell Armour"
-msgstr ""
+msgstr "蜗 牛 兽 壳 护 甲 " 
 
 #. STRINGS.NAMES.BUSHHAT
 msgctxt "STRINGS.NAMES.BUSHHAT"
 msgid "Bush Hat"
-msgstr ""
+msgstr "丛 林 帽 "
 
 #. STRINGS.NAMES.GOLDENSHOVEL
 msgctxt "STRINGS.NAMES.GOLDENSHOVEL"
 msgid "Regal Shovel"
-msgstr ""
+msgstr "黄 金 铲 "
 
 #. STRINGS.NAMES.GLOMMER
 msgctxt "STRINGS.NAMES.GLOMMER"
 msgid "Glommer"
-msgstr ""
+msgstr "格 罗 姆 "
 
 #. STRINGS.NAMES.ROCK_ICE
 msgctxt "STRINGS.NAMES.ROCK_ICE"
 msgid "Mini Glacier"
-msgstr ""
+msgstr "迷 你 冰 川 "
 
 #. STRINGS.NAMES.WINTEROMETER
 msgctxt "STRINGS.NAMES.WINTEROMETER"
 msgid "Thermal Measurer"
-msgstr ""
+msgstr "温 度 测 量 仪 "
 
 #. STRINGS.NAMES.COOKPOT
 msgctxt "STRINGS.NAMES.COOKPOT"
 msgid "Crock Pot"
-msgstr ""
+msgstr "瓦 罐 锅 "
 
 #. STRINGS.NAMES.WALL_STONE_ITEM
 msgctxt "STRINGS.NAMES.WALL_STONE_ITEM"
 msgid "Stone Wall"
-msgstr ""
+msgstr "石 墙 "
 
 #. STRINGS.NAMES.TURF_FOREST
 msgctxt "STRINGS.NAMES.TURF_FOREST"
 msgid "Forest Turf"
-msgstr ""
+msgstr "森 林 草 皮 "
 
 #. STRINGS.NAMES.LITTLE_WALRUS
 msgctxt "STRINGS.NAMES.LITTLE_WALRUS"
 msgid "Wee MacTusk"
-msgstr ""
+msgstr "小 海 象 "
 
 #. STRINGS.NAMES.WALL_HAY_ITEM
 msgctxt "STRINGS.NAMES.WALL_HAY_ITEM"
 msgid "Hay Wall"
-msgstr ""
+msgstr "干 草 墙 "
 
 #. STRINGS.NAMES.TURF_SAVANNA
 msgctxt "STRINGS.NAMES.TURF_SAVANNA"
 msgid "Savanna Turf"
-msgstr ""
+msgstr "草 原 草 皮 "
 
 #. STRINGS.NAMES.WES
 msgctxt "STRINGS.NAMES.WES"
 msgid "Wes"
-msgstr ""
+msgstr "韦 斯 "
 
 #. STRINGS.NAMES.SKELETON_PLAYER
 msgctxt "STRINGS.NAMES.SKELETON_PLAYER"
 msgid "Skeleton"
-msgstr ""
+msgstr "人 骨 "
 
 #. STRINGS.NAMES.BIRD_EGG
 msgctxt "STRINGS.NAMES.BIRD_EGG"
 msgid "Egg"
-msgstr ""
+msgstr "蛋 "
 
 #. STRINGS.NAMES.SUNKEN_BOAT_TRINKET_5
 msgctxt "STRINGS.NAMES.SUNKEN_BOAT_TRINKET_5"
 msgid "Old Boot"
-msgstr ""
+msgstr "老 旧 靴 子 "
 
 #. STRINGS.NAMES.PENGUIN
 msgctxt "STRINGS.NAMES.PENGUIN"
 msgid "Pengull"
-msgstr ""
+msgstr "企 鸥 "
 
 #. STRINGS.NAMES.MANDRAKE
 msgctxt "STRINGS.NAMES.MANDRAKE"
 msgid "Mandrake"
-msgstr ""
+msgstr "曼 德 拉 "
 
 #. STRINGS.NAMES.KILLERBEE
 msgctxt "STRINGS.NAMES.KILLERBEE"
 msgid "Killer Bee"
-msgstr ""
+msgstr "杀 人 蜂 "
 
 #. STRINGS.NAMES.DURIAN_COOKED
 msgctxt "STRINGS.NAMES.DURIAN_COOKED"
 msgid "Extra Smelly Durian"
-msgstr ""
+msgstr "巨 味 榴 莲 "
 
 #. STRINGS.NAMES.DRAGONFRUIT_COOKED
 msgctxt "STRINGS.NAMES.DRAGONFRUIT_COOKED"
 msgid "Prepared Dragon Fruit"
-msgstr ""
+msgstr "已 备 火 龙 果 "
 
 #. STRINGS.NAMES.POTTEDFERN
 msgctxt "STRINGS.NAMES.POTTEDFERN"
 msgid "Potted Fern"
-msgstr ""
+msgstr "盆 栽 蕨 类 植 物 "
 
 #. STRINGS.NAMES.TENTACLE_PILLAR
 msgctxt "STRINGS.NAMES.TENTACLE_PILLAR"
 msgid "Big Tentacle"
-msgstr ""
+msgstr "巨 型 触 手 怪 "
 
 #. STRINGS.NAMES.BALLOON
 msgctxt "STRINGS.NAMES.BALLOON"
 msgid "Balloon"
-msgstr ""
+msgstr "气 球 "
 
 #. STRINGS.NAMES.STAFF_TORNADO
 msgctxt "STRINGS.NAMES.STAFF_TORNADO"
 msgid "Weather Pain"
-msgstr ""
+msgstr "天 气 风 向 标 "
 
 #. STRINGS.NAMES.PURPLEAMULET
 msgctxt "STRINGS.NAMES.PURPLEAMULET"
 msgid "Nightmare Amulet"
-msgstr ""
+msgstr "梦 魇 护 符 "
 
 #. STRINGS.NAMES.BOOMERANG
 msgctxt "STRINGS.NAMES.BOOMERANG"
 msgid "Boomerang"
-msgstr ""
+msgstr "回 旋 镖 "
 
 #. STRINGS.NAMES.DRAGONFRUIT_SEEDS
 msgctxt "STRINGS.NAMES.DRAGONFRUIT_SEEDS"
 msgid "Dragon Fruit Seeds"
-msgstr ""
+msgstr "火 龙 果 种 子 "
 
 #. STRINGS.NAMES.GREENGEM
 msgctxt "STRINGS.NAMES.GREENGEM"
 msgid "Green Gem"
-msgstr ""
+msgstr "绿 宝 石 "
 
 #. STRINGS.NAMES.TEENBIRD
 msgctxt "STRINGS.NAMES.TEENBIRD"
 msgid "Smallish Tallbird"
-msgstr ""
+msgstr "矮 高 脚 鸟 "
 
 #. STRINGS.NAMES.PINECONE_SAPLING
 msgctxt "STRINGS.NAMES.PINECONE_SAPLING"
 msgid "Evergreen Sapling"
-msgstr ""
+msgstr "常 青 树 苗 "
 
 #. STRINGS.NAMES.TURF_FUNGUS
 msgctxt "STRINGS.NAMES.TURF_FUNGUS"
 msgid "Fungal Turf"
-msgstr ""
+msgstr "真 菌 草 皮 "
 
 #. STRINGS.NAMES.WALL_RUINS
 msgctxt "STRINGS.NAMES.WALL_RUINS"
 msgid "Thulecite Wall"
-msgstr ""
+msgstr "铥 矿 墙 "
 
 #. STRINGS.NAMES.HEATROCK
 msgctxt "STRINGS.NAMES.HEATROCK"
 msgid "Thermal Stone"
-msgstr ""
+msgstr "暖 石 "
 
 #. STRINGS.NAMES.TRINKET_10
 msgctxt "STRINGS.NAMES.TRINKET_10"
 msgid "Second-hand Dentures"
-msgstr ""
+msgstr "假 牙 "
 
 #. STRINGS.NAMES.PURPLEGEM
 msgctxt "STRINGS.NAMES.PURPLEGEM"
 msgid "Purple Gem"
-msgstr ""
+msgstr "紫 蘑 菇 "
 
 #. STRINGS.NAMES.MOUND
 msgctxt "STRINGS.NAMES.MOUND"
 msgid "Grave"
-msgstr ""
+msgstr "墓 穴 "
 
 #. STRINGS.NAMES.BEDROLL_STRAW
 msgctxt "STRINGS.NAMES.BEDROLL_STRAW"
 msgid "Straw Roll"
-msgstr ""
+msgstr "草 席 卷 "
 
 #. STRINGS.NAMES.TURF_FUNGUS_RED
 msgctxt "STRINGS.NAMES.TURF_FUNGUS_RED"
 msgid "Fungal Turf"
-msgstr ""
+msgstr "真 菌 草 皮 "
 
 #. STRINGS.NAMES.ASH
 msgctxt "STRINGS.NAMES.ASH"
 msgid "Ashes"
-msgstr ""
+msgstr "骨 灰 "
 
 #. STRINGS.NAMES.TERRORBEAK
 msgctxt "STRINGS.NAMES.TERRORBEAK"
 msgid "Terrorbeak"
-msgstr ""
+msgstr "恐 惧 大 嘴 兽 "
 
 #. STRINGS.NAMES.HAMMER
 msgctxt "STRINGS.NAMES.HAMMER"
 msgid "Hammer"
-msgstr ""
+msgstr "锤 子 "
 
 #. STRINGS.NAMES.TURF_SINKHOLE
 msgctxt "STRINGS.NAMES.TURF_SINKHOLE"
 msgid "Slimey Turf"
-msgstr ""
+msgstr "黏 滑 草 皮 "
 
 #. STRINGS.NAMES.MONSTERLASAGNA
 msgctxt "STRINGS.NAMES.MONSTERLASAGNA"
 msgid "Monster Lasagna"
-msgstr ""
+msgstr "怪 物 千 层 饼 "
 
 #. STRINGS.NAMES.FAST_FARMPLOT
 msgctxt "STRINGS.NAMES.FAST_FARMPLOT"
 msgid "Improved Farm"
-msgstr ""
+msgstr "改 进 的 农 场 "
 
 #. STRINGS.NAMES.WALRUS
 msgctxt "STRINGS.NAMES.WALRUS"
 msgid "MacTusk"
-msgstr ""
+msgstr "海 象 爸 爸 "
 
 #. STRINGS.NAMES.HONEYCOMB
 msgctxt "STRINGS.NAMES.HONEYCOMB"
 msgid "Honeycomb"
-msgstr ""
+msgstr "蜂 巢 "
 
 #. STRINGS.NAMES.LIGHTNINGGOATHORN
 msgctxt "STRINGS.NAMES.LIGHTNINGGOATHORN"
 msgid "Volt Goat Horn"
-msgstr ""
+msgstr "伏 特 山 羊 角 "
 
 #. STRINGS.NAMES.MUSHTREE_MEDIUM
 msgctxt "STRINGS.NAMES.MUSHTREE_MEDIUM"
 msgid "Red Mushtree"
-msgstr ""
+msgstr "红 蘑 菇 树 "
 
 #. STRINGS.NAMES.SILK
 msgctxt "STRINGS.NAMES.SILK"
 msgid "Silk"
-msgstr ""
+msgstr "蜘 蛛 丝 "
 
 #. STRINGS.NAMES.CACTUS_MEAT_COOKED
 msgctxt "STRINGS.NAMES.CACTUS_MEAT_COOKED"
 msgid "Cooked Cactus Flesh"
-msgstr ""
+msgstr "熟 仙 人 掌 肉 "
 
 #. STRINGS.NAMES.BOOK_BIRDS
 msgctxt "STRINGS.NAMES.BOOK_BIRDS"
 msgid "Birds of the World"
-msgstr ""
+msgstr "世 界 鸟 类 手 册 "
 
 #. STRINGS.NAMES.TURF_WOODFLOOR
 msgctxt "STRINGS.NAMES.TURF_WOODFLOOR"
 msgid "Wooden Flooring"
-msgstr ""
+msgstr "木 质 地 板 "
 
 #. STRINGS.NAMES.ROCKY
 msgctxt "STRINGS.NAMES.ROCKY"
 msgid "Rock Lobster"
-msgstr ""
+msgstr "岩 石 龙 虾 "
 
 #. STRINGS.NAMES.KNIGHT
 msgctxt "STRINGS.NAMES.KNIGHT"
 msgid "Clockwork Knight"
-msgstr ""
+msgstr "发 条 骑 士 "
 
 #. STRINGS.NAMES.TENT
 msgctxt "STRINGS.NAMES.TENT"
 msgid "Tent"
-msgstr ""
+msgstr "帐 篷 "
 
 #. STRINGS.NAMES.PETALS_EVIL
 msgctxt "STRINGS.NAMES.PETALS_EVIL"
 msgid "Dark Petals"
-msgstr ""
+msgstr "恶 魔 花 瓣 "
 
 #. STRINGS.NAMES.SUNKEN_BOAT_TRINKET_2
 msgctxt "STRINGS.NAMES.SUNKEN_BOAT_TRINKET_2"
 msgid "Toy Boat"
-msgstr ""
+msgstr "玩 具 小 船 "
 
 #. STRINGS.NAMES.ANCIENT_ALTAR_BROKEN
 msgctxt "STRINGS.NAMES.ANCIENT_ALTAR_BROKEN"
 msgid "Broken Ancient Pseudoscience Station"
-msgstr ""
+msgstr "被 毁 的 远 古 伪 科 学 站 "
 
 #. STRINGS.NAMES.PANDORASCHEST
 msgctxt "STRINGS.NAMES.PANDORASCHEST"
 msgid "Ornate Chest"
-msgstr ""
+msgstr "华 丽 的 箱 子 "
 
 #. STRINGS.NAMES.MAXWELLLIGHT
 msgctxt "STRINGS.NAMES.MAXWELLLIGHT"
 msgid "Maxwell's Light"
-msgstr ""
+msgstr "麦 克 斯 韦 的 灯 "
 
 #. STRINGS.NAMES.RAZOR
 msgctxt "STRINGS.NAMES.RAZOR"
 msgid "Razor"
-msgstr ""
+msgstr "剃 刀 "
 
 #. STRINGS.NAMES.TREASURECHEST
 msgctxt "STRINGS.NAMES.TREASURECHEST"
 msgid "Chest"
-msgstr ""
+msgstr "箱 子 "
 
 #. STRINGS.NAMES.PLANT_NORMAL
 msgctxt "STRINGS.NAMES.PLANT_NORMAL"
 msgid "Crop"
-msgstr ""
+msgstr "农 作 物 "
 
 #. STRINGS.NAMES.DRUMSTICK_COOKED
 msgctxt "STRINGS.NAMES.DRUMSTICK_COOKED"
 msgid "Fried Drumstick"
-msgstr ""
+msgstr "炸 鸡 腿 "
 
 #. STRINGS.NAMES.PIGKING
 msgctxt "STRINGS.NAMES.PIGKING"
 msgid "Pig King"
-msgstr ""
+msgstr "猪 人 国 王 "
 
 #. STRINGS.NAMES.HORN
 msgctxt "STRINGS.NAMES.HORN"
 msgid "Beefalo Horn"
-msgstr ""
+msgstr "牛 角 "
 
 #. STRINGS.NAMES.ONEMANBAND
 msgctxt "STRINGS.NAMES.ONEMANBAND"
 msgid "One-man Band"
-msgstr ""
+msgstr "单 人 乐 队 "
 
 #. STRINGS.NAMES.CORN
 msgctxt "STRINGS.NAMES.CORN"
 msgid "Corn"
-msgstr ""
+msgstr "玉 米 "
 
 #. STRINGS.NAMES.FIRESTAFF
 msgctxt "STRINGS.NAMES.FIRESTAFF"
 msgid "Fire Staff"
-msgstr ""
+msgstr "火 焰 法 杖 "
 
 #. STRINGS.NAMES.SUNKEN_BOAT_TRINKET_1
 msgctxt "STRINGS.NAMES.SUNKEN_BOAT_TRINKET_1"
 msgid "Sextant"
-msgstr ""
+msgstr "六 分 仪 "
 
 #. STRINGS.NAMES.HAMBAT
 msgctxt "STRINGS.NAMES.HAMBAT"
 msgid "Ham Bat"
-msgstr ""
+msgstr "火 腿 短 棒 "
 
 #. STRINGS.NAMES.EGGPLANT
 msgctxt "STRINGS.NAMES.EGGPLANT"
 msgid "Eggplant"
-msgstr ""
+msgstr "茄 子 "
 
 #. STRINGS.NAMES.TOPHAT
 msgctxt "STRINGS.NAMES.TOPHAT"
 msgid "Top Hat"
-msgstr ""
+msgstr "高 帽 "
 
 #. STRINGS.NAMES.SPEAR
 msgctxt "STRINGS.NAMES.SPEAR"
 msgid "Spear"
-msgstr ""
+msgstr "长 矛 "
 
 #. STRINGS.NAMES.SMALLBIRD
 msgctxt "STRINGS.NAMES.SMALLBIRD"
 msgid "Smallbird"
-msgstr ""
+msgstr "高 脚 鸟 宝 宝 "
 
 #. STRINGS.NAMES.WATERMELON_SEEDS
 msgctxt "STRINGS.NAMES.WATERMELON_SEEDS"
 msgid "Watermelon Seeds"
-msgstr ""
+msgstr "西 瓜 种 子 "
 
 #. STRINGS.NAMES.WALL_WOOD
 msgctxt "STRINGS.NAMES.WALL_WOOD"
 msgid "Wood Wall"
-msgstr ""
+msgstr "木 墙 "
 
 #. STRINGS.NAMES.CAVE_ENTRANCE_OPEN
 msgctxt "STRINGS.NAMES.CAVE_ENTRANCE_OPEN"
 msgid "Sinkhole"
-msgstr ""
+msgstr "污 水 池 "
 
 #. STRINGS.NAMES.SKELETON
 msgctxt "STRINGS.NAMES.SKELETON"
 msgid "Skeleton"
-msgstr ""
+msgstr "人 骨 "
 
 #. STRINGS.NAMES.YELLOWGEM
 msgctxt "STRINGS.NAMES.YELLOWGEM"
 msgid "Yellow Gem"
-msgstr ""
+msgstr "黄 蘑 菇 "
 
 #. STRINGS.NAMES.STINGER
 msgctxt "STRINGS.NAMES.STINGER"
 msgid "Stinger"
-msgstr ""
+msgstr "蜂 刺 "
 
 #. STRINGS.NAMES.WAXWELLJOURNAL
 msgctxt "STRINGS.NAMES.WAXWELLJOURNAL"
 msgid "Codex Umbra"
-msgstr ""
+msgstr "暗 影 法 典 "
 
 #. STRINGS.NAMES.TURF_GRASS
 msgctxt "STRINGS.NAMES.TURF_GRASS"
 msgid "Grass Turf"
-msgstr ""
+msgstr "草 皮 "
 
 #. STRINGS.NAMES.CAVE_EXIT
 msgctxt "STRINGS.NAMES.CAVE_EXIT"
 msgid "Rope"
-msgstr ""
+msgstr "绳 子 "
 
 #. STRINGS.NAMES.WATERMELON_COOKED
 msgctxt "STRINGS.NAMES.WATERMELON_COOKED"
 msgid "Grilled Watermelon"
-msgstr ""
+msgstr "烤 西 瓜 "
 
 #. STRINGS.NAMES.PUMPKIN
 msgctxt "STRINGS.NAMES.PUMPKIN"
 msgid "Pumpkin"
-msgstr ""
+msgstr "南 瓜 "
 
 #. STRINGS.NAMES.POOP
 msgctxt "STRINGS.NAMES.POOP"
 msgid "Manure"
-msgstr ""
+msgstr "粪 便 "
 
 #. STRINGS.NAMES.LIGHTNING_ROD
 msgctxt "STRINGS.NAMES.LIGHTNING_ROD"
 msgid "Lightning Rod"
-msgstr ""
+msgstr "避 雷 针 "
 
 #. STRINGS.NAMES.ANIMAL_TRACK
 msgctxt "STRINGS.NAMES.ANIMAL_TRACK"
 msgid "Animal Track"
-msgstr ""
+msgstr "动 物 足 迹 "
 
 #. STRINGS.NAMES.TRINKET_4
 msgctxt "STRINGS.NAMES.TRINKET_4"
 msgid "Gnome"
-msgstr ""
+msgstr "地 精 玩 偶 "
 
 #. STRINGS.NAMES.BERRYBUSH
 msgctxt "STRINGS.NAMES.BERRYBUSH"
 msgid "Berry Bush"
-msgstr ""
+msgstr "浆 果 灌 木 "
 
 #. STRINGS.NAMES.CUTGRASS
 msgctxt "STRINGS.NAMES.CUTGRASS"
 msgid "Cut Grass"
-msgstr ""
+msgstr "干 草 "
 
 #. STRINGS.NAMES.HOMESIGN
 msgctxt "STRINGS.NAMES.HOMESIGN"
 msgid "Sign"
-msgstr ""
+msgstr "路 标 "
 
 #. STRINGS.NAMES.MONSTERMEAT_DRIED
 msgctxt "STRINGS.NAMES.MONSTERMEAT_DRIED"
 msgid "Monster Jerky"
-msgstr ""
+msgstr "怪 物 肉 干 "
 
 #. STRINGS.NAMES.ASH_REMAINS
 msgctxt "STRINGS.NAMES.ASH_REMAINS"
 msgid "Ashes of %s"
-msgstr ""
+msgstr "%s 骨 灰 "
 
 #. STRINGS.NAMES.TURF_ROCKY
 msgctxt "STRINGS.NAMES.TURF_ROCKY"
 msgid "Rocky Turf"
-msgstr ""
+msgstr "岩 石 草 皮 "
 
 #. STRINGS.NAMES.WETGOOP
 msgctxt "STRINGS.NAMES.WETGOOP"
 msgid "Wet Goop"
-msgstr ""
+msgstr "一 坨 湿 糊 糊 "
 
 #. STRINGS.NAMES.BOOK_TENTACLES
 msgctxt "STRINGS.NAMES.BOOK_TENTACLES"
 msgid "On Tentacles"
-msgstr ""
+msgstr "在 触 手 怪 上 "
 
 #. STRINGS.NAMES.SHOVEL
 msgctxt "STRINGS.NAMES.SHOVEL"
 msgid "Shovel"
-msgstr ""
+msgstr "铲 子 "
 
 #. STRINGS.NAMES.TURF_CARPETFLOOR
 msgctxt "STRINGS.NAMES.TURF_CARPETFLOOR"
 msgid "Carpeted Flooring"
-msgstr ""
+msgstr "牛 毛 地 毯 "
 
 #. STRINGS.NAMES.BIRDCAGE
 msgctxt "STRINGS.NAMES.BIRDCAGE"
 msgid "Birdcage"
-msgstr ""
+msgstr "鸟 笼 "
 
 #. STRINGS.NAMES.GLOMMERFLOWER
 msgctxt "STRINGS.NAMES.GLOMMERFLOWER"
 msgid "Glommer's Flower"
-msgstr ""
+msgstr "格 罗 姆 之 花 "
 
 #. STRINGS.NAMES.TRINKET_7
 msgctxt "STRINGS.NAMES.TRINKET_7"
 msgid "Ball and Cup"
-msgstr ""
+msgstr "球 与 杯 "
 
 #. STRINGS.NAMES.SPIDER_WARRIOR
 msgctxt "STRINGS.NAMES.SPIDER_WARRIOR"
 msgid "Spider Warrior"
-msgstr ""
+msgstr "蜘 蛛 战 士 "
 
 #. STRINGS.NAMES.TURF_WEBBING
 msgctxt "STRINGS.NAMES.TURF_WEBBING"
 msgid "Sticky Webbing"
-msgstr ""
+msgstr "粘 连 织 带 "
 
 #. STRINGS.NAMES.BOOK_BRIMSTONE
 msgctxt "STRINGS.NAMES.BOOK_BRIMSTONE"
 msgid "The End is Nigh!"
-msgstr ""
+msgstr "就 要 结 束 了 ！ "
 
 #. STRINGS.NAMES.WALRUS_TUSK
 msgctxt "STRINGS.NAMES.WALRUS_TUSK"
 msgid "Walrus Tusk"
-msgstr ""
+msgstr "海 象 牙 "
 
 #. STRINGS.NAMES.GOOSE_FEATHER
 msgctxt "STRINGS.NAMES.GOOSE_FEATHER"
 msgid "Down Feather"
-msgstr ""
+msgstr "绒 羽 "
 
 #. STRINGS.NAMES.TRINKET_1
 msgctxt "STRINGS.NAMES.TRINKET_1"
 msgid "Melty Marbles"
-msgstr ""
+msgstr "大 理 石 弹 珠 "
 
 #. STRINGS.NAMES.ROCK_LIGHT
 msgctxt "STRINGS.NAMES.ROCK_LIGHT"
 msgid "Lava Pit"
-msgstr ""
+msgstr "火 山 坑 "
 
 #. STRINGS.NAMES.CHESSJUNK3
 msgctxt "STRINGS.NAMES.CHESSJUNK3"
 msgid "Broken clockworks"
-msgstr ""
+msgstr "坏 掉 的 发 条 "
 
 #. STRINGS.NAMES.TAFFY
 msgctxt "STRINGS.NAMES.TAFFY"
 msgid "Taffy"
-msgstr ""
+msgstr "太 妃 糖 "
 
 #. STRINGS.NAMES.TRAP
 msgctxt "STRINGS.NAMES.TRAP"
 msgid "Trap"
-msgstr ""
+msgstr "陷 阱 "
 
 #. STRINGS.NAMES.BLUEGEM
 msgctxt "STRINGS.NAMES.BLUEGEM"
 msgid "Blue Gem"
-msgstr ""
+msgstr "蓝 蘑 菇"
 
 #. STRINGS.NAMES.YELLOWAMULET
 msgctxt "STRINGS.NAMES.YELLOWAMULET"
 msgid "Magiluminescence"
-msgstr ""
+msgstr "魔 光 护 符 "
 
 #. STRINGS.NAMES.SHADOWWAXWELL
 msgctxt "STRINGS.NAMES.SHADOWWAXWELL"
 msgid "Shadow"
-msgstr ""
+msgstr "影 子 "
 
 #. STRINGS.NAMES.WATHGRITHR
 msgctxt "STRINGS.NAMES.WATHGRITHR"
 msgid "Wigfrid"
-msgstr ""
+msgstr "女 武 神 "
 
 #. STRINGS.NAMES.EGGPLANT_COOKED
 msgctxt "STRINGS.NAMES.EGGPLANT_COOKED"
 msgid "Braised Eggplant"
-msgstr ""
+msgstr "烧 茄 子 "
 
 #. STRINGS.NAMES.CRAWLINGNIGHTMARE
 msgctxt "STRINGS.NAMES.CRAWLINGNIGHTMARE"
 msgid "Crawling Nightmare"
-msgstr ""
+msgstr "爬 行 梦 魇 怪"
 
 #. STRINGS.NAMES.DIVININGROD
 msgctxt "STRINGS.NAMES.DIVININGROD"
 msgid "Divining Rod"
-msgstr ""
+msgstr "探 矿 魔 杖 "
 
 #. STRINGS.NAMES.RABBIT
 msgctxt "STRINGS.NAMES.RABBIT"
 msgid "Rabbit"
-msgstr ""
+msgstr "兔 子 "
 
 #. STRINGS.NAMES.BIGFOOT
 msgctxt "STRINGS.NAMES.BIGFOOT"
 msgid "Biiigfoot"
-msgstr ""
+msgstr "大 脚 怪 "
 
 #. STRINGS.NAMES.TRAILMIX
 msgctxt "STRINGS.NAMES.TRAILMIX"
 msgid "Trail Mix"
-msgstr ""
+msgstr "干 果 "
 
 #. STRINGS.NAMES.FLOWER_EVIL
 msgctxt "STRINGS.NAMES.FLOWER_EVIL"
 msgid "Evil Flower"
-msgstr ""
+msgstr "噩 梦 之 花 "
 
 #. STRINGS.NAMES.TURF_ROAD
 msgctxt "STRINGS.NAMES.TURF_ROAD"
 msgid "Cobblestones"
-msgstr ""
+msgstr "圆 石 "
 
 #. STRINGS.NAMES.BEEMINE
 msgctxt "STRINGS.NAMES.BEEMINE"
 msgid "Bee Mine"
-msgstr ""
+msgstr "蜜 蜂 地 雷 "
 
 #. STRINGS.NAMES.FEATHERHAT
 msgctxt "STRINGS.NAMES.FEATHERHAT"
 msgid "Feather Hat"
-msgstr ""
+msgstr "羽 毛 帽 "
 
 #. STRINGS.NAMES.FOLIAGE
 msgctxt "STRINGS.NAMES.FOLIAGE"
 msgid "Foliage"
-msgstr ""
+msgstr "叶 子 "
 
 #. STRINGS.NAMES.BLUEPRINT
 msgctxt "STRINGS.NAMES.BLUEPRINT"
 msgid "Blueprint"
-msgstr ""
+msgstr "蓝 图 "
 
 #. STRINGS.NAMES.DEPLETED_GRASS
 msgctxt "STRINGS.NAMES.DEPLETED_GRASS"
 msgid "Grass"
-msgstr ""
+msgstr " 草 "
 
 #. STRINGS.NAMES.SLURTLE
 msgctxt "STRINGS.NAMES.SLURTLE"
 msgid "Slurtle"
-msgstr ""
+msgstr "洞 穴 甲 壳 兽 "
 
 #. STRINGS.NAMES.CARROT_COOKED
 msgctxt "STRINGS.NAMES.CARROT_COOKED"
 msgid "Roasted Carrot"
-msgstr ""
+msgstr "烤 胡 萝 卜 "
 
 #. STRINGS.NAMES.CUTLICHEN
 msgctxt "STRINGS.NAMES.CUTLICHEN"
 msgid "Lichen"
-msgstr ""
+msgstr "苔 藓 "
 
 #. STRINGS.NAMES.DURIAN_SEEDS
 msgctxt "STRINGS.NAMES.DURIAN_SEEDS"
 msgid "Durian Seeds"
-msgstr ""
+msgstr "榴 莲 种 子 "
 
 #. STRINGS.NAMES.BERRYBUSH2
 msgctxt "STRINGS.NAMES.BERRYBUSH2"
 msgid "Berry Bush"
-msgstr ""
+msgstr "浆 果 灌 木 "
 
 #. STRINGS.NAMES.PIGMAN
 msgctxt "STRINGS.NAMES.PIGMAN"
 msgid "Pig Man"
-msgstr ""
+msgstr "猪 人 "
 
 #. STRINGS.NAMES.TURF_MARSH
 msgctxt "STRINGS.NAMES.TURF_MARSH"
 msgid "Marsh Turf"
-msgstr ""
+msgstr "沼 泽 草 皮 "
 
 #. STRINGS.NAMES.CAVE_ENTRANCE_OPEN_CAVE
 msgctxt "STRINGS.NAMES.CAVE_ENTRANCE_OPEN_CAVE"
 msgid "Deeper"
-msgstr ""
+msgstr "更 深 "
 
 #. STRINGS.NAMES.CUTSTONE
 msgctxt "STRINGS.NAMES.CUTSTONE"
 msgid "Cut Stone"
-msgstr ""
+msgstr "石 块 "
 
 #. STRINGS.NAMES.GOLDENPICKAXE
 msgctxt "STRINGS.NAMES.GOLDENPICKAXE"
 msgid "Opulent Pickaxe"
-msgstr ""
+msgstr "豪 华 镐 "
 
 #. STRINGS.NAMES.FROG
 msgctxt "STRINGS.NAMES.FROG"
 msgid "Frog"
-msgstr ""
+msgstr "青 蛙 "
 
 #. STRINGS.NAMES.BONFIRE
 msgctxt "STRINGS.NAMES.BONFIRE"
 msgid "Bonfire"
-msgstr ""
+msgstr "篝 火 "
 
 #. STRINGS.NAMES.REFLECTIVEVEST
 msgctxt "STRINGS.NAMES.REFLECTIVEVEST"
 msgid "Summer Frest"
-msgstr ""
+msgstr "夏 季 背 心 "
 
 #. STRINGS.NAMES.HOUNDSTOOTH
 msgctxt "STRINGS.NAMES.HOUNDSTOOTH"
 msgid "Hound's Tooth"
-msgstr ""
+msgstr "猎 犬 牙 "
 
 #. STRINGS.NAMES.COOKEDSMALLMEAT
 msgctxt "STRINGS.NAMES.COOKEDSMALLMEAT"
 msgid "Cooked Morsel"
-msgstr ""
+msgstr "熟 肉 块 "
 
 #. STRINGS.NAMES.FLOWERSALAD
 msgctxt "STRINGS.NAMES.FLOWERSALAD"
 msgid "Flower Salad"
-msgstr ""
+msgstr "花 瓣 沙 拉 "
 
 #. STRINGS.NAMES.STATUEHARP
 msgctxt "STRINGS.NAMES.STATUEHARP"
 msgid "Harp Statue"
-msgstr ""
+msgstr "竖 琴 雕 像 "
 
 #. STRINGS.NAMES.LICHEN
 msgctxt "STRINGS.NAMES.LICHEN"
 msgid "Cave Lichen"
-msgstr ""
+msgstr "洞 穴 苔 藓 "
 
 #. STRINGS.NAMES.SLURTLEHOLE
 msgctxt "STRINGS.NAMES.SLURTLEHOLE"
 msgid "Slurtle Mound"
-msgstr ""
+msgstr "蜗 牛 堆 "
 
 #. STRINGS.NAMES.RAINCOAT
 msgctxt "STRINGS.NAMES.RAINCOAT"
 msgid "Rain Coat"
-msgstr ""
+msgstr "雨 衣 "
 
 #. STRINGS.NAMES.TALLBIRDNEST
 msgctxt "STRINGS.NAMES.TALLBIRDNEST"
 msgid "Tallbird Nest"
-msgstr ""
+msgstr "高 脚 鸟 巢 "
 
 #. STRINGS.NAMES.FEATHERFAN
 msgctxt "STRINGS.NAMES.FEATHERFAN"
 msgid "Luxury Fan"
-msgstr ""
+msgstr "芭 蕉 扇 "
 
 #. STRINGS.NAMES.DURIAN
 msgctxt "STRINGS.NAMES.DURIAN"
 msgid "Durian"
-msgstr ""
+msgstr "榴 莲 "
 
 #. STRINGS.NAMES.FISHTACOS
 msgctxt "STRINGS.NAMES.FISHTACOS"
 msgid "Fish Tacos"
-msgstr ""
+msgstr "鱼 香 玉 米 卷 "
 
 #. STRINGS.NAMES.PUMPKIN_LANTERN
 msgctxt "STRINGS.NAMES.PUMPKIN_LANTERN"
 msgid "Pumpkin Lantern"
-msgstr ""
+msgstr "南 瓜 灯 "
 
 #. STRINGS.NAMES.TRINKET_8
 msgctxt "STRINGS.NAMES.TRINKET_8"
 msgid "Hardened Rubber Bung"
-msgstr ""
+msgstr "浴 缸 塞 子 "
 
 #. STRINGS.NAMES.SPIDER
 msgctxt "STRINGS.NAMES.SPIDER"
 msgid "Spider"
-msgstr ""
+msgstr "蜘 蛛 "
 
 #. STRINGS.NAMES.PETALS
 msgctxt "STRINGS.NAMES.PETALS"
 msgid "Petals"
-msgstr ""
+msgstr "花 瓣 "
 
 #. STRINGS.NAMES.SNURTLE
 msgctxt "STRINGS.NAMES.SNURTLE"
 msgid "Snurtle"
-msgstr ""
+msgstr "洞 穴 蜗 牛 兽 "
 
 #. STRINGS.NAMES.NITRE
 msgctxt "STRINGS.NAMES.NITRE"
 msgid "Nitre"
-msgstr ""
+msgstr "硝 石 "
 
 #. STRINGS.NAMES.GLOMMERFUEL
 msgctxt "STRINGS.NAMES.GLOMMERFUEL"
 msgid "Glommer's Goop"
-msgstr ""
+msgstr "格 罗 姆 粘 液 "
 
 #. STRINGS.NAMES.MOSQUITO
 msgctxt "STRINGS.NAMES.MOSQUITO"
 msgid "Mosquito"
-msgstr ""
+msgstr "蚊 子 "
 
 #. STRINGS.NAMES.TURF_CAVE
 msgctxt "STRINGS.NAMES.TURF_CAVE"
 msgid "Guano Turf"
-msgstr ""
+msgstr "鸟 粪 草 皮 "
 
 #. STRINGS.NAMES.TRUNK_SUMMER
 msgctxt "STRINGS.NAMES.TRUNK_SUMMER"
 msgid "Koalefant Trunk"
-msgstr ""
+msgstr "大 象 鼻 "
 
 #. STRINGS.NAMES.UNKNOWN
 msgctxt "STRINGS.NAMES.UNKNOWN"
 msgid "Unknown"
-msgstr ""
+msgstr "未 知 "
 
 #. STRINGS.NAMES.WATERMELON
 msgctxt "STRINGS.NAMES.WATERMELON"
 msgid "Watermelon"
-msgstr ""
+msgstr "西 瓜 "
 
 #. STRINGS.NAMES.FRUITMEDLEY
 msgctxt "STRINGS.NAMES.FRUITMEDLEY"
 msgid "Fruit Medley"
-msgstr ""
+msgstr "水 果 拼 盘 "
 
 #. STRINGS.NAMES.MARBLE
 msgctxt "STRINGS.NAMES.MARBLE"
 msgid "Marble"
-msgstr ""
+msgstr "大 理 石 "
 
 #. STRINGS.NAMES.RESURRECTIONSTONE
 msgctxt "STRINGS.NAMES.RESURRECTIONSTONE"
 msgid "Touch Stone"
-msgstr ""
+msgstr "试 金 石 "
 
 #. STRINGS.NAMES.FISH
 msgctxt "STRINGS.NAMES.FISH"
 msgid "Fish"
-msgstr ""
+msgstr "鱼 "
 
 #. STRINGS.NAMES.SPIDER_HIDER
 msgctxt "STRINGS.NAMES.SPIDER_HIDER"
 msgid "Cave Spider"
-msgstr ""
+msgstr "洞 穴 蜘 蛛 "
 
 #. STRINGS.NAMES.SEEDS_COOKED
 msgctxt "STRINGS.NAMES.SEEDS_COOKED"
 msgid "Toasted Seeds"
-msgstr ""
+msgstr "烤 种 子 "
 
 #. STRINGS.NAMES.LAVASPIT
 msgctxt "STRINGS.NAMES.LAVASPIT"
 msgid "Dragonfly Saliva"
-msgstr ""
+msgstr "蜻 蜓 唾 液 "
 
 #. STRINGS.NAMES.BATCAVE
 msgctxt "STRINGS.NAMES.BATCAVE"
 msgid "Bat Cave"
-msgstr ""
+msgstr "蝙 蝠 巢 穴 "
 
 #. STRINGS.NAMES.MUSHTREE_SMALL
 msgctxt "STRINGS.NAMES.MUSHTREE_SMALL"
 msgid "Green Mushtree"
-msgstr ""
+msgstr "绿 蘑 菇 树 "
 
 #. STRINGS.NAMES.MINOTAURHORN
 msgctxt "STRINGS.NAMES.MINOTAURHORN"
 msgid "Guardian's Horn"
-msgstr ""
+msgstr "守 护 者 之 角 "
 
 #. STRINGS.NAMES.BOOK_SLEEP
 msgctxt "STRINGS.NAMES.BOOK_SLEEP"
 msgid "Sleepytime Stories"
-msgstr ""
+msgstr "睡 前 小 故 事 "
 
 #. STRINGS.NAMES.MONSTERMEAT
 msgctxt "STRINGS.NAMES.MONSTERMEAT"
 msgid "Monster Meat"
-msgstr ""
+msgstr "怪 物 肉 "
 
 #. STRINGS.NAMES.TRUNK_COOKED
 msgctxt "STRINGS.NAMES.TRUNK_COOKED"
 msgid "Koalefant Trunk Steak"
-msgstr ""
+msgstr "大 象 鼻 肉 排 "
 
 #. STRINGS.NAMES.NIGHTLIGHT
 msgctxt "STRINGS.NAMES.NIGHTLIGHT"
 msgid "Night Light"
-msgstr ""
+msgstr "暗 夜 照 明 灯 "
 
 #. STRINGS.NAMES.JAMMYPRESERVES
 msgctxt "STRINGS.NAMES.JAMMYPRESERVES"
 msgid "Fist Full of Jam"
-msgstr ""
+msgstr "手 抓 果 酱 "
 
 #. STRINGS.NAMES.TURF_DIRT
 msgctxt "STRINGS.NAMES.TURF_DIRT"
 msgid "Dirt Turf"
-msgstr ""
+msgstr "泥 土 草 皮 "
 
 #. STRINGS.NAMES.MOOSEEGG2
 msgctxt "STRINGS.NAMES.MOOSEEGG2"
 msgid "Goose Egg"
-msgstr ""
+msgstr "鹅 蛋 "
 
 #. STRINGS.NAMES.CHESSJUNK2
 msgctxt "STRINGS.NAMES.CHESSJUNK2"
 msgid "Broken clockworks"
-msgstr ""
+msgstr "坏 掉 的 发 条 "
 
 #. STRINGS.NAMES.GREEN_CAP
 msgctxt "STRINGS.NAMES.GREEN_CAP"
 msgid "Green Cap"
-msgstr ""
+msgstr "绿 蘑 菇 头 "
 
 #. STRINGS.NAMES.SEWING_KIT
 msgctxt "STRINGS.NAMES.SEWING_KIT"
 msgid "Sewing Kit"
-msgstr ""
+msgstr "针 线 包 "
 
 #. STRINGS.NAMES.CARROT
 msgctxt "STRINGS.NAMES.CARROT"
 msgid "Carrot"
-msgstr ""
+msgstr "胡 萝 卜 "
 
 #. STRINGS.NAMES.STALAGMITE
 msgctxt "STRINGS.NAMES.STALAGMITE"
 msgid "Stalagmite"
-msgstr ""
+msgstr "石 笋 "
 
 #. STRINGS.NAMES.COLDFIREPIT
 msgctxt "STRINGS.NAMES.COLDFIREPIT"
 msgid "Endothermic Fire Pit"
-msgstr ""
+msgstr "冰 火 坑 "
 
 #. STRINGS.NAMES.TENTACLE_GARDEN
 msgctxt "STRINGS.NAMES.TENTACLE_GARDEN"
 msgid "Big Tentacle"
-msgstr ""
+msgstr "大 触 手 怪 "
 
 #. STRINGS.NAMES.BAT
 msgctxt "STRINGS.NAMES.BAT"
 msgid "Batilisk"
-msgstr ""
+msgstr "洞 穴 蝙 蝠 "
 
 #. STRINGS.NAMES.ICEBOX
 msgctxt "STRINGS.NAMES.ICEBOX"
 msgid "Ice Box"
-msgstr ""
+msgstr "冰 箱 "
 
 #. STRINGS.NAMES.RESEARCHLAB4
 msgctxt "STRINGS.NAMES.RESEARCHLAB4"
 msgid "Prestihatitator"
-msgstr ""
+msgstr "灵 子 分 解 器 "
 
 #. STRINGS.NAMES.LIGHTBULB
 msgctxt "STRINGS.NAMES.LIGHTBULB"
 msgid "Light Bulb"
-msgstr ""
+msgstr "荧 光 球 "
 
 #. STRINGS.NAMES.KRAMPUS_SACK
 msgctxt "STRINGS.NAMES.KRAMPUS_SACK"
 msgid "Krampus Sack"
-msgstr ""
+msgstr "小 偷 背 包 "
 
 #. STRINGS.NAMES.TALLBIRDEGG_COOKED
 msgctxt "STRINGS.NAMES.TALLBIRDEGG_COOKED"
 msgid "Fried Tallbird Egg"
-msgstr ""
+msgstr "炸 高 脚 鸟 蛋 "
 
 #. STRINGS.NAMES.GREEN_CAP_COOKED
 msgctxt "STRINGS.NAMES.GREEN_CAP_COOKED"
 msgid "Cooked Green Cap"
-msgstr ""
+msgstr "熟 绿 蘑 菇 头 "
 
 #. STRINGS.NAMES.RELIC
 msgctxt "STRINGS.NAMES.RELIC"
 msgid "Relic"
-msgstr ""
+msgstr "遗 迹 "
 
 #. STRINGS.NAMES.NIGHTMAREFUEL
 msgctxt "STRINGS.NAMES.NIGHTMAREFUEL"
 msgid "Nightmare Fuel"
-msgstr ""
+msgstr "噩 梦 燃 料 "
 
 #. STRINGS.NAMES.FLOWER
 msgctxt "STRINGS.NAMES.FLOWER"
 msgid "Flower"
-msgstr ""
+msgstr "花 "
 
 #. STRINGS.NAMES.TRINKET_2
 msgctxt "STRINGS.NAMES.TRINKET_2"
 msgid "Fake Kazoo"
-msgstr ""
+msgstr "假 卡 祖 笛 "
 
 #. STRINGS.NAMES.PUMPKIN_COOKED
 msgctxt "STRINGS.NAMES.PUMPKIN_COOKED"
 msgid "Hot Pumpkin"
-msgstr ""
+msgstr "热 南 瓜 "
 
 #. STRINGS.NAMES.FIRE
 msgctxt "STRINGS.NAMES.FIRE"
 msgid "Fire"
-msgstr ""
+msgstr "火 "
 
 #. STRINGS.NAMES.MOOSEEGG1
 msgctxt "STRINGS.NAMES.MOOSEEGG1"
 msgid "Moose Egg"
-msgstr ""
+msgstr "驼 鹿 蛋 "
 
 #. STRINGS.NAMES.MAXWELLTHRONE
 msgctxt "STRINGS.NAMES.MAXWELLTHRONE"
 msgid "Nightmare Throne"
-msgstr ""
+msgstr "噩 梦 王 座 "
 
 #. STRINGS.NAMES.CANE
 msgctxt "STRINGS.NAMES.CANE"
 msgid "Walking Cane"
-msgstr ""
+msgstr "步 行 手 杖 "
 
 #. STRINGS.NAMES.WATHGRITHRHAT
 msgctxt "STRINGS.NAMES.WATHGRITHRHAT"
 msgid "Battle Helm"
-msgstr ""
+msgstr "战 斗 头 盔 "
 
 #. STRINGS.NAMES.DARKNESS
 msgctxt "STRINGS.NAMES.DARKNESS"
 msgid "Darkness"
-msgstr ""
+msgstr "黑 暗 "
 
 #. STRINGS.NAMES.TURF_DECIDUOUS
 msgctxt "STRINGS.NAMES.TURF_DECIDUOUS"
 msgid "Deciduous Turf"
-msgstr ""
+msgstr "落 叶 草 皮 "
 
 #. STRINGS.NAMES.RAIN
 msgctxt "STRINGS.NAMES.RAIN"
 msgid "Short Circuit"
-msgstr ""
+msgstr "短 路 "
 
 #. STRINGS.NAMES.MEAT
 msgctxt "STRINGS.NAMES.MEAT"
 msgid "Meat"
-msgstr ""
+msgstr "肉 "
 
 #. STRINGS.NAMES.BEARDHAIR
 msgctxt "STRINGS.NAMES.BEARDHAIR"
 msgid "Beard Hair"
-msgstr ""
+msgstr "胡 须 "
 
 #. STRINGS.NAMES.ORANGEGEM
 msgctxt "STRINGS.NAMES.ORANGEGEM"
 msgid "Orange Gem"
-msgstr ""
+msgstr "橙 蘑 菇 "
 
 #. STRINGS.NAMES.SUNKEN_BOAT
 msgctxt "STRINGS.NAMES.SUNKEN_BOAT"
 msgid "Sunken Boat"
-msgstr ""
+msgstr "沉 船 "
 
 #. STRINGS.NAMES.TORNADO
 msgctxt "STRINGS.NAMES.TORNADO"
 msgid "Tornado"
-msgstr ""
+msgstr "龙 卷 风 "
 
 #. STRINGS.NAMES.CATCOON
 msgctxt "STRINGS.NAMES.CATCOON"
 msgid "Catcoon"
-msgstr ""
+msgstr "猫 熊 "
 
 #. STRINGS.NAMES.ARMORDRAGONFLY
 msgctxt "STRINGS.NAMES.ARMORDRAGONFLY"
 msgid "Scalemail"
-msgstr ""
+msgstr "鳞 甲 "
 
 #. STRINGS.NAMES.STATUEMAXWELL
 msgctxt "STRINGS.NAMES.STATUEMAXWELL"
 msgid "Maxwell Statue"
-msgstr ""
+msgstr "麦 克 斯 韦 雕 像 "
 
 #. STRINGS.NAMES.ANCIENT_STATUE
 msgctxt "STRINGS.NAMES.ANCIENT_STATUE"
 msgid "Ancient statue"
-msgstr ""
+msgstr "远 古 雕 像 "
 
 #. STRINGS.NAMES.WEBBERSKULL
 msgctxt "STRINGS.NAMES.WEBBERSKULL"
 msgid "Webber's Skull"
-msgstr ""
+msgstr "韦 伯 的 头 骨 "
 
 #. STRINGS.NAMES.FLINT
 msgctxt "STRINGS.NAMES.FLINT"
 msgid "Flint"
-msgstr ""
+msgstr "燧 石 "
 
 #. STRINGS.NAMES.WARG
 msgctxt "STRINGS.NAMES.WARG"
 msgid "Varg"
-msgstr ""
+msgstr "座 狼 "
 
 #. STRINGS.NAMES.TELEPORTATO_BOX
 msgctxt "STRINGS.NAMES.TELEPORTATO_BOX"
 msgid "Box thing"
-msgstr ""
+msgstr "盒 装 传 送 机 零 件 "
 
 #. STRINGS.NAMES.FEATHER_ROBIN
 msgctxt "STRINGS.NAMES.FEATHER_ROBIN"
 msgid "Crimson Feather"
-msgstr ""
+msgstr "深 红 羽 毛 "
 
 #. STRINGS.NAMES.COONTAIL
 msgctxt "STRINGS.NAMES.COONTAIL"
 msgid "Cat Tail"
-msgstr ""
+msgstr "猫 尾 "
 
 #. STRINGS.NAMES.CATCOONDEN
 msgctxt "STRINGS.NAMES.CATCOONDEN"
 msgid "Hollow Stump"
-msgstr ""
+msgstr "中 空 树 洞 "
 
 #. STRINGS.NAMES.ACCOMPLISHMENT_SHRINE
 msgctxt "STRINGS.NAMES.ACCOMPLISHMENT_SHRINE"
 msgid "Accomploshrine"
-msgstr ""
+msgstr "神 灯 杯 "
 
 #. STRINGS.NAMES.CUTREEDS
 msgctxt "STRINGS.NAMES.CUTREEDS"
 msgid "Cut Reeds"
-msgstr ""
+msgstr "干 芦 苇 "
 
 #. STRINGS.NAMES.CATCOONHAT
 msgctxt "STRINGS.NAMES.CATCOONHAT"
 msgid "Cat Cap"
-msgstr ""
+msgstr "猫 皮 帽 "
 
 #. STRINGS.NAMES.GOATMILK
 msgctxt "STRINGS.NAMES.GOATMILK"
 msgid "Electric Milk"
-msgstr ""
+msgstr "带 电 的 奶 "
 
 #. STRINGS.NAMES.WALL_RUINS_ITEM
 msgctxt "STRINGS.NAMES.WALL_RUINS_ITEM"
 msgid "Thulecite Wall"
-msgstr ""
+msgstr "铥 矿 墙 "
 
 #. STRINGS.NAMES.WATERMELONHAT
 msgctxt "STRINGS.NAMES.WATERMELONHAT"
 msgid "Fashion Melon"
-msgstr ""
+msgstr "西 瓜 帽 "
 
 #. STRINGS.NAMES.KRAMPUS
 msgctxt "STRINGS.NAMES.KRAMPUS"
 msgid "Krampus"
-msgstr ""
+msgstr "坎 卜 斯 "
 
 #. STRINGS.NAMES.RATATOUILLE
 msgctxt "STRINGS.NAMES.RATATOUILLE"
 msgid "Ratatouille"
-msgstr ""
+msgstr "蔬 菜 烂 炖 "
 
 #. STRINGS.NAMES.PIGHOUSE
 msgctxt "STRINGS.NAMES.PIGHOUSE"
 msgid "Pig House"
-msgstr ""
+msgstr "猪 人 房 "
 
 #. STRINGS.NAMES.BEARGERVEST
 msgctxt "STRINGS.NAMES.BEARGERVEST"
 msgid "Hibearnation Vest"
-msgstr ""
+msgstr "熊 皮 背 心 "
 
 #. STRINGS.NAMES.ROCK_ICE_MELTED
 msgctxt "STRINGS.NAMES.ROCK_ICE_MELTED"
 msgid "Melted Mini Glacier"
-msgstr ""
+msgstr "融 化 的 迷 你 冰 川 "
 
 #. STRINGS.NAMES.KNIGHT_NIGHTMARE
 msgctxt "STRINGS.NAMES.KNIGHT_NIGHTMARE"
 msgid "Damaged Knight"
-msgstr ""
+msgstr "被 毁 的 骑 士 "
 
 #. STRINGS.NAMES.TURF_MUD
 msgctxt "STRINGS.NAMES.TURF_MUD"
 msgid "Mud Turf"
-msgstr ""
+msgstr "泥 泞 草 皮 "
 
 #. STRINGS.NAMES.ACORN_COOKED
 msgctxt "STRINGS.NAMES.ACORN_COOKED"
 msgid "Roasted Birchnut"
-msgstr ""
+msgstr "烤 坚 果 "
 
 #. STRINGS.NAMES.FIRESUPPRESSOR
 msgctxt "STRINGS.NAMES.FIRESUPPRESSOR"
 msgid "Ice Flingomatic"
-msgstr ""
+msgstr "冰 火 堆 "
 
 #. STRINGS.NAMES.FERTILIZER
 msgctxt "STRINGS.NAMES.FERTILIZER"
 msgid "Bucket-o-poop"
-msgstr ""
+msgstr "粪 便 桶 "
 
 #. STRINGS.NAMES.FROGLEGS
 msgctxt "STRINGS.NAMES.FROGLEGS"
 msgid "Frog Legs"
-msgstr ""
+msgstr "蛙 腿 "
 
 #. STRINGS.NAMES.SMALLMEAT
 msgctxt "STRINGS.NAMES.SMALLMEAT"
 msgid "Morsel"
-msgstr ""
+msgstr "肉 块 "
 
 #. STRINGS.NAMES.WILSON
 msgctxt "STRINGS.NAMES.WILSON"
 msgid "Wilson"
-msgstr ""
+msgstr "威 尔 逊 "
 
 #. STRINGS.NAMES.MOLEHILL
 msgctxt "STRINGS.NAMES.MOLEHILL"
 msgid "Burrow"
-msgstr ""
+msgstr "地 洞 "
 
 #. STRINGS.NAMES.CARROT_PLANTED
 msgctxt "STRINGS.NAMES.CARROT_PLANTED"
 msgid "Carrot"
-msgstr ""
+msgstr "胡 萝 卜 "
 
 #. STRINGS.NAMES.THULECITE_PIECES
 msgctxt "STRINGS.NAMES.THULECITE_PIECES"
 msgid "Thulecite Fragments"
-msgstr ""
+msgstr "铥 矿 石 碎 片 "
 
 #. STRINGS.NAMES.MOLE_ABOVEGROUND
 msgctxt "STRINGS.NAMES.MOLE_ABOVEGROUND"
 msgid "Moleworm"
-msgstr ""
+msgstr "地 鼠 "
 
 #. STRINGS.NAMES.WILLOW
 msgctxt "STRINGS.NAMES.WILLOW"
 msgid "Willow"
-msgstr ""
+msgstr "薇 洛 "
 
 #. STRINGS.NAMES.NIGHTMAREBEAK
 msgctxt "STRINGS.NAMES.NIGHTMAREBEAK"
 msgid "Nightmarebeak"
-msgstr ""
+msgstr "噩 梦 尖 嘴 鸟 "
 
 #. STRINGS.NAMES.ROBIN
 msgctxt "STRINGS.NAMES.ROBIN"
 msgid "Redbird"
-msgstr ""
+msgstr "红 鸟 "
 
 #. STRINGS.NAMES.RESEARCHLAB2
 msgctxt "STRINGS.NAMES.RESEARCHLAB2"
 msgid "Alchemy Engine"
-msgstr ""
+msgstr "炼 金 引 擎 "
 
 #. STRINGS.NAMES.WOLFGANG
 msgctxt "STRINGS.NAMES.WOLFGANG"
 msgid "Wolfgang"
-msgstr ""
+msgstr "沃 尔 夫 冈 "
 
 #. STRINGS.NAMES.GUACAMOLE
 msgctxt "STRINGS.NAMES.GUACAMOLE"
 msgid "Guacamole"
-msgstr ""
+msgstr "地 鼠 肉 "
 
 #. STRINGS.NAMES.MOLEHAT
 msgctxt "STRINGS.NAMES.MOLEHAT"
 msgid "Moggles"
-msgstr ""
+msgstr "地 鼠 皮 帽 "
 
 #. STRINGS.NAMES.LIVINGLOG
 msgctxt "STRINGS.NAMES.LIVINGLOG"
 msgid "Living Log"
-msgstr ""
+msgstr "活 木 头 "
 
 #. STRINGS.NAMES.GLOMMERWINGS
 msgctxt "STRINGS.NAMES.GLOMMERWINGS"
 msgid "Glommer's Wings"
-msgstr ""
+msgstr "格 罗 姆 的 翅 膀 "
 
 #. STRINGS.NAMES.BALLOONS_EMPTY
 msgctxt "STRINGS.NAMES.BALLOONS_EMPTY"
 msgid "Pile o' Balloons"
-msgstr ""
+msgstr "气 球 堆 "
 
 #. STRINGS.NAMES.MARSH_BUSH
 msgctxt "STRINGS.NAMES.MARSH_BUSH"
 msgid "Spiky Bush"
-msgstr ""
+msgstr "尖 刺 灌 木 "
 
 #. STRINGS.NAMES.ICEHAT
 msgctxt "STRINGS.NAMES.ICEHAT"
 msgid "Ice Cube"
-msgstr ""
+msgstr "冰 块 "
 
 #. STRINGS.NAMES.GRASS_UMBRELLA
 msgctxt "STRINGS.NAMES.GRASS_UMBRELLA"
 msgid "Pretty Parasol"
-msgstr ""
+msgstr "漂 亮 的 太 阳 伞 "
 
 #. STRINGS.NAMES.RAINHAT
 msgctxt "STRINGS.NAMES.RAINHAT"
 msgid "Rain Hat"
-msgstr ""
+msgstr "雨 帽 "
 
 #. STRINGS.NAMES.WORMLIGHT
 msgctxt "STRINGS.NAMES.WORMLIGHT"
 msgid "Glow Berry"
-msgstr ""
+msgstr "炽 热 浆 果 "
 
 #. STRINGS.NAMES.BANDAGE
 msgctxt "STRINGS.NAMES.BANDAGE"
 msgid "Honey Poultice"
-msgstr ""
+msgstr "蜂 蜜 膏 "
 
 #. STRINGS.NAMES.LIGHTNINGGOAT
 msgctxt "STRINGS.NAMES.LIGHTNINGGOAT"
 msgid "Volt Goat"
-msgstr ""
+msgstr "伏 特 山 羊 "
 
 #. STRINGS.NAMES.TRINKET_12
 msgctxt "STRINGS.NAMES.TRINKET_12"
 msgid "Dessicated Tentacle"
-msgstr ""
+msgstr "干燥触手怪"
 
 #. STRINGS.NAMES.CACTUS_FLOWER
 msgctxt "STRINGS.NAMES.CACTUS_FLOWER"
 msgid "Cactus Flower"
-msgstr ""
+msgstr "仙 人 掌 花 "
 
 #. STRINGS.NAMES.CACTUS_MEAT
 msgctxt "STRINGS.NAMES.CACTUS_MEAT"
 msgid "Cactus Flesh"
-msgstr ""
+msgstr "仙 人 掌 肉 "
 
 #. STRINGS.NAMES.PIGHEAD
 msgctxt "STRINGS.NAMES.PIGHEAD"
 msgid "Pig Head"
-msgstr ""
+msgstr "猪 人 头 颅 "
 
 #. STRINGS.NAMES.DEFAULT
 msgctxt "STRINGS.NAMES.DEFAULT"
 msgid "INVENTORY ITEM"
-msgstr ""
+msgstr "物 品 栏 "
 
 #. STRINGS.NAMES.STATUEGLOMMER
 msgctxt "STRINGS.NAMES.STATUEGLOMMER"
 msgid "Glommer's Statue"
-msgstr ""
+msgstr "格 罗 姆 雕 像 "
 
 #. STRINGS.NAMES.MARSH_PLANT
 msgctxt "STRINGS.NAMES.MARSH_PLANT"
 msgid "Plant"
-msgstr ""
+msgstr "植 物 "
 
 #. STRINGS.NAMES.DEERCLOPS_EYEBALL
 msgctxt "STRINGS.NAMES.DEERCLOPS_EYEBALL"
 msgid "Deerclops Eyeball"
-msgstr ""
+msgstr "独 眼 巨 鹿 眼 球 "
 
 #. STRINGS.NAMES.ACORN
 msgctxt "STRINGS.NAMES.ACORN"
 msgid "Birchnut"
-msgstr ""
+msgstr "坚 果 "
 
 #. STRINGS.NAMES.DECIDUOUS_ROOT
 msgctxt "STRINGS.NAMES.DECIDUOUS_ROOT"
 msgid "Birchnut Tree"
-msgstr ""
+msgstr "坚 果 树 "
 
 #. STRINGS.NAMES.BIRCHNUTDRAKE
 msgctxt "STRINGS.NAMES.BIRCHNUTDRAKE"
 msgid "Birchnutter"
-msgstr ""
+msgstr "坚 果 精 "
 
 #. STRINGS.NAMES.TURF_UNDERROCK
 msgctxt "STRINGS.NAMES.TURF_UNDERROCK"
 msgid "Cave Rock Turf"
-msgstr ""
+msgstr "洞 穴 岩 石 草 皮 "
 
 #. STRINGS.NAMES.MOSSLING
 msgctxt "STRINGS.NAMES.MOSSLING"
 msgid "Mosling"
-msgstr ""
+msgstr "小 鹅 "
 
 #. STRINGS.NAMES.MOOSENEST2
 msgctxt "STRINGS.NAMES.MOOSENEST2"
 msgid "Goose Nest"
-msgstr ""
+msgstr "鹅 巢 穴 "
 
 #. STRINGS.NAMES.PANFLUTE
 msgctxt "STRINGS.NAMES.PANFLUTE"
 msgid "Pan Flute"
-msgstr ""
+msgstr "排 箫 "
 
 #. STRINGS.NAMES.TRINKET_5
 msgctxt "STRINGS.NAMES.TRINKET_5"
 msgid "Tiny Rocketship"
-msgstr ""
+msgstr "小 型 火 箭 飞 船 "
 
 #. STRINGS.NAMES.MOOSE2
 msgctxt "STRINGS.NAMES.MOOSE2"
 msgid "Goose"
-msgstr ""
+msgstr "鹅 "
 
 #. STRINGS.NAMES.SUNKEN_BOAT_TRINKET_3
 msgctxt "STRINGS.NAMES.SUNKEN_BOAT_TRINKET_3"
 msgid "Soaked Candle"
-msgstr ""
+msgstr "浸 湿 的 蜡 烛 "
 
 #. STRINGS.NAMES.WALL_HAY
 msgctxt "STRINGS.NAMES.WALL_HAY"
 msgid "Hay Wall"
-msgstr ""
+msgstr "干 草 墙 "
 
 #. STRINGS.NAMES.MOOSE1
 msgctxt "STRINGS.NAMES.MOOSE1"
 msgid "Moose"
-msgstr ""
+msgstr "驼 鹿 " 
 
 #. STRINGS.NAMES.LANTERN
 msgctxt "STRINGS.NAMES.LANTERN"
 msgid "Lantern"
-msgstr ""
+msgstr "灯 "
 
 #. STRINGS.NAMES.TRINKET_9
 msgctxt "STRINGS.NAMES.TRINKET_9"
 msgid "Mismatched Buttons"
-msgstr ""
+msgstr "按 键 不 匹 配 "
 
 #. STRINGS.NAMES.SPEAR_WATHGRITHR
 msgctxt "STRINGS.NAMES.SPEAR_WATHGRITHR"
 msgid "Battle Spear"
-msgstr ""
+msgstr "战 矛 "
 
 #. STRINGS.NAMES.ROPE
 msgctxt "STRINGS.NAMES.ROPE"
 msgid "Rope"
-msgstr ""
+msgstr "绳 子 "
 
 #. STRINGS.NAMES.DEVTOOL
 msgctxt "STRINGS.NAMES.DEVTOOL"
 msgid "Dev Tool"
-msgstr ""
+msgstr "开 发 工 具 "
 
 #. STRINGS.NAMES.SLURPER_PELT
 msgctxt "STRINGS.NAMES.SLURPER_PELT"
 msgid "Slurper Pelt"
-msgstr ""
+msgstr "缀 食 者 之 皮 "
 
 #. STRINGS.NAMES.EEL
 msgctxt "STRINGS.NAMES.EEL"
 msgid "Eel"
-msgstr ""
+msgstr "鳗 鱼 "
 
 #. STRINGS.NAMES.WATER
 msgctxt "STRINGS.NAMES.WATER"
 msgid "Short Circuit"
-msgstr ""
+msgstr "短 路 "
 
 #. STRINGS.NAMES.BEEMINE_MAXWELL
 msgctxt "STRINGS.NAMES.BEEMINE_MAXWELL"
 msgid "Maxwell's Mosquito Trap"
-msgstr ""
+msgstr "麦 克 斯 韦 的 蚊 子 陷 阱 "
 
 #. STRINGS.NAMES.BEARGER_FUR
 msgctxt "STRINGS.NAMES.BEARGER_FUR"
 msgid "Thick Fur"
-msgstr ""
+msgstr "厚 皮 毛 "
 
 #. STRINGS.NAMES.BABYBEEFALO
 msgctxt "STRINGS.NAMES.BABYBEEFALO"
 msgid "Baby Beefalo"
-msgstr ""
+msgstr "牛 宝 宝 "
 
 #. STRINGS.NAMES.RESURRECTION_PENALTY
 msgctxt "STRINGS.NAMES.RESURRECTION_PENALTY"
 msgid "Resurrection Sickness"
-msgstr ""
+msgstr "恢 复 健 康 "
 
 #. STRINGS.NAMES.MARBLEPILLAR
 msgctxt "STRINGS.NAMES.MARBLEPILLAR"
 msgid "Marble Pillar"
-msgstr ""
+msgstr "大 理 石 柱 "
 
 #. STRINGS.NAMES.POND_CAVE
 msgctxt "STRINGS.NAMES.POND_CAVE"
 msgid "Pond"
-msgstr ""
+msgstr "池 塘 "
 
 #. STRINGS.NAMES.SHENANIGANS
 msgctxt "STRINGS.NAMES.SHENANIGANS"
 msgid "Shenanigans"
-msgstr ""
+msgstr "恶 作 剧 "
 
 #. STRINGS.NAMES.HOT
 msgctxt "STRINGS.NAMES.HOT"
 msgid "Overheating"
-msgstr ""
+msgstr "过 热 "
 
 #. STRINGS.NAMES.COLD
 msgctxt "STRINGS.NAMES.COLD"
 msgid "Freezing"
-msgstr ""
+msgstr "手 脚 冰 凉 "
 
 #. STRINGS.NAMES.HUNGER
 msgctxt "STRINGS.NAMES.HUNGER"
 msgid "Starvation"
-msgstr ""
+msgstr "饥 肠 辘 辘 "
 
 #. STRINGS.NAMES.CHARLIE
 msgctxt "STRINGS.NAMES.CHARLIE"
 msgid "Charlie"
-msgstr ""
+msgstr "查 理 "
 
 #. STRINGS.NAMES.WALL_WOOD_ITEM
 msgctxt "STRINGS.NAMES.WALL_WOOD_ITEM"
 msgid "Wood Wall"
-msgstr ""
+msgstr "木 墙 "
 
 #. STRINGS.NAMES.MOSQUITOSACK
 msgctxt "STRINGS.NAMES.MOSQUITOSACK"
 msgid "Mosquito Sack"
-msgstr ""
+msgstr "蚊 子 血 袋 "
 
 #. STRINGS.NAMES.WORM
 msgctxt "STRINGS.NAMES.WORM"
 msgid "Depths Worm"
-msgstr ""
+msgstr "洞 穴 蠕 虫 "
 
 #. STRINGS.NAMES.BLUE_CAP_COOKED
 msgctxt "STRINGS.NAMES.BLUE_CAP_COOKED"
 msgid "Cooked Blue Cap"
-msgstr ""
+msgstr "熟 蓝 蘑 菇 头 "
 
 #. STRINGS.NAMES.LUCY
 msgctxt "STRINGS.NAMES.LUCY"
 msgid "Lucy the Axe"
-msgstr ""
+msgstr "露 西 斧 "
 
 #. STRINGS.NAMES.PEROGIES
 msgctxt "STRINGS.NAMES.PEROGIES"
 msgid "Pierogi"
-msgstr ""
+msgstr "半 圆 小 酥 饼 "
 
 #. STRINGS.NAMES.FROGGLEBUNWICH
 msgctxt "STRINGS.NAMES.FROGGLEBUNWICH"
 msgid "Froggle Bunwich"
-msgstr ""
+msgstr "青 蛙 圆 面 包 三 明 治 "
 
 #. STRINGS.NAMES.HONEYHAM
 msgctxt "STRINGS.NAMES.HONEYHAM"
 msgid "Honey Ham"
-msgstr ""
+msgstr "蜂 蜜 火 腿 "
 
 #. STRINGS.NAMES.WORM_PLANT
 msgctxt "STRINGS.NAMES.WORM_PLANT"
 msgid "Mysterious Plant"
-msgstr ""
+msgstr "谜 之 植 物 "
 
 #. STRINGS.NAMES.ARMORSLURPER
 msgctxt "STRINGS.NAMES.ARMORSLURPER"
 msgid "Belt of Hunger"
-msgstr ""
+msgstr "饥 饿 腰 带 "
 
 #. STRINGS.NAMES.DRAGON_SCALES
 msgctxt "STRINGS.NAMES.DRAGON_SCALES"
 msgid "Scales"
-msgstr ""
+msgstr "鳞 片 "
 
 #. STRINGS.NAMES.MAXWELL
 msgctxt "STRINGS.NAMES.MAXWELL"
 msgid "Maxwell"
-msgstr ""
+msgstr "麦 克 斯 韦 "
 
 #. STRINGS.NAMES.POND_ALGAE
 msgctxt "STRINGS.NAMES.POND_ALGAE"
 msgid "Algae"
-msgstr ""
+msgstr "水 藻 "
 
 #. STRINGS.NAMES.TENTACLESPOTS
 msgctxt "STRINGS.NAMES.TENTACLESPOTS"
 msgid "Tentacle Spots"
-msgstr ""
+msgstr "触 手 怪 斑 点 "
 
 #. STRINGS.NAMES.PUMPKIN_SEEDS
 msgctxt "STRINGS.NAMES.PUMPKIN_SEEDS"
 msgid "Pumpkin Seeds"
-msgstr ""
+msgstr "南 瓜 种 子 "
 
 #. STRINGS.NAMES.EVERGREEN
 msgctxt "STRINGS.NAMES.EVERGREEN"
 msgid "Evergreen"
-msgstr ""
+msgstr "常 青 树 "
 
 #. STRINGS.NAMES.SKULLCHEST
 msgctxt "STRINGS.NAMES.SKULLCHEST"
 msgid "Skullchest"
-msgstr ""
+msgstr "骷 髅 箱 "
 
 #. STRINGS.NAMES.EYETURRET_ITEM
 msgctxt "STRINGS.NAMES.EYETURRET_ITEM"
 msgid "Houndius Shootius"
-msgstr ""
+msgstr "炮 台 "
 
 #. STRINGS.NAMES.SUNKEN_BOAT_TRINKET_4
 msgctxt "STRINGS.NAMES.SUNKEN_BOAT_TRINKET_4"
 msgid "Sea Worther"
-msgstr ""
+msgstr "海 洋 财 富 "
 
 #. STRINGS.NAMES.UNAGI
 msgctxt "STRINGS.NAMES.UNAGI"
 msgid "Unagi"
-msgstr ""
+msgstr "鳗 鱼 寿 司 "
 
 #. STRINGS.NAMES.TUMBLEWEED
 msgctxt "STRINGS.NAMES.TUMBLEWEED"
 msgid "Tumbleweed"
-msgstr ""
+msgstr "滚 草 "
 
 #. STRINGS.NAMES.SPIDER_DROPPER
 msgctxt "STRINGS.NAMES.SPIDER_DROPPER"
 msgid "Dangling Depth Dweller"
-msgstr ""
+msgstr "穴 居 悬 蛛 "
 
 #. STRINGS.NAMES.PIGTORCH
 msgctxt "STRINGS.NAMES.PIGTORCH"
 msgid "Pig Torch"
-msgstr ""
+msgstr "猪 人 火 把 "
 
 #. STRINGS.NAMES.GREENAMULET
 msgctxt "STRINGS.NAMES.GREENAMULET"
 msgid "Construction Amulet"
-msgstr ""
+msgstr "建 造 护 符 "
 
 #. STRINGS.NAMES.ROOK_NIGHTMARE
 msgctxt "STRINGS.NAMES.ROOK_NIGHTMARE"
 msgid "Damaged Rook"
-msgstr ""
+msgstr "被 毁 的 战 车 "
 
 #. STRINGS.NAMES.DUG_BERRYBUSH
 msgctxt "STRINGS.NAMES.DUG_BERRYBUSH"
 msgid "Berry Bush"
-msgstr ""
+msgstr "浆 果 灌 木 "
 
 #. STRINGS.NAMES.TURKEYDINNER
 msgctxt "STRINGS.NAMES.TURKEYDINNER"
 msgid "Turkey Dinner"
-msgstr ""
+msgstr "火 鸡 晚 宴 "
 
 #. STRINGS.NAMES.BISHOP_NIGHTMARE
 msgctxt "STRINGS.NAMES.BISHOP_NIGHTMARE"
 msgid "Damaged Bishop"
-msgstr ""
+msgstr "被 毁 的 主 教 "
 
 #. STRINGS.NAMES.NIGHTMARE_TIMEPIECE
 msgctxt "STRINGS.NAMES.NIGHTMARE_TIMEPIECE"
 msgid "Thulecite Medallion"
-msgstr ""
+msgstr "铥 矿 奖 章 "
 
 #. STRINGS.NAMES.PAPYRUS
 msgctxt "STRINGS.NAMES.PAPYRUS"
 msgid "Papyrus"
-msgstr ""
+msgstr "莎 草 纸 "
 
 #. STRINGS.NAMES.RUINS_BAT
 msgctxt "STRINGS.NAMES.RUINS_BAT"
 msgid "Thulecite Club"
-msgstr ""
+msgstr "铥 矿 俱 乐 部 "
 
 #. STRINGS.NAMES.PICKAXE
 msgctxt "STRINGS.NAMES.PICKAXE"
 msgid "Pickaxe"
-msgstr ""
+msgstr "镐 子 "
 
 #. STRINGS.NAMES.ORANGEAMULET
 msgctxt "STRINGS.NAMES.ORANGEAMULET"
 msgid "The Lazy Forager"
-msgstr ""
+msgstr "懒 惰 强 盗 "
 
 #. STRINGS.NAMES.LOCKEDWES
 msgctxt "STRINGS.NAMES.LOCKEDWES"
 msgid "Wes"
-msgstr ""
+msgstr "韦 斯 "
 
 #. STRINGS.NAMES.FIREHOUND
 msgctxt "STRINGS.NAMES.FIREHOUND"
 msgid "Red Hound"
-msgstr ""
+msgstr "火 焰 猎 犬 "
 
 #. STRINGS.NAMES.GUNPOWDER
 msgctxt "STRINGS.NAMES.GUNPOWDER"
 msgid "Gunpowder"
-msgstr ""
+msgstr "火 药 "
 
 #. STRINGS.NAMES.FLOWER_CAVE_DOUBLE
 msgctxt "STRINGS.NAMES.FLOWER_CAVE_DOUBLE"
 msgid "Light Flower"
-msgstr ""
+msgstr "荧 光 花 "
 
 #. STRINGS.NAMES.SLURPER
 msgctxt "STRINGS.NAMES.SLURPER"
 msgid "Slurper"
-msgstr ""
+msgstr "缀 食 者 "
 
 #. STRINGS.NAMES.CARROT_SEEDS
 msgctxt "STRINGS.NAMES.CARROT_SEEDS"
 msgid "Carrot Seeds"
-msgstr ""
+msgstr "胡 萝 卜 种 子 "
 
 #. STRINGS.NAMES.HAWAIIANSHIRT
 msgctxt "STRINGS.NAMES.HAWAIIANSHIRT"
 msgid "Floral Shirt"
-msgstr ""
+msgstr "花 式 衬 衫 "
 
 #. STRINGS.NAMES.CAVE_BANANA_COOKED
 msgctxt "STRINGS.NAMES.CAVE_BANANA_COOKED"
 msgid "Cooked Banana"
-msgstr ""
+msgstr "熟 香 蕉 "
 
 #. STRINGS.NAMES.CAVE_BANANA
 msgctxt "STRINGS.NAMES.CAVE_BANANA"
 msgid "Cave Banana"
-msgstr ""
+msgstr "洞 穴 香 蕉 "
 
 #. STRINGS.NAMES.NIGHTSTICK
 msgctxt "STRINGS.NAMES.NIGHTSTICK"
 msgid "Morning Star"
-msgstr ""
+msgstr "启 明 星 "
 
 #. STRINGS.NAMES.MAGIC_BLUEPRINT
 msgctxt "STRINGS.NAMES.MAGIC_BLUEPRINT"
 msgid "Blank Blueprint"
-msgstr ""
+msgstr "空 白 蓝 图 "
 
 #. STRINGS.NAMES.FLOWERHAT
 msgctxt "STRINGS.NAMES.FLOWERHAT"
 msgid "Garland"
-msgstr ""
+msgstr "花 环 "
 
 #. STRINGS.NAMES.BATBAT
 msgctxt "STRINGS.NAMES.BATBAT"
 msgid "Bat Bat"
-msgstr ""
+msgstr "蝙 蝠 棍 "
 
 #. STRINGS.NAMES.TELEPORTATO_POTATO
 msgctxt "STRINGS.NAMES.TELEPORTATO_POTATO"
 msgid "Metal potato thing"
-msgstr ""
+msgstr "球 状 传 送 机 零 件 "
 
 #. STRINGS.NAMES.EYEPLANT
 msgctxt "STRINGS.NAMES.EYEPLANT"
 msgid "Eye Plant"
-msgstr ""
+msgstr "小 食 人 花 "
 
 #. STRINGS.NAMES.SPIDERHOLE
 msgctxt "STRINGS.NAMES.SPIDERHOLE"
 msgid "Spilagmite"
-msgstr ""
+msgstr "洞 穴 蜘 蛛 巢 "
 
 #. STRINGS.NAMES.ANCIENT_ALTAR
 msgctxt "STRINGS.NAMES.ANCIENT_ALTAR"
 msgid "Ancient Pseudoscience Station"
-msgstr ""
+msgstr "远 古 伪 科 学 站 "
 
 #. STRINGS.NAMES.STAFFLIGHT
 msgctxt "STRINGS.NAMES.STAFFLIGHT"
 msgid "Dwarf Star"
-msgstr ""
+msgstr "矮 星 "
 
 #. STRINGS.NAMES.MARBLETREE
 msgctxt "STRINGS.NAMES.MARBLETREE"
 msgid "Marble Tree"
-msgstr ""
+msgstr "大 理 石 树 "
 
 #. STRINGS.NAMES.FLOWER_CAVE
 msgctxt "STRINGS.NAMES.FLOWER_CAVE"
 msgid "Light Flower"
-msgstr ""
+msgstr "荧 光 花 "
 
 #. STRINGS.NAMES.POWCAKE
 msgctxt "STRINGS.NAMES.POWCAKE"
 msgid "Powdercake"
-msgstr ""
+msgstr "粉 糕 "
 
 #. STRINGS.NAMES.LIGHTNING
 msgctxt "STRINGS.NAMES.LIGHTNING"
 msgid "Lightning"
-msgstr ""
+msgstr "闪 电 "
 
 #. STRINGS.NAMES.BATWING_COOKED
 msgctxt "STRINGS.NAMES.BATWING_COOKED"
 msgid "Cooked Batilisk Wing"
-msgstr ""
+msgstr "熟 洞 穴 蝙 蝠 翅 "
 
 #. STRINGS.NAMES.TENTACLE
 msgctxt "STRINGS.NAMES.TENTACLE"
 msgid "Tentacle"
-msgstr ""
+msgstr "触 手 怪 "
 
 #. STRINGS.NAMES.ICE
 msgctxt "STRINGS.NAMES.ICE"
 msgid "Ice"
-msgstr ""
+msgstr "冰 "
 
 #. STRINGS.NAMES.BEEHIVE
 msgctxt "STRINGS.NAMES.BEEHIVE"
 msgid "Beehive"
-msgstr ""
+msgstr "蜂 窝 "
 
 #. STRINGS.NAMES.ARMORGRASS
 msgctxt "STRINGS.NAMES.ARMORGRASS"
 msgid "Grass Suit"
-msgstr ""
+msgstr "草 制 盔 甲 "
 
 #. STRINGS.NAMES.CAVE_FERN
 msgctxt "STRINGS.NAMES.CAVE_FERN"
 msgid "Fern"
-msgstr ""
+msgstr "蕨 类 植 物 "
 
 #. STRINGS.NAMES.SLURTLE_SHELLPIECES
 msgctxt "STRINGS.NAMES.SLURTLE_SHELLPIECES"
 msgid "Broken Shell"
-msgstr ""
+msgstr "坏 掉 的 壳 "
 
 #. STRINGS.NAMES.PLANTMEAT_COOKED
 msgctxt "STRINGS.NAMES.PLANTMEAT_COOKED"
 msgid "Cooked Leafy Meat"
-msgstr ""
+msgstr "熟 多 叶 肉 "
 
 #. STRINGS.NAMES.SLURTLEHAT
 msgctxt "STRINGS.NAMES.SLURTLEHAT"
 msgid "Shelmet"
-msgstr ""
+msgstr "壳 盔"
 
 #. STRINGS.NAMES.SLURTLESLIME
 msgctxt "STRINGS.NAMES.SLURTLESLIME"
 msgid "Slurtle Slime"
-msgstr ""
+msgstr "蜗 牛 粘 液 "
 
 #. STRINGS.NAMES.TELEPORTATO_CRANK
 msgctxt "STRINGS.NAMES.TELEPORTATO_CRANK"
 msgid "Crank thing"
-msgstr ""
+msgstr "曲 柄 状 传 送 机 零 件 "
 
 #. STRINGS.NAMES.PIGGYBACK
 msgctxt "STRINGS.NAMES.PIGGYBACK"
 msgid "Piggyback"
-msgstr ""
+msgstr "猪 人 背 包 "
 
 #. STRINGS.NAMES.DIVININGRODSTART
 msgctxt "STRINGS.NAMES.DIVININGRODSTART"
 msgid "Divining Rod Holder"
-msgstr ""
+msgstr "持 探 矿 魔 杖 者 "
 
 #. STRINGS.NAMES.CHESTER
 msgctxt "STRINGS.NAMES.CHESTER"
 msgid "Chester"
-msgstr ""
+msgstr "切斯特"
 
 #. STRINGS.NAMES.GUANO
 msgctxt "STRINGS.NAMES.GUANO"
@@ -3449,12 +3449,12 @@ msgstr ""
 #. STRINGS.NAMES.BISHOP
 msgctxt "STRINGS.NAMES.BISHOP"
 msgid "Clockwork Bishop"
-msgstr ""
+msgstr "发条主教"
 
 #. STRINGS.NAMES.MERMHEAD
 msgctxt "STRINGS.NAMES.MERMHEAD"
 msgid "Merm Head"
-msgstr ""
+msgstr "蛙人头"
 
 #. STRINGS.NAMES.HOUNDBONE
 msgctxt "STRINGS.NAMES.HOUNDBONE"
@@ -3569,7 +3569,7 @@ msgstr ""
 #. STRINGS.NAMES.PERD
 msgctxt "STRINGS.NAMES.PERD"
 msgid "Gobbler"
-msgstr ""
+msgstr "火鸡"
 
 #. STRINGS.NAMES.STRAWHAT
 msgctxt "STRINGS.NAMES.STRAWHAT"
@@ -3654,7 +3654,7 @@ msgstr ""
 #. STRINGS.NAMES.KOALEFANT_WINTER
 msgctxt "STRINGS.NAMES.KOALEFANT_WINTER"
 msgid "Koalefant"
-msgstr ""
+msgstr "冬象"
 
 #. STRINGS.NAMES.WATERMELONICLE
 msgctxt "STRINGS.NAMES.WATERMELONICLE"
@@ -3744,12 +3744,12 @@ msgstr ""
 #. STRINGS.NAMES.LEIF_SPARSE
 msgctxt "STRINGS.NAMES.LEIF_SPARSE"
 msgid "Treeguard"
-msgstr ""
+msgstr "树人"
 
 #. STRINGS.NAMES.LEIF
 msgctxt "STRINGS.NAMES.LEIF"
 msgid "Treeguard"
-msgstr ""
+msgstr "树人"
 
 #. STRINGS.NAMES.MOLE
 msgctxt "STRINGS.NAMES.MOLE"
@@ -3819,7 +3819,7 @@ msgstr ""
 #. STRINGS.NAMES.ICEHOUND
 msgctxt "STRINGS.NAMES.ICEHOUND"
 msgid "Blue Hound"
-msgstr ""
+msgstr "冰猎犬"
 
 #. STRINGS.NAMES.TELEPORTATO_BASE
 msgctxt "STRINGS.NAMES.TELEPORTATO_BASE"
@@ -3854,7 +3854,7 @@ msgstr ""
 #. STRINGS.NAMES.TALLBIRDEGG_CRACKED
 msgctxt "STRINGS.NAMES.TALLBIRDEGG_CRACKED"
 msgid "Hatching Tallbird Egg"
-msgstr ""
+msgstr "孵化高脚鸟蛋"
 
 #. STRINGS.NAMES.BACKPACK
 msgctxt "STRINGS.NAMES.BACKPACK"
@@ -3869,7 +3869,7 @@ msgstr ""
 #. STRINGS.NAMES.TALLBIRDEGG
 msgctxt "STRINGS.NAMES.TALLBIRDEGG"
 msgid "Tallbird Egg"
-msgstr ""
+msgstr "高脚鸟蛋"
 
 #. STRINGS.NAMES.BUTTERFLYWINGS
 msgctxt "STRINGS.NAMES.BUTTERFLYWINGS"
@@ -3894,12 +3894,12 @@ msgstr ""
 #. STRINGS.NAMES.SPIDER_SPITTER
 msgctxt "STRINGS.NAMES.SPIDER_SPITTER"
 msgid "Spitter"
-msgstr ""
+msgstr "吐痰蜘蛛"
 
 #. STRINGS.NAMES.BEE
 msgctxt "STRINGS.NAMES.BEE"
 msgid "Bee"
-msgstr ""
+msgstr "蜜 蜂 "
 
 #. STRINGS.NAMES.CHESTER_EYEBONE
 msgctxt "STRINGS.NAMES.CHESTER_EYEBONE"
@@ -3989,7 +3989,7 @@ msgstr ""
 #. STRINGS.NAMES.CRAWLINGHORROR
 msgctxt "STRINGS.NAMES.CRAWLINGHORROR"
 msgid "Crawling Horror"
-msgstr ""
+msgstr "恐惧爬行兽"
 
 #. STRINGS.NAMES.DRAGONFLYCHEST
 msgctxt "STRINGS.NAMES.DRAGONFLYCHEST"
@@ -4029,7 +4029,7 @@ msgstr ""
 #. STRINGS.NAMES.BEEFALO
 msgctxt "STRINGS.NAMES.BEEFALO"
 msgid "Beefalo"
-msgstr ""
+msgstr "大牛"
 
 #. STRINGS.NAMES.RED_CAP_COOKED
 msgctxt "STRINGS.NAMES.RED_CAP_COOKED"
@@ -4099,7 +4099,7 @@ msgstr ""
 #. STRINGS.NAMES.HOUND
 msgctxt "STRINGS.NAMES.HOUND"
 msgid "Hound"
-msgstr ""
+msgstr "猎犬"
 
 #. STRINGS.NAMES.TORCH
 msgctxt "STRINGS.NAMES.TORCH"
@@ -5129,7 +5129,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.FEATHER_ROBIN_WINTER
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.FEATHER_ROBIN_WINTER"
 msgid "A snowbird feather."
-msgstr ""
+msgstr "雪 鸟 羽 毛 "
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_MARSH
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.TURF_MARSH"
@@ -11819,7 +11819,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.FEATHER_ROBIN_WINTER
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.FEATHER_ROBIN_WINTER"
 msgid "A snowbird feather, white like the light at the end of the tunnel."
-msgstr ""
+msgstr "雪鸟羽毛，黑洞尽头的明灯一样白。"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_MARSH
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.TURF_MARSH"
@@ -27364,7 +27364,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.FEATHER_ROBIN_WINTER
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.FEATHER_ROBIN_WINTER"
 msgid "Snowbird feather. It probably smells terrible on fire."
-msgstr ""
+msgstr "雪鸟羽毛，烧起来可能很难闻。"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.FEATHERHAT
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.FEATHERHAT"
